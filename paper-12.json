@@ -798,5 +798,805 @@
 "All of the above."
 ],
 "a": 3
+},
+{
+"q": "Contribution margin in marginal costing is also known as:",
+"o": [
+"Net income",
+"Gross profit",
+"Marginal income",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "What is the opportunity cost of making a component part in a factory given no alternative use of the capacity?",
+"o": [
+"The variable manufacturing cost of the component",
+"The total manufacturing cost of the component",
+"The total variable cost of the component",
+"Zero"
+],
+"a": 3
+},
+{
+"q": "The difference in total cost that results from two alternative courses of action is called:",
+"o": [
+"Relevant Cost",
+"Opportunity Cost",
+"Differential Cost",
+"Marginal Cost"
+],
+"a": 2
+},
+{
+"q": "Relevant costs are:",
+"o": [
+"unavoidable, future and measured by cash",
+"avoidable, future and measured by cash",
+"avoidable, future and measured by profit",
+"unavoidable, future and measured by profit"
+],
+"a": 2
+},
+{
+"q": "The profit at which total revenue is equal to the total cost is known as:",
+"o": [
+"Margin of safety",
+"Break-even point",
+"Both a and b are incorrect",
+"Both a and b are correct"
+],
+"a": 1
+},
+{
+"q": "Which of the following costs would not be accounted for in a company's recordkeeping system?",
+"o": [
+"an unexpired cost",
+"an expired cost",
+"a product cost",
+"an opportunity cost"
+],
+"a": 3
+},
+{
+"q": "PQR Ltd. manufactures a single product which it sells for ₹40 per unit. Fixed cost is ₹60,000 per year. The contribution to sales ratio is 40%. PQR Ltd.'s Break Even Point in units is",
+"o": [
+"3500",
+"3700",
+"3750",
+"4000"
+],
+"a": 2
+},
+{
+"q": "The break-even point of a manufacturing company is ₹1,60,000. Fixed cost is ₹48,000. Variable cost is ₹12 per unit. The PV ratio will be:",
+"o": [
+"20%",
+"40%",
+"30%",
+"25%"
+],
+"a": 2
+},
+{
+"q": "Product A generates a contribution to sales ratio of 40%. Fixed cost directly attributable to Product A amounted to ₹60,000. The sales revenue required to achieve a profit of ₹15,000 is",
+"o": [
+"₹2,00,000",
+"₹1,85,000",
+"₹1,87,500",
+"₹2,10,000"
+],
+"a": 2
+},
+{
+"q": "XYZ Ltd. makes a special gadget for the car it manufactures. The machine for the gadget works to full capacity and incur ₹15 Lakhs and ₹40 Lakhs respectively as Variable and Fixed Costs. If all the gadgets were purchased from an outside supplier, the machine could be used to produce other items, which would earn a total contribution of ₹25 Lakhs. What is the maximum price that XYZ Ltd. should be willing to pay to the outside supplier for the gadgets, assuming there is no change in Fixed Costs?",
+"o": [
+"₹40 Lakhs",
+"₹65 Lakhs",
+"₹25 Lakhs",
+"₹15 Lakhs"
+],
+"a": 0
+},
+{
+"q": "X Ltd. has 1000 units of an obsolete item which are carried in inventory at the original price of ₹50,000. If these items are reworked for ₹20,000, they can be sold for ₹36,000. Alternatively, they can be sold as a scrap for ₹26,000 in the market. In a decision model used to analyze the reworking proposal, the opportunity cost should be taken as",
+"o": [
+"₹16,000",
+"₹6,000",
+"₹30,000",
+"₹20,000"
+],
+"a": 1
+},
+{
+"q": "The sales and profit of a firm for the year 2021 are ₹1,50,000 and ₹20,000 and for the year 2022 are ₹1,70,000 and ₹25,000 respectively. The P/V Ratio of the firm is",
+"o": [
+"15%",
+"20%",
+"25%",
+"30%"
+],
+"a": 2
+},
+{
+"q": "Which one of the following is not considered as a method of Transfer Pricing",
+"o": [
+"Negotiated Transfer Pricing",
+"Market Price Based Transfer Pricing",
+"Fixed Cost Based Transfer Pricing",
+"Opportunity Cost Based Transfer Pricing"
+],
+"a": 2
+},
+{
+"q": "Method of pricing, when two separate pricing methods are used to price transfer of products from one subunit to another, is called:",
+"o": [
+"Dual pricing",
+"Functional pricing",
+"Congruent pricing",
+"Optimal pricing"
+],
+"a": 1
+},
+{
+"q": "The Eastern division sells goods internally to the Western division of the same company. The quoted external price in industry publications from a supplier near Eastern is ₹200 per ton plus transportation. It costs ₹20 per ton to transport the goods to Western. Eastern's actual market cost per ton to buy the direct materials to make the transferred product is ₹100. Actual per ton direct labour is ₹250. Other actual costs of storage and handling are ₹40. The company president selects a ₹220 transfer price. This is an example of:",
+"o": [
+"Negotiated transfer pricing.",
+"Cost plus 20% transfer pricing.",
+"Cost-based transfer pricing.",
+"Market-based transfer pricing."
+],
+"a": 3
+},
+{
+"q": "Division P transfers its output to Division Q at variable cost. Once a year P charges a fixed fee to Q, representing an allowance for P's fixed costs. This type of transfer pricing system is commonly known as:",
+"o": [
+"Dual pricing",
+"Negotiated transfer pricing",
+"Opportunity cost based transfer pricing",
+"Two-part tariff transfer pricing"
+],
+"a": 3
+},
+{
+"q": "In which of the following circumstances is there a strong argument that profit centre accounting is a waste of time?",
+"o": [
+"When the transferred item is also sold on an external market",
+"When the supplying division is based in a different country",
+"If the transferred item is a major product of the supplying division",
+"If there is no similar product sold on an external market and the transferred item is a major product of the supplying division to head office"
+],
+"a": 3
+},
+{
+"q": "Which one of the following is not considered as a method of Transfer Pricing?",
+"o": [
+"Negotiated Transfer Pricing",
+"Market Price Based Transfer Pricing",
+"Fixed Cost Based Transfer Pricing",
+"Opportunity Cost Based Transfer Pricing"
+],
+"a": 2
+},
+{
+"q": "Method of pricing, when two separate pricing methods are used to price transfer of products from one subunit to another, is called:",
+"o": [
+"dual pricing",
+"functional pricing",
+"congruent pricing",
+"optimal pricing"
+],
+"a": 0
+},
+{
+"q": "M Group has two divisions, Division P and Division Q. Division P manufactures an item that is transferred to Division Q. The item has no external market and 6,000 units produced are transferred internally each year. The costs of each division are as follows? Variable Cost Division P ₹100 per unit, Division Q ₹120 per unit. Fixed cost each year ₹1,20,000 and ₹90,000. Head Office management decided that a transfer price should be set that provides a profit of ₹30,000 to Division P. What should be the transfer price per unit?",
+"o": [
+"₹145",
+"₹125",
+"₹120",
+"₹135"
+],
+"a": 1
+},
+{
+"q": "Minimax Ltd. fixes inter - divisional transfer prices for its products on the basis of cost plus a return on investment in the division. The budget for division X for 2022-23 appears as under-Fixed Assets ₹8,00,000, Current Assets ₹5,00,000, Debtors ₹2,00,000, Annual fixed cost of the division ₹8,00,000, Variable cost per unit of the product ₹10, Budgeted volume 4,00,000 units per year, Desired ROI 28%. Transfer price for division X is",
+"o": [
+"₹13.05",
+"₹10.70",
+"₹8.70",
+"₹14.70"
+],
+"a": 0
+},
+{
+"q": "BC Company fixes the interdivisional -transfer prices for its products on the basis of cost, plus a return on investment in the division. The Budget for Division for Alpha for the year 2021-22 appears as under: Fixed Assets ₹5,00,000, Current assets ₹3,00,000, Debtors ₹2,00,000, Annual Fixed Cost of the Division ₹8,00,000, Variable Cost per unit of Product ₹10, Budgeted Volume 4,00,000 units per year, Desired ROI 28% on ₹10,00,000. Determine the transfer Price for Alpha.",
+"o": [
+"₹12.7",
+"₹17.2",
+"₹27.1",
+"₹11.7"
+],
+"a": 0
+},
+{
+"q": "The method of transfer pricing was introduced in order to overcome the problems caused by using marginal cost",
+"o": [
+"dual price",
+"Two-Part Transfer Pricing",
+"Negotiated Transfer Pricing",
+"none of them"
+],
+"a": 0
+},
+{
+"q": "Transfer pricing methods may be classfied",
+"o": [
+"under 3 pricing method",
+"under 4 pricing method",
+"under 5 pricing method",
+"under 7 pricing method"
+],
+"a": 0
+},
+{
+"q": "Which of the following is true of standards?",
+"o": [
+"Standards represent a benchmark or a norm",
+"Standards relate to input quantity",
+"Standards relate to input cost",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Standards that can be attained only under the best circumstances are referred to as:",
+"o": [
+"Attainable standards",
+"Budget standards.",
+"Ideal standards",
+"Practical standards"
+],
+"a": 2
+},
+{
+"q": "Who is most likely to be held responsible for a material price variance?",
+"o": [
+"Line workers",
+"Production supervisors",
+"Purchasing managers",
+"Production schedulers"
+],
+"a": 2
+},
+{
+"q": "Cost variance is the difference between",
+"o": [
+"The standard cost and marginal cost",
+"The standards cost and budgeted cost",
+"The standards cost and the actual cost",
+"None of these"
+],
+"a": 2
+},
+{
+"q": "Standard costing is a tool, which replaces the bottleneck of the costing.",
+"o": [
+"Present",
+"Future",
+"Historical",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "If standard cost > actual, then it is:",
+"o": [
+"Not favourable",
+"Favourable",
+"Neither favourable nor not favourable",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "From cost control point of view the standard most commonly used is:",
+"o": [
+"Expected standard",
+"Theoretical standard",
+"Normal standard",
+"Basic standard"
+],
+"a": 0
+},
+{
+"q": "When more than one material is used in the manufacture of a product, which of the following variances arises:",
+"o": [
+"Material yield variance",
+"Material mix variance",
+"Material price variance",
+"Material usage variance"
+],
+"a": 1
+},
+{
+"q": "Which of the following equations can be used to calculate a material quantity variance?",
+"o": [
+"(AQ x AP) - (AQ x SP)",
+"(AP x SP) - (AQ x SP)",
+"(AQ x SP) - (SQ x SP)",
+"(AQ x SP) - (AQ x AP)"
+],
+"a": 2
+},
+{
+"q": "Which of the following equations can be used to calculate a material price variance?",
+"o": [
+"(AQ x AP) - (AQ x SP)",
+"(AP x SP) - (AQ x SP)",
+"(AQ x SP) - (SQ x SP)",
+"(AQ x SP) - (AQ x AP)"
+],
+"a": 0
+},
+{
+"q": "Which of the following is not likely to be a reason of unfavourable direct labour efficiency variance?",
+"o": [
+"Increase in direct materials prices",
+"Frequent break downs during production process",
+"Lack of proper supervision",
+"Use of old, outdated or faulty equipment"
+],
+"a": 0
+},
+{
+"q": "Which of the following is a purpose of standard costing?",
+"o": [
+"To determine profit at different levels",
+"To determine break-even point",
+"To control costs",
+"To allocate cost with more accuracy"
+],
+"a": 2
+},
+{
+"q": "Which of the following activities is the Standard Costing System used for?",
+"o": [
+"It is a basis for implementing cost control and fixing the price of products through variance analysis",
+"It helps to ascertain the cost-volume relationship between products manufactured by the business",
+"It helps to establish the breakeven point for the products manufactured by the company",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Which of the following activities is true under the Standard Costing System?",
+"o": [
+"The overhead volume variance is always beneficial",
+"The idle time variance is never favourable",
+"To calculate the overall costs, a company can either use budgetary control or standard costing but not both of those techniques",
+"The overhead efficiency variance plus overhead expense variance is equal to the overhead budget variance for variable overheads"
+],
+"a": 1
+},
+{
+"q": "A standard cost is a carefully unit cost which is prepared for each cost unit.",
+"o": [
+"Pre-determined",
+"Absorbed",
+"Apportioned",
+"None"
+],
+"a": 0
+},
+{
+"q": "Setting of standard involves effective utilization of",
+"o": [
+"Men",
+"Material",
+"Machines",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "The standard cost card contains quantities and costs for",
+"o": [
+"Direct material only",
+"Direct labour only",
+"Direct material and direct labour only",
+"Direct material, direct labour, and overhead"
+],
+"a": 3
+},
+{
+"q": "Standards differ from budgets in that:",
+"o": [
+"Budgets but not standards may be used in valuing inventories",
+"Budgets but not standards may be journalized and posted",
+"Budgets are a total amount and standards are a unit amount",
+"Only budgets contribute to management planning and control"
+],
+"a": 2
+},
+{
+"q": "Standard Costs:",
+"o": [
+"Are imposed by governmental agencies",
+"Are predetermined unit costs which companies use as measures of performance",
+"Can be used by manufacturing companies but not by service or not-for-profit companies",
+"All of the above"
+],
+"a": 1
+},
+{
+"q": "The advantages of standard costs include all of the following except:",
+"o": [
+"Management by exception may be used",
+"Management planning is facilitated",
+"They may simplify the costing of inventories",
+"Management must use a static budget"
+],
+"a": 3
+},
+{
+"q": "Normal standards:",
+"o": [
+"Allow for rest periods, machine breakdowns, and setup time",
+"Represent performance under perfect operating conditions",
+"Are rarely used because managers believe they lower workforce morale",
+"Are more likely than ideal standards to result in unethical practices"
+],
+"a": 0
+},
+{
+"q": "The setting of standards is:",
+"o": [
+"A managerial accounting decision",
+"A management decision",
+"A worker decision",
+"Preferably set at the ideal level of performance"
+],
+"a": 1
+},
+{
+"q": "Which of the following is correct about the total overhead variance?",
+"o": [
+"Budgeted overhead and budgeted overhead applied are the same",
+"Total actual overhead is composed of variable overhead, fixed overhead, and period costs.",
+"Standard hours actually worked are used in computing the variance",
+"Standard hours allowed for the work done is the measure used in computing the variance"
+],
+"a": 3
+},
+{
+"q": "What is the name given to a budget that has been prepared by re-evaluating activities and comparing the incremental costs of those activities with their incremental benefits?",
+"o": [
+"Incremental budget",
+"Rolling budget",
+"Zero based budget",
+"Flexible budget"
+],
+"a": 2
+},
+{
+"q": "A budget is an instrument of management used as an aid in the",
+"o": [
+"Planning",
+"Programming",
+"Control of business activity",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Following may be regarded as a summary budget",
+"o": [
+"Production budget",
+"Master budget",
+"Cash budget",
+"Sales budget"
+],
+"a": 1
+},
+{
+"q": "Purchases budget is prepared using the information from:",
+"o": [
+"Capital expenditure budget",
+"Materials budget",
+"Both (1) and (2)",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "Following budget may be compiled on departmental basis:",
+"o": [
+"Production budget",
+"Purchase budget",
+"Materials budget",
+"All of the above"
+],
+"a": 0
+},
+{
+"q": "Production budget is based upon:",
+"o": [
+"Sales budget",
+"Factory capacity",
+"Availability of raw material and labour",
+"All of the above."
+],
+"a": 3
+},
+{
+"q": "Budget includes:",
+"o": [
+"Income",
+"Expenditure",
+"Employment of capital",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "A budget should be:",
+"o": [
+"Rigid",
+"Flexible",
+"Both (1) and (2)",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "The object of budgetary control is",
+"o": [
+"Planning",
+"Forecasting",
+"Organizing",
+"Directing"
+],
+"a": 0
+},
+{
+"q": "The budget which is dynamic is",
+"o": [
+"Flexible budget",
+"Sales budget",
+"Cash budget",
+"Purchase budget"
+],
+"a": 1
+},
+{
+"q": "The process of budgeting helps in the control of:",
+"o": [
+"Cost of production",
+"Liquidity",
+"Capital Expenditure",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Plant utilization budget and Manufacturing overhead budgets are types of:",
+"o": [
+"Production budget",
+"Sales budget",
+"Cost budget",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "R&D budget and Capital expenditure budget are examples of:",
+"o": [
+"Short-term budget",
+"Current budget",
+"Long-term budget",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "The scare factors is also known as:",
+"o": [
+"Key factor",
+"Abnormal factor",
+"Linking factor",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "What is the name given to a budget that has been prepared by re-evaluating activities and comparing the incremental costs of those activities with their incremental benefits?",
+"o": [
+"Incremental budget",
+"Rolling budget",
+"Zero based budget",
+"Flexible budget"
+],
+"a": 2
+},
+{
+"q": "A budget is an instrument of management used as an aid in the",
+"o": [
+"Planning",
+"Programming",
+"Control of business activity",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Following may be regarded as a summary budget",
+"o": [
+"Production budget",
+"Master budget",
+"Cash budget",
+"Sales budget"
+],
+"a": 1
+},
+{
+"q": "Purchases budget is prepared using the information from:",
+"o": [
+"Capital expenditure budget",
+"Materials budget",
+"Both (1) and (2)",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "Following budget may be compiled on departmental basis:",
+"o": [
+"Production budget",
+"Purchase budget",
+"Materials budget",
+"All of the above"
+],
+"a": 0
+},
+{
+"q": "Production budget is based upon:",
+"o": [
+"Sales budget",
+"Factory capacity",
+"Availability of raw material and labour",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "A budget should be:",
+"o": [
+"Rigid",
+"Flexible",
+"Both (1) and (2)",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "The object of budgetary control is",
+"o": [
+"Planning",
+"Forecasting",
+"Organizing",
+"Directing"
+],
+"a": 0
+},
+{
+"q": "The budget which is dynamic is",
+"o": [
+"Flexible budget",
+"Sales budget",
+"Cash budget",
+"Purchase budget"
+],
+"a": 1
+},
+{
+"q": "The process of budgeting helps in the control of:",
+"o": [
+"Cost of production",
+"Liquidity",
+"Capital Expenditure",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Plant utilization budget and Manufacturing overhead budgets are types of:",
+"o": [
+"Production budget",
+"Sales budget",
+"Cost budget",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "R&D budget and Capital expenditure budget are examples of:",
+"o": [
+"Short-term budget",
+"Current budget",
+"Long-term budget",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "The scare factors is also known as:",
+"o": [
+"Key factor",
+"Abnormal factor",
+"Linking factor",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "A company usually determines the appropriate degree of decentralization based on a combination of the",
+"o": [
+"Managers personal characteristics",
+"Nature of decisions required for organizational growth",
+"Types of organizational activities in which the company is engaged",
+"All of these"
+],
+"a": 3
+},
+{
+"q": "Major disadvantages of Decentralization are",
+"o": [
+"Can result in a lack of goal congruence or sub optimization by sub-unit managers",
+"Requires more effective communication abilities because decision making is removed from the home office",
+"Helps top management recognizes and develop managerial talent",
+"Both 1 and 2"
+],
+"a": 3
+},
+{
+"q": "Which of the following is/are not benefit/s of Decentralization?",
+"o": [
+"Greater awareness of local problems",
+"Allows managerial performance to be comparatively evaluated",
+"Creates personnel difficulties upon introduction, especially if managers are unwilling to delegate effectively",
+"Develops skill level of junior managers"
+],
+"a": 2
+},
+{
+"q": "Return on Equity =",
+"o": [
+"Net Profit Margin x Asset Turnover Ratio x Financial Leverage",
+"Gross Profit Margin x Asset Turnover Ratio x Financial Leverage",
+"Net Profit Margin x Inventory Turnover Ratio x Financial Leverage",
+"Net Profit Margin x Asset Turnover Ratio x Operating Leverage"
+],
+"a": 0
+},
+{
+"q": "According to DuPont methodology, three main financial parameters that drive Return on Equity (ROE) are",
+"o": [
+"(1) Employee performance, (2) Asset usage performance, and (3) Financial leverage.",
+"(1) Operating performance, (2) Asset usage performance, and (3) Financial leverage.",
+"(1) Operating performance, (2) Inventory usage performance, and (3) Financial leverage.",
+"(1) Operating performance, (2) Asset usage performance, and (3) Operating leverage."
+],
+"a": 1
+},
+{
+"q": "Asset usage performance means",
+"o": [
+"a very basic profitability ratio",
+"Total Asset Turnover (Turnover / Total Assets)",
+"the use of debt to acquire additional assets or fund projects",
+"None of these"
+],
+"a": 1
 }
 ]
