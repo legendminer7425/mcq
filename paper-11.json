@@ -598,5 +598,605 @@
 "Decrease in Sales"
 ],
 "a":1
+},
+{
+"q":"Which of the following statements is correct?",
+"o":[
+"A Higher Receivable Turnover is not desirable",
+"Interest Coverage Ratio depends upon Tax Rate",
+"Increase in Net Profit Ratio means increase in Sales",
+"Lower Debt-Equity Ratio means lower Financial Risk"
+],
+"a":3
+},
+{
+"q":"Debt to Total Assets of a firm is 2. The Debt to Equity would be:",
+"o":[
+"0.80",
+"0.25",
+"1.00",
+"0.75"
+],
+"a":1
+},
+{
+"q":"Which of the following helps analysing return to equity Shareholders?",
+"o":[
+"Return on Assets",
+"Earnings Per Share",
+"Net Profit Ratio",
+"Return on Investment"
+],
+"a":1
+},
+{
+"q":"Return on Assets and Return on Investment Ratios belong to:",
+"o":[
+"Liquidity Ratios",
+"Profitability Ratios",
+"Solvency Ratios",
+"Turnover"
+],
+"a":1
+},
+{
+"q":"XYZ Ltd. has a Debt Equity Ratio of 1.5 as compared to 1.3 Industry average. It means that the firm has:",
+"o":[
+"Higher Liquidity",
+"Higher Financial Risk",
+"Higher Profitability",
+"Higher Capital Employed"
+],
+"a":1
+},
+{
+"q":"Ratio Analysis can be used to study liquidity, turnover, profitability, etc. of a firm. What does Debt-Equity Ratio help to study?",
+"o":[
+"Solvency",
+"Liquidity",
+"Profitability",
+"Turnover"
+],
+"a":0
+},
+{
+"q":"In Inventory Turnover calculation, what is taken in the numerator?",
+"o":[
+"Sales",
+"Cost of Goods Sold",
+"Opening Stock",
+"Closing Stock"
+],
+"a":1
+},
+{
+"q":"Statement of cash flows are included in:",
+"o":[
+"Ind AS-3",
+"Ind AS-6",
+"Ind AS-7",
+"Ind AS-113"
+],
+"a":2
+},
+{
+"q":"Cost of capital refers to:",
+"o":[
+"Flotation Cost",
+"Dividend",
+"Required Rate of Return",
+"None of the above"
+],
+"a":2
+},
+{
+"q":"Which of the following sources of funds has an implicit cost of capital?",
+"o":[
+"Equity Share Capital",
+"Preference Share Capital",
+"Debentures",
+"Retained earnings"
+],
+"a":3
+},
+{
+"q":"Which of the following has the highest cost of capital?",
+"o":[
+"Equity shares",
+"Loans",
+"Bonds",
+"Preference shares"
+],
+"a":0
+},
+{
+"q":"Cost of capital for Government securities is also known as:",
+"o":[
+"Risk-free Rate of Interest",
+"Maximum Rate of Return",
+"Rate of Interest on Fixed Deposits",
+"None of the above"
+],
+"a":0
+},
+{
+"q":"Cost of capital for bonds and debentures is calculated on:",
+"o":[
+"Before Tax basis",
+"After Tax basis",
+"Risk-free Rate of Interest basis",
+"Compound interest"
+],
+"a":1
+},
+{
+"q":"Weighted Average Cost of Capital (WACC) is generally denoted by:",
+"o":[
+"k",
+"Kw",
+"Ko",
+"Ke"
+],
+"a":2
+},
+{
+"q":"Which of the following cost of capital require tax adjustment?",
+"o":[
+"Cost of Equity Shares",
+"Cost of Preference Shares",
+"Cost of Debentures",
+"Cost of Retained Earnings"
+],
+"a":2
+},
+{
+"q":"Which is the most expensive source of funds?",
+"o":[
+"New Equity Shares",
+"New Preference Shares",
+"New Debts",
+"Retained Earnings"
+],
+"a":0
+},
+{
+"q":"Marginal cost of capital is the cost of:",
+"o":[
+"Additional Sales",
+"Additional Funds",
+"Additional Interests",
+"Additional Revenue"
+],
+"a":1
+},
+{
+"q":"In case the firm is all-equity financed, the WACC would be equal to:",
+"o":[
+"Cost of Debt",
+"Cost of Equity",
+"Neither (1) nor (2)",
+"Both (1) and (2)"
+],
+"a":1
+},
+{
+"q":"In order to calculate Weighted Average Cost of capitals (WACC) weights may be based on:",
+"o":[
+"Market Values",
+"Target Values",
+"Book Values",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"Firm's cost of capital is the average cost of:",
+"o":[
+"All sources",
+"All borrowings",
+"Share capital",
+"Share, Bonds and Debentures"
+],
+"a":0
+},
+{
+"q":"An implicit cost of increasing proportion of debt is:",
+"o":[
+"Tax should would not be available on new debt",
+"P/E Ratio would increase",
+"Equity shareholders would demand higher return",
+"Rate of Return of the company would decrease."
+],
+"a":2
+},
+{
+"q":"Cost of redeemable preference share capital is:",
+"o":[
+"Rate of Dividend",
+"After Tax Rate of Dividend",
+"Discount Rate that equates PV of inflows and out-flows relating to capital",
+"None of the above"
+],
+"a":2
+},
+{
+"q":"Which of the following is true?",
+"o":[
+"Retained earnings are cost free",
+"External Equity is cheaper than Internal Equity",
+"Retained Earnings are cheaper than External Equity",
+"Retained Earnings are costlier than External Equity"
+],
+"a":2
+},
+{
+"q":"Capital Budgeting is a part of:",
+"o":[
+"Investment Decision",
+"Working Capital Management",
+"Capital Structure",
+"Marketing Management"
+],
+"a":0
+},
+{
+"q":"Capital Budgeting deals with:",
+"o":[
+"Long-term Decisions",
+"Short-term Decisions",
+"Neither (1) nor (2)",
+"Both (1) and (2)"
+],
+"a":0
+},
+{
+"q":"Which of the following is not used in Capital Budgeting?",
+"o":[
+"Time Value of Money",
+"Sensitivity Analysis",
+"Cash Flows",
+"Net Assets Method"
+],
+"a":3
+},
+{
+"q":"Capital Budgeting Decisions are:",
+"o":[
+"Reversible",
+"Irreversible",
+"Unimportant",
+"All of the above"
+],
+"a":1
+},
+{
+"q":"Which of the following is not incorporated in Capital Budgeting?",
+"o":[
+"Tax-Effect",
+"Time Value of Money",
+"Rate of Cash Discount",
+"Required Rate of Return"
+],
+"a":3
+},
+{
+"q":"Which of the following is not a capital budgeting decision?",
+"o":[
+"Expansion Programme",
+"Merger",
+"Replacement of an Asset",
+"Inventory Level"
+],
+"a":3
+},
+{
+"q":"A sound Capital Budgeting technique is based on:",
+"o":[
+"Cash Flows",
+"Accounting Profit",
+"Last Dividend Paid",
+"Interest Rate on Borrowings"
+],
+"a":0
+},
+{
+"q":"Which of the following is not a relevant cost in Capital Budgeting?",
+"o":[
+"Sunk Cost",
+"Opportunity Cost",
+"Both (1) and (3) above",
+"Allocated Overheads"
+],
+"a":3
+},
+{
+"q":"Capital Budgeting Decisions are based on:",
+"o":[
+"Incremental Profit",
+"Incremental Cash Flows",
+"Incremental Capital",
+"Incremental Assets"
+],
+"a":1
+},
+{
+"q":"Which of the following does not effect cash flows proposal?",
+"o":[
+"Salvage Value",
+"Depreciation Amount",
+"Tax Rate Change",
+"Method of Project Financing"
+],
+"a":3
+},
+{
+"q":"Cash Inflows from a project include:",
+"o":[
+"Tax Shield of Depreciation",
+"After-tax Operating Profits",
+"Both (1) and (2)",
+"Raising of Funds."
+],
+"a":2
+},
+{
+"q":"Which of the following is not true with reference capital budgeting?",
+"o":[
+"Capital budgeting is related to asset replacement decisions",
+"Cost of capital is equal to minimum required return",
+"Existing investment in a project is not treated as sunk cost",
+"Timing of cash flows is relevant"
+],
+"a":2
+},
+{
+"q":"Which of the following is not followed in capital budgeting?",
+"o":[
+"Cash flows Principle",
+"Interest Exclusion Principle",
+"Post-tax Principle",
+"Accrual Principle"
+],
+"a":3
+},
+{
+"q":"Depreciation is incorporated in cash flows because it:",
+"o":[
+"Is unavoidable cost",
+"Is a cash flow",
+"Involves an outflow",
+"Reduces Tax liability"
+],
+"a":3
+},
+{
+"q":"Which of the following is not true for capital budgeting?",
+"o":[
+"Sunk costs are ignored",
+"Opportunity costs are excluded",
+"Incremental cash flows are considered",
+"Relevant cash flows are considered"
+],
+"a":1
+},
+{
+"q":"Which of the following is not applied in capital budgeting?",
+"o":[
+"Cash flows be calculated in incremental terms",
+"All costs and benefits are measured on cash basis",
+"All benefits are measured on after-tax basis.",
+"All accrued costs and revenues be incorporated"
+],
+"a":3
+},
+{
+"q":"Evaluation of Capital Budgeting proposals is based on Cash Flows because:",
+"o":[
+"Cash Flows are easy to calculate",
+"Cash Flows are suggested by SEBI",
+"Cash Flows are suggested by RBI",
+"Cash is more important than profit"
+],
+"a":3
+},
+{
+"q":"Which of the following is not included in incremental A flows?",
+"o":[
+"Opportunity Costs",
+"Sunk Costs",
+"Inflation effect",
+"Change in Working Capital"
+],
+"a":1
+},
+{
+"q":"A proposal is not a Capital Budgeting proposal if it:",
+"o":[
+"is related to Fixed Assets",
+"brings long-term benefits",
+"has very large investment",
+"brings short-term benefits only"
+],
+"a":3
+},
+{
+"q":"In Capital Budgeting, Sunk cost is excluded because it is:",
+"o":[
+"of small amount",
+"not incremental",
+"not reversible",
+"All of the above"
+],
+"a":1
+},
+{
+"q":"Savings in respect of a cost is treated in capital budgeting as:",
+"o":[
+"An Inflow",
+"An Outflow",
+"Closing balance",
+"Opening balance"
+],
+"a":0
+},
+{
+"q":"ignores the time value of money.",
+"o":[
+"Internal Rate of Return (IRR)",
+"Average Rate of Return (ARR)",
+"Profitability Index (PI)",
+"Net Present Value (NPV)"
+],
+"a":1
+},
+{
+"q":"The discounted cash flows techniques are:",
+"o":[
+"Net Present Value (NPV)",
+"Internal Rate of Return (IRR)",
+"Profitability Index (PI)",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"Working capital is calculated as",
+"o":[
+"Core current assets less core current liabilities",
+"Current assets less current liabilities",
+"Core current assets less current liabilities",
+"Liquid assets less current liabilities"
+],
+"a":1
+},
+{
+"q":"The basic current liabilities are",
+"o":[
+"accounts payable and bills payable",
+"bank overdraft",
+"outstanding expenses",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"There are two concepts of working capital gross and",
+"o":[
+"Zero",
+"Net",
+"Cumulative",
+"distinctive"
+],
+"a":1
+},
+{
+"q":"Working capital is also known as capital.",
+"o":[
+"Current asset",
+"Operating",
+"Projecting",
+"Operation capital"
+],
+"a":1
+},
+{
+"q":"working Capital refers to the firm's investment in current assets.",
+"o":[
+"Zero",
+"Net",
+"Gross",
+"Distinctive"
+],
+"a":2
+},
+{
+"q":"In finance, "working capital" means the same thing as assets.",
+"o":[
+"Current",
+"Fixed",
+"Total",
+"All of the above"
+],
+"a":0
+},
+{
+"q":"working capital refers to the difference between current assets and current liabilities.",
+"o":[
+"Zero",
+"Net",
+"Gross",
+"Distinctive"
+],
+"a":1
+},
+{
+"q":"net working capital will arise when current assets exceed current liabilities.",
+"o":[
+"Summative",
+"Negative",
+"Excessive",
+"Positive"
+],
+"a":3
+},
+{
+"q":"net working capital occurs when current liabilities are in excess of current assets.",
+"o":[
+"Positive",
+"Negative",
+"Excessive",
+"Zero"
+],
+"a":1
+},
+{
+"q":"X Ltd. distributes its products to more than 500 retailers. The company's collection period is 30 days and keeps its inventory for 20 days. The operating cycle would be:",
+"o":[
+"40 Days",
+"43 Days",
+"45 Days",
+"50 Days"
+],
+"a":3
+},
+{
+"q":"refers to the funds, which an organisation must possess to finance its day to day operations.",
+"o":[
+"Retained earnings",
+"Fixed capital",
+"Working Capital",
+"All of the above"
+],
+"a":2
+},
+{
+"q":"Investment in current assets should be",
+"o":[
+"just adequate",
+"more",
+"less",
+"maximum"
+],
+"a":0
+},
+{
+"q":"varies inversely with profitability.",
+"o":[
+"Risk",
+"Assets",
+"Liquidity",
+"Revenue"
+],
+"a":2
+},
+{
+"q":"Capital intensive firms rely on",
+"o":[
+"debt",
+"retained earnings",
+"short term debts",
+"equity"
+],
+"a":0
 }
 ]
