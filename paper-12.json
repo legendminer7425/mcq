@@ -798,5 +798,405 @@
 "All of the above."
 ],
 "a": 3
+},
+{
+"q": "Contribution margin in marginal costing is also known as:",
+"o": [
+"Net income",
+"Gross profit",
+"Marginal income",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "What is the opportunity cost of making a component part in a factory given no alternative use of the capacity?",
+"o": [
+"The variable manufacturing cost of the component",
+"The total manufacturing cost of the component",
+"The total variable cost of the component",
+"Zero"
+],
+"a": 3
+},
+{
+"q": "The difference in total cost that results from two alternative courses of action is called:",
+"o": [
+"Relevant Cost",
+"Opportunity Cost",
+"Differential Cost",
+"Marginal Cost"
+],
+"a": 2
+},
+{
+"q": "Relevant costs are:",
+"o": [
+"unavoidable, future and measured by cash",
+"avoidable, future and measured by cash",
+"avoidable, future and measured by profit",
+"unavoidable, future and measured by profit"
+],
+"a": 2
+},
+{
+"q": "The profit at which total revenue is equal to the total cost is known as:",
+"o": [
+"Margin of safety",
+"Break-even point",
+"Both a and b are incorrect",
+"Both a and b are correct"
+],
+"a": 1
+},
+{
+"q": "Which of the following costs would not be accounted for in a company's recordkeeping system?",
+"o": [
+"an unexpired cost",
+"an expired cost",
+"a product cost",
+"an opportunity cost"
+],
+"a": 3
+},
+{
+"q": "PQR Ltd. manufactures a single product which it sells for 40 per unit. Fixed cost is 60,000 per year. The contribution to sales ratio is 40%. POR Ltd.'s Break Even Point in units is",
+"o": [
+"3500",
+"3700",
+"3750",
+"4000"
+],
+"a": 2
+},
+{
+"q": "The break-even point of a manufacturing company is 21,60,000.",
+"o": [
+"20%",
+"40%",
+"30%",
+"25%"
+],
+"a": 2
+},
+{
+"q": "Fixed cost is 48,000. Variable cost is 12 per unit. The PV ratio",
+"o": [
+"2,00,000",
+"1,85,000",
+"1,87,500",
+"2,10,000"
+],
+"a": 2
+},
+{
+"q": "XYZ Ltd. makes a special gadget for the car it manufactures. The machine for the gadget works to full capacity and incur 15 Lakhs and 40 Lakhs respectively as Variable and Fixed Costs. If all the gadgets were purchased from an outside supplier, the machine could be used to produce other items, which would earn a total contribution of 25 Lakhs. What is the maximum price that XYZ Ltd. should be willing to pay to the outside supplier for the gadgets, assuming there is no change in Fixed Costs?",
+"o": [
+"40 Lakhs",
+"65 Lakhs",
+"25 Lakhs",
+"15 Lakhs"
+],
+"a": 0
+},
+{
+"q": "X Ltd. has 1000 units of an obsolete item which are carried in inventory at the original price of 50,000. If these items are reworked for 20,000, they can be sold for 36,000. Alternatively, they can be sold as a scrap for 26,000 in the market. In a decision model used to analyze the reworking proposal, the opportunity cost should be taken as",
+"o": [
+"16,000",
+"6,000",
+"₹30.000",
+"20.000"
+],
+"a": 1
+},
+{
+"q": "The sales and profit of a firm for the year 2021 are ₹1,50,000 and 220,000 and for the year 2022 are ₹1,70,000 and 25,000 respectively. The P/V Ratio of the firm is",
+"o": [
+"15%",
+"20%",
+"25%",
+"30%"
+],
+"a": 2
+},
+{
+"q": "Which one of the following is not considered as a method of Transfer Pricing",
+"o": [
+"Negotiated Transfer Pricing",
+"Market Price Based Transfer Pricing",
+"Fixed Cost Based Transfer Pricing",
+"Opportunity Cost Based Transfer Pricing"
+],
+"a": 2
+},
+{
+"q": "Method of pricing, when two separate pricing methods are used to price transfer of products from one subunit to another, is called:",
+"o": [
+"Dual pricing",
+"Functional pricing",
+"Congruent pricing",
+"Optimal pricing"
+],
+"a": 1
+},
+{
+"q": "The Eastern division sells goods internally to the Western division of the same company. The quoted external price in industry publications from a supplier near Eastern is 200 per ton plus transportation. It costs 20 per ton to transport the goods to Western. Eastern's actual market cost per ton to buy the direct materials to make the transferred product is ₹100. Actual per ton direct labour is 250. Other actual costs of storage and handling are 40. The company president selects a 220 transfer price. This is an example of:",
+"o": [
+"Negotiated transfer pricing.",
+"Cost plus 20% transfer pricing.",
+"Cost-based transfer pricing.",
+"Market-based transfer pricing."
+],
+"a": 3
+},
+{
+"q": "Division P transfers its output to Division Q at variable cost. Once a year P charges a fixed fee to Q, representing an allowance for P's fixed costs. This type of transfer pricing system is commonly known as:",
+"o": [
+"Dual pricing",
+"Negotiated transfer pricing",
+"Opportunity cost based transfer pricing",
+"Two-part tariff transfer pricing"
+],
+"a": 3
+},
+{
+"q": "In which of the following circumstances is there a strong argument that profit centre accounting is a waste of time?",
+"o": [
+"When the transferred item is also sold on an external market",
+"When the supplying division is based in a different country",
+"If the transferred item is a major product of the supplying division",
+"If there is no similar product sold on an external market and the transferred item is a major product of the supplying division"
+],
+"a": 3
+},
+{
+"q": "Which one of the following is not considered as a method of Transfer Pricing?",
+"o": [
+"Negotiated Transfer Pricing",
+"Market Price Based Transfer Pricing",
+"Fixed Cost Based Transfer Pricing",
+"Opportunity Cost Based Transfer Pricing"
+],
+"a": 2
+},
+{
+"q": "Method of pricing, when two separate pricing methods are used to price transfer of products from one subunit to another, is called:",
+"o": [
+"dual pricing",
+"functional pricing",
+"congruent pricing",
+"optimal pricing"
+],
+"a": 0
+},
+{
+"q": "M Group has two divisions, Division P and Division Q. Division P manufactures an item that is transferred to Division Q. The item has no external market and 6,000 units produced are transferred internally each year. The costs of each division are as follows? Variable Cost Division P 100 per unit Division Q 120 per unit Fixed cost each year 1,20,000 ₹90,000 Head Office management decided that a transfer price should be set that provides a profit of 30,000 to Division P. What should be the transfer price per unit?",
+"o": [
+"145",
+"125",
+"120",
+"135"
+],
+"a": 1
+},
+{
+"q": "Minimax Ltd. fixes inter - divisional transfer prices for its products on the basis of cost plus a return on investment in the division. The budget for division X for 2022-23 appears as under-Fixed Assets ₹8,00,000 Current Assets 25,00,000 Debtors 2,00,000 Annual fixed cost of the division 28,00,000 Variable cost per unit of the product 10 Budgeted volume 4,00,000 units per year Desired ROI 28%. Transfer price for division X is",
+"o": [
+"13.05",
+"10.70",
+"8.70",
+"14.70"
+],
+"a": 0
+},
+{
+"q": "BC Company fixes the interdivisional -transfer prices for its products on the basis of cost, plus a return on investment in the division. The Budget for Division for Alpha for the year 2021-22 appears as under: Fixed Assets ₹5,00,000 Current assets ₹3,00,000 Debtors 22,00,000 Annual Fixed Cost of the Division ₹8,00,000 Variable Cost per unit of Product ₹10 Budgeted Volume 4,00,000 units per year Desired ROI 28% on ₹10,00,000 Determine the transfer Price for Alpha.",
+"o": [
+"12.7",
+"17.2",
+"27.1",
+"11.7"
+],
+"a": 0
+},
+{
+"q": "The ________ method of transfer pricing was introduced in order to overcome the problems caused by using marginal cost",
+"o": [
+"dual price",
+"Two-Part Transfer",
+"Negotiated Transfer",
+"none of them"
+],
+"a": 0
+},
+{
+"q": "Transfer pricing methods may be classfied",
+"o": [
+"under 3 pricing method",
+"under 4 pricing method",
+"under 5 pricing method",
+"under 7 pricing method"
+],
+"a": 0
+},
+{
+"q": "Which of the following is true of standards?",
+"o": [
+"Standards represent a benchmark or a norm",
+"Standards relate to input quantity",
+"Standards relate to input cost",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Standards that can be attained only under the best circumstances are referred to as:",
+"o": [
+"Attainable standards",
+"Budget standards.",
+"Ideal standards",
+"Practical standards"
+],
+"a": 2
+},
+{
+"q": "Who is most likely to be held responsible for a material price variance?",
+"o": [
+"Line workers",
+"Production supervisors",
+"Purchasing managers",
+"Production schedulers"
+],
+"a": 2
+},
+{
+"q": "Cost variance is the difference between",
+"o": [
+"The standard cost and marginal cost",
+"The standards cost and budgeted cost",
+"The standards cost and the actual cost",
+"None of these"
+],
+"a": 2
+},
+{
+"q": "Standard costing is a tool, which replaces the bottleneck of the ________ costing.",
+"o": [
+"Present",
+"Future",
+"Historical",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "If standard cost > actual, then it is:",
+"o": [
+"Not favourable",
+"Favourable",
+"Neither favourable nor not favourable",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "From cost control point of view the standard most commonly used IS:",
+"o": [
+"Expected standard",
+"Theoretical standard",
+"Normal standard",
+"Basic standard"
+],
+"a": 0
+},
+{
+"q": "When more than one material is used in the manufacture of a product, which of the following variances arises:",
+"o": [
+"Material yield variance",
+"Material mix variance",
+"Material price variance",
+"Material usage variance"
+],
+"a": 1
+},
+{
+"q": "Which of the following equations can be used to calculate a material quantity variance?",
+"o": [
+"$(AQ\times AP)-(AQ\times$ SP)",
+"$(AP\times SP)-(AQ\times$ SP)",
+"$(AQ\times SP)-(SQ\times$ SP)",
+"$(AQ\times SP)-(AQ\times$ AP)"
+],
+"a": 2
+},
+{
+"q": "Which of the following equations can be used to calculate a material price variance?",
+"o": [
+"$(AQ\times AP)-(AQ\times$ SP)",
+"$(AP\times SP)-(AQ\times$ SP)",
+"$(AQ\times SP)-(SQ\times$ SP)",
+"$(AQ\times SP)-(AQ\times$ AP)"
+],
+"a": 0
+},
+{
+"q": "Which of the following is not likely to be a reason of unfavourable direct labour efficiency variance?",
+"o": [
+"Increase in direct materials prices",
+"Frequent break downs during production process",
+"Lack of proper supervision",
+"Use of old, outdated or faulty equipment"
+],
+"a": 0
+},
+{
+"q": "Which of the following is a purpose of standard costing?",
+"o": [
+"To determine profit at different levels",
+"To determine break-even point",
+"To control costs",
+"To allocate cost with more accuracy"
+],
+"a": 2
+},
+{
+"q": "Which of the following activities is the Standard Costing System used for?",
+"o": [
+"It is a basis for implementing cost control and fixing the price of products through variance analysis",
+"It helps to ascertain the cost-volume relationship between products manufactured by the business",
+"It helps to establish the breakeven point for the products manufactured by the company",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Which of the following activities is true under the Standard Costing System?",
+"o": [
+"The overhead volume variance is always beneficial",
+"The idle time variance is never favourable",
+"To calculate the overall costs, a company can either use budgetary control or standard costing but not both of those techniques",
+"The overhead efficiency variance plus overhead expense variance is equal to the overhead budget variance for variable overheads"
+],
+"a": 1
+},
+{
+"q": "A standard cost is a carefully ________ unit cost which is prepared for each cost unit.",
+"o": [
+"Pre-determined",
+"Absorbed",
+"Apportioned",
+"None"
+],
+"a": 0
+},
+{
+"q": "Setting of standard involves effective utilization of",
+"o": [
+"Men",
+"Material",
+"Machines",
+"All of the above"
+],
+"a": 3
 }
 ]
