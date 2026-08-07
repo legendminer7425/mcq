@@ -2110,7 +2110,7 @@
 "a": 0
 },
 {
-"q": "A firm has two products A and B. The "order processing" cost pool is 120,000. The cost driver is number of orders. There are 2,000 orders in total: A uses 600 orders; B uses 1,400 orders. The overhead assigned to B is:",
+"q": "A firm has two products A and B. The \"order processing\" cost pool is 120,000. The cost driver is number of orders. There are 2,000 orders in total: A uses 600 orders; B uses 1,400 orders. The overhead assigned to B is:",
 "o": [
 "89,000",
 "84,000",
@@ -2150,7 +2150,7 @@
 "a": 0
 },
 {
-"q": "In ABC, "facility-sustaining costs" are:",
+"q": "In ABC, \"facility-sustaining costs\" are:",
 "o": [
 "Costs that vary with every unit produced",
 "Costs that support the entire facility but cannot be traced to individual products",
@@ -2170,7 +2170,7 @@
 "a": 1
 },
 {
-"q": "A "cost pool" in ABC refers to:",
+"q": "A \"cost pool\" in ABC refers to:",
 "o": [
 "A grouping of fixed costs only",
 "A set of overhead costs associated with a specific activity",
@@ -2396,6 +2396,406 @@
 "Under-recovery of fixed costs",
 "Double counting of variable cost",
 "Increased total cost"
+],
+"a": 1
+},
+{
+"q": "Which decision is most appropriate to use marginal costing?",
+"o": [
+"Choosing depreciation method",
+"Selecting supplier for raw material",
+"Adding a new product line under capacity",
+"Evaluating internal audit risk"
+],
+"a": 2
+},
+{
+"q": "When marginal cost equals transfer price, the transferring division will likely:",
+"o": [
+"Make excess profit",
+"Break even",
+"Show zero contribution",
+"Lose incentive to transfer"
+],
+"a": 3
+},
+{
+"q": "If internal transfers are made at marginal cost, which division may feel disadvantaged?",
+"o": [
+"Buying division",
+"Corporate center",
+"Selling division",
+"Marketing department"
+],
+"a": 2
+},
+{
+"q": "Sales₹5,00,000, variable costs $=?3,00,000,$ fixed costs = 1,00,000. What is margin of safety?",
+"o": [
+"₹1,00,000",
+"2,50,000",
+"1,25,000",
+"₹50.000"
+],
+"a": 0
+},
+{
+"q": "Fixed cost 80,000, break-even sales 2,00,000. If sales rise to 23,00,000, what is profit?",
+"o": [
+"20,000",
+"40,000",
+"60,000",
+"₹80,000"
+],
+"a": 0
+},
+{
+"q": "A firm produces 5,000 units at total cost 1,50,000; at 6,000 units, total cost ₹1,70,000. Marginal cost per unit?",
+"o": [
+"20",
+"40",
+"25",
+"30"
+],
+"a": 0
+},
+{
+"q": "A company gets a special order of 2,000 units at 45 each. Variable cost is 40. Fixed costs remain the same. Should the order be accepted?",
+"o": [
+"Yes, gives 10,000",
+"No, below cost",
+"Yes, covers FC",
+"No. loss"
+],
+"a": 0
+},
+{
+"q": "Product A: SP ₹100, VC ₹70 (2 hrs); B: SP 280, VC ₹50 (1 hr); 5,000 hrs available. What to produce?",
+"o": [
+"All A",
+"All B",
+"Mix",
+"None"
+],
+"a": 1
+},
+{
+"q": "A company has the following standards: 5 kg of material at ₹10/kg. Actual usage was 6 kg at 29/kg. What is the Material Price Variance?",
+"o": [
+"26 Favorable",
+"26 Adverse",
+"10 Favorable",
+"10 Adverse"
+],
+"a": 0
+},
+{
+"q": "If the standard labor time for 100 units is 200 hours and the actual hours taken are 220 hours at a standard wage rate of 50 per hour, what is the labor efficiency variance?",
+"o": [
+"₹1000 Favorable",
+"1000 Adverse",
+"500 Favorable",
+"500 Adverse"
+],
+"a": 1
+},
+{
+"q": "A product's standard cost includes 3 hours of labor at 40 per hour. Actual labor was 4 hours at 38 per hour. What is the labor rate variance?",
+"o": [
+"28 Favorable",
+"28 Adverse",
+"120 Favorable",
+"120 Adverse"
+],
+"a": 0
+},
+{
+"q": "Standard cost of variable overhead is 25 per hour. Standard hours allowed for actual production are 1000 hours, actual hours worked are 1100 hours, and actual overhead is ₹5600. Calculate variable overhead spending variance.",
+"o": [
+"100 Favorable",
+"100 Adverse",
+"600 Favorable",
+"600 Adverse"
+],
+"a": 1
+},
+{
+"q": "A company produces 500 units. The standard material per unit is 2 kg at 4 per kg. Actual material used is 1100 kg at 23.8 per kg. Calculate material usage variance.",
+"o": [
+"200 Favorable",
+"200 Adverse",
+"400 Favorable",
+"400 Adverse"
+],
+"a": 3
+},
+{
+"q": "A company's fixed overhead absorption rate is ₹10 per hour. Standard hours allowed for actual production are 500 hours. Actual fixed overhead incurred was 5200, Calculate fixed overhead spending variance.",
+"o": [
+"2200 Adverse",
+"200 Favorable",
+"700 Adverse",
+"700 Favorable"
+],
+"a": 0
+},
+{
+"q": "Standard variable overhead rate is 24 per hour. Standard hours allowed are 500 hours. Actual hours worked are 550 hours and actual variable overhead is 2300. Calculate variable overhead efficiency variance.",
+"o": [
+"200 Adverse",
+"200 Favorable",
+"100 Adverse",
+"100 Favorable"
+],
+"a": 0
+},
+{
+"q": "Which variance arises due to the difference between actual price and standard price of materials?",
+"o": [
+"Material Usage Variance",
+"Material Price Variance",
+"Labor Efficiency Variance",
+"Overhead Variance"
+],
+"a": 1
+},
+{
+"q": "Labour efficiency variance indicates:",
+"o": [
+"The difference between actual and standard wages",
+"The difference between actual hours and standard hours for actual production",
+"The difference between actual and budgeted production",
+"The difference between actual and standard price of labor"
+],
+"a": 1
+},
+{
+"q": "Which of the following is a favorable variance?",
+"o": [
+"Actual cost more than standard cost",
+"Actual cost less than standard cost",
+"Actual output less than standard output",
+"Standard cost more than actual cost"
+],
+"a": 1
+},
+{
+"q": "Overhead variances are classified into:",
+"o": [
+"Fixed and Variable overhead variances",
+"Material and Labour overhead variances",
+"Efficiency and Price variances only",
+"Selling and Administrative variances"
+],
+"a": 0
+},
+{
+"q": "What type of standard assumes no inefficiencies and perfect conditions?",
+"o": [
+"Basic standard",
+"Ideal standard",
+"Current standard",
+"Normal standard"
+],
+"a": 1
+},
+{
+"q": "How often are standards usually revised?",
+"o": [
+"Every month",
+"Annually",
+"Only when actual costs change",
+"At regular intervals based on changing conditions"
+],
+"a": 3
+},
+{
+"q": "What is the effect of an adverse material usage variance?",
+"o": [
+"Increased material cost",
+"Reduced material usage",
+"Lower labor cost",
+"Higher fixed overhead"
+],
+"a": 0
+},
+{
+"q": "A company budgets sales at 10,000 units at 20 per unit. Variable cost is 12/unit and fixed costs are ₹40,000. What is the budgeted profit?",
+"o": [
+"20,000",
+"₹30,000",
+"40.000",
+"₹80.000"
+],
+"a": 2
+},
+{
+"q": "In a flexible budget, fixed costs are ₹30,000. At 5,000 units, total variable cost is ₹50,000. What is total cost at 6,000 units?",
+"o": [
+"82,000",
+"₹90,000",
+"75,000",
+"98.000"
+],
+"a": 1
+},
+{
+"q": "Budgeted production is 1,200 units. Opening stock 100, Closing stock 300. What is the sales budget?",
+"o": [
+"1000 units.",
+"1200 units",
+"1300 units",
+"1600 units"
+],
+"a": 0
+},
+{
+"q": "Sales forecast for Jan to March: ₹60,000, ₹80,000, ₹1,00,000, 30% sales are cash; 70% are credit, collected in next month. What are total receipts in March?",
+"o": [
+"₹ 92,000",
+"30,000",
+"1,00,000",
+"86,000"
+],
+"a": 3
+},
+{
+"q": "Sales forecast is 25,00,000. Desired closing stock is 20% of next month's sales, and opening stock is ₹40,000. If next month's sales are 6,00,000, what is the required production (in)?",
+"o": [
+"5,80,000",
+"5,60,000",
+"4,20,000",
+"6,20,000"
+],
+"a": 0
+},
+{
+"q": "Which of the following budgets is a \"summary budget\" of all departmental budgets?",
+"o": [
+"Cash budget",
+"Master budget",
+"Flexible budget",
+"Functional budget"
+],
+"a": 1
+},
+{
+"q": "A flexible budget is preferable to a fixed budget because it",
+"o": [
+"assumes a constant cost structure",
+"allows budget comparisons at various levels of activity",
+"cannot be adjusted once prepared",
+"ignores fixed costs"
+],
+"a": 1
+},
+{
+"q": "Which type of budgeting starts from zero each period rather than adjusting prior budgets?",
+"o": [
+"Incremental budgeting",
+"Zero-based budgeting",
+"Flexible budgeting",
+"Rolling budgeting"
+],
+"a": 1
+},
+{
+"q": "Rolling budgets are characterized by",
+"o": [
+"being prepared only once a year",
+"having no fixed time horizon",
+"always shifting the budget horizon forward",
+"being rigid and not adaptable"
+],
+"a": 2
+},
+{
+"q": "A performance budget emphasises",
+"o": [
+"classification by functions only",
+"cost centres only",
+"linkage between inputs and programme goals",
+"fixed cost control only"
+],
+"a": 2
+},
+{
+"q": "Which of the following is not a functional budget?",
+"o": [
+"Sales budget",
+"Production budget",
+"Purchase budget",
+"Master budget"
+],
+"a": 3
+},
+{
+"q": "Benchmarking in budgetary control refers to",
+"o": [
+"setting budgets using past years only",
+"comparing performance with best-in-class",
+"ignoring variances below a threshold",
+"inter-departmental negotiation"
+],
+"a": 1
+},
+{
+"q": "Which cost remains constant per unit in flexible budgets?",
+"o": [
+"Variable cost",
+"Fixed cost per unit",
+"Total fixed cost",
+"Semi-variable cost"
+],
+"a": 0
+},
+{
+"q": "Which is not properly matched?",
+"o": [
+"Cash budget inflows/outflows",
+"Capital budget fixed asset plans",
+"Master budget- overall plan",
+"Flexible budget- fixed for all activity"
+],
+"a": 3
+},
+{
+"q": "In zero-based budgeting, units must",
+"o": [
+"accept previous budgets",
+"justify all expenditure",
+"prepare only supplements",
+"ignore activity levels"
+],
+"a": 1
+},
+{
+"q": "Forecasting is different from budgeting in that",
+"o": [
+"forecasting is binding, while budgeting is not",
+"budgeting is essentially prediction, while forecasting is commitment",
+"forecasting is estimation of future trends, budgeting is a plan/commitment based on that estimate",
+"forecasting is short term and budgeting is always long term"
+],
+"a": 2
+},
+{
+"q": "Return on Investment (ROI) as a divisional performance measure is calculated as:",
+"o": [
+"Net profit/Total assets",
+"Operating profit/ Average operating assets",
+"Sales/Operating expenses",
+"Operating profit/ Sales"
+],
+"a": 1
+},
+{
+"q": "Which of the following is the primary objective of divisional performance measurement?",
+"o": [
+"Centralized decision-making",
+"Evaluate profitability and efficiency of divisions",
+"Increase company-wide bureaucracy",
+"Eliminate responsibility centers"
 ],
 "a": 1
 }
