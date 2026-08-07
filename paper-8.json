@@ -1198,5 +1198,605 @@
 "Value of Items of Inventory"
 ],
 "a": 1
+},
+{
+"q": "Form used for making a formal request to the Purchasing Department to purchase materials is a-",
+"o": [
+"material transfer note",
+"Purchase Requisition Note",
+"Bill of materials",
+"Material requisition note"
+],
+"a": 1
+},
+{
+"q": "Classification of Materials on the basis of their Importance in Value is called:",
+"o": [
+"EOQ Analysis",
+"Stock level analysis",
+"ABC Analysis",
+"Value analysis"
+],
+"a": 2
+},
+{
+"q": "For Return of Excess Materials from Production Department to stores, the document used is:",
+"o": [
+"Material return note",
+"Stores debit note",
+"Shop Credit Note",
+"All the above (same)"
+],
+"a": 3
+},
+{
+"q": "Which of the following is NOT related to a standard list of materials and components?",
+"o": [
+"Consumption Statement",
+"bill of materials",
+"Material specification list",
+"Material list"
+],
+"a": 0
+},
+{
+"q": "Which of the following is NOT recorded on a Bin card?",
+"o": [
+"material received from supplier",
+"material issued to production depts",
+"Inter department transfers",
+"Loss of materials"
+],
+"a": 2
+},
+{
+"q": "What is the formula for Re-order level?",
+"o": [
+"Minimum Usage x minimum lead time",
+"Minimum Usage x maximum lead time",
+"Maximum Usage x minimum lead time",
+"Maximum Usage x maximum lead time"
+],
+"a": 1
+},
+{
+"q": "(ROL+ROQ (-) minimum usage x minimum lead time) is the computation formula for....",
+"o": [
+"Maximum level",
+"Minimum level",
+"Average level",
+"danger level"
+],
+"a": 0
+},
+{
+"q": "Inventory turnover ratio is expressed in",
+"o": [
+"Rupees",
+"Percentage",
+"times",
+"Any of the above"
+],
+"a": 2
+},
+{
+"q": "Generally, a High T/o and less days Average Inventory held is preferable",
+"o": [
+"High, less",
+"Low, high",
+"Low low",
+"high, high"
+],
+"a": 0
+},
+{
+"q": "Pricing of Materials in the order in which they are purchased is method called",
+"o": [
+"Specific Identification",
+"FIFO",
+"LIFO",
+"Orderly"
+],
+"a": 1
+},
+{
+"q": "Landed cost of materials does not include.....",
+"o": [
+"Cost of Containers",
+"Carriage Inwards",
+"Stock Insurance",
+"Unloading Charges"
+],
+"a": 2
+},
+{
+"q": "Cost of abnormal loss of materials is",
+"o": [
+"Debited to costing P & L",
+"Credited to Costing P&L",
+"InCluded In Landed Cost",
+"Included in OH"
+],
+"a": 0
+},
+{
+"q": "Idle time is the time under which",
+"o": [
+"Full wages are paid to workers",
+"No output is produced by the workers",
+"Both (a) and (b)",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "When a direct Worker is paid on a monthly fixed salary basis, the following is true:",
+"o": [
+"There is no idle time lost",
+"There is no idle time cost",
+"Idle time cost is separated and treated as overhead",
+"salari is fully treated as factory overhead cost"
+],
+"a": 0
+},
+{
+"q": "Time and Motion study is conducted by",
+"o": [
+"Time Keeping Department",
+"Personnel Department",
+"Payroll Department",
+"Engineering Department"
+],
+"a": 3
+},
+{
+"q": "Wages sheet is generally prepared by-",
+"o": [
+"Time Keeping Department",
+"Personnel Department",
+"Payroll Department",
+"Engineering Department"
+],
+"a": 2
+},
+{
+"q": "For reducing the labour cost per unit, which of the following factors is most important?",
+"o": [
+"Low wage rate",
+"Longer hours of work",
+"Higher Productivity or Efficiency",
+"Strict control and supervison"
+],
+"a": 2
+},
+{
+"q": "Time Booking refers to a method wherein Time spent on a particulars job of an employees is recorded",
+"o": [
+"Attendance",
+"book keeping details",
+"Health Status",
+"Time spent on a particulars job"
+],
+"a": 3
+},
+{
+"q": "Employee Cost includes",
+"o": [
+"wages and salaries",
+"Allowances and incentives",
+"Payment for Overtime",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Standard Time of a job is 60 hours and guaranteed time rate is rs 90 per hour. What is the amount of wages under Rowan plan if job is completed in 48 hours?",
+"o": [
+"rs 1620",
+"rs 1728",
+"rs 1800",
+"rs 1440"
+],
+"a": 1
+},
+{
+"q": "Standard Time of a job is 60 hours and guaranteed time rate is rs 90 per hour. What is the amount of wages under Halsey plan if job is completed in 48 hours?",
+"o": [
+"rs 1620",
+"rs 1440",
+"rs 180",
+"rs 1728"
+],
+"a": 1
+},
+{
+"q": "If Overtime is required for meeting urgent orders, the Overtime premium should be charged as -",
+"o": [
+"Respective job",
+"Over head Cost",
+"Costing P& L a/c",
+"None of above"
+],
+"a": 0
+},
+{
+"q": "Keeping a rocord of total time spent by the worker inside the factory is called",
+"o": [
+"Time keeping",
+"Time Booking",
+"Time Managing",
+"Time Recording"
+],
+"a": 0
+},
+{
+"q": "Wages attributable to Normal idle Time is treated as",
+"o": [
+"Direct Wages",
+"Producction OH",
+"Either of the above",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "In the context of Labour Turnover Number of Workers left and discharged is called-",
+"o": [
+"Accession",
+"Replacement",
+"new replacement",
+"Separation"
+],
+"a": 3
+},
+{
+"q": "(Hours worked X Rate per hour) is the computation of wages under",
+"o": [
+"Incentive System",
+"Piece rate System",
+"Attendance System",
+"Time rate System"
+],
+"a": 3
+},
+{
+"q": "Under Halsey System generally Bonus is computed as x (Time Saved x Rate per hour)",
+"o": [
+"30%",
+"50%",
+"70%",
+"Actual Hrs/Std. Hrs"
+],
+"a": 1
+},
+{
+"q": "A worker will earn wages under Halsey and Rowan System, if time Saved equals",
+"o": [
+"50% of Std Time",
+"50% of Actual Time",
+"1/2 of Total Time",
+"1/2 of Lost time"
+],
+"a": 0
+},
+{
+"q": "Labour Efficiency (based on time) is given by the Formula",
+"o": [
+"Std Time/Actual Time",
+"Actual time/std time",
+"Idle Time/Std time",
+"Idle Time/Actual Time"
+],
+"a": 0
+},
+{
+"q": "If wages per day of 8 hours is rs 500, std outputis 100 units, Actual Output is 120, piece rate wages-",
+"o": [
+"rs 500",
+"rs 600",
+"rs 62.5",
+"rs 5"
+],
+"a": 1
+},
+{
+"q": "If Std Time is 8 hours, Actual time is 6 hours, rate per hour is Rs. 100, Rwan Wages =",
+"o": [
+"Rs. 600",
+"Rs. 150",
+"Rs. 750",
+"Rs. 700"
+],
+"a": 2
+},
+{
+"q": "If Actual Output in 8 hours is 700 units, Standard Output is 90 units per hour, Efficiency Ratio is",
+"o": [
+"97.22%",
+"102.86%",
+"100%",
+"77.78%"
+],
+"a": 0
+},
+{
+"q": "Fixed over costs are not effected in monetary terms during a fiven period by a change in Output. But this statement is valid provided",
+"o": [
+"Increase in Output is not Substantial",
+"Increase in Output is substantial",
+"Both (a) and (b)",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Capacity is defined as actually utilised capacity of a plant.",
+"o": [
+"theoretical",
+"Installed",
+"Practical",
+"Idle"
+],
+"a": 2
+},
+{
+"q": "Maximum Possible Productive Capacity of a plant when no operating time is lost is its:",
+"o": [
+"Normal Capacity",
+"Practical Capacity",
+"Theoretical Capacity",
+"Capacity based on Sales Expectancy"
+],
+"a": 2
+},
+{
+"q": "Charging of common Overheads cost to various cost centres, using appropriate bases is known as -",
+"o": [
+"Allocation",
+"Apportionment",
+"Absorption",
+"Re- Apportionment"
+],
+"a": 1
+},
+{
+"q": "Distribution of service Department Overheads Cost to production Departments using different assumptions and methods is known as",
+"o": [
+"Allocation",
+"Apportionment",
+"Absorption",
+"Re- Apportionment"
+],
+"a": 3
+},
+{
+"q": "packing Cost is part of",
+"o": [
+"Production cost",
+"Selling Cost",
+"Distribution Cost",
+"It may be any of the above"
+],
+"a": 3
+},
+{
+"q": "Which of the following is not treated as a Manufacturing Overhead ?",
+"o": [
+"Lubricants",
+"Cotton Waste",
+"apportioned administration overheads",
+"Night Shift allowance paid to a factory Worker due to general work pressure"
+],
+"a": 3
+},
+{
+"q": "The difference between Actual Factory Overhead and Absorbed Factory Overhead will be usually at the minimum level, provided pre-determined overhead rate is based on:",
+"o": [
+"Maximum capacity",
+"Direct Labour Hours",
+"Machine Hours",
+"Normal Capacity"
+],
+"a": 3
+},
+{
+"q": "When Absorbed Overhead is Higher than the amount of Overhead incurred, it is called.",
+"o": [
+"Under absorption of overhead",
+"Over absorption of overhead",
+"Proper absorption of overhead.",
+"reabsorption of overhead"
+],
+"a": 1
+},
+{
+"q": "Which of the following overhead cost may not be apportioned on the basis of Direct Wages?",
+"o": [
+"Worker's Holiday pay",
+"Perquisites to workers",
+"ESI Contribution",
+"Managerial Salaries"
+],
+"a": 3
+},
+{
+"q": "The following is an example of direct expenses as per CAS-10:",
+"o": [
+"Special raw material which is a substantial part of the prime cost",
+"Travelling expenses to site.",
+"Overtime charges paid to direct worker to complete work before time.",
+"Catalogue of prices of finished products."
+],
+"a": 1
+},
+{
+"q": "CAS 21 stands for:",
+"o": [
+"Capacity Determination",
+"Joint Cost",
+"Direct Expenses",
+"None of these"
+],
+"a": 3
+},
+{
+"q": "Standard deals with the cost of service cost center is:",
+"o": [
+"CAS-9",
+"CAS-13",
+"CAS-16",
+"CAS-22"
+],
+"a": 1
+},
+{
+"q": "Which standards deals with the principles and methods of determining depreciation and amortization cost?",
+"o": [
+"CAS 9",
+"CAS 12",
+"CAS 15",
+"CAS 16"
+],
+"a": 3
+},
+{
+"q": "Which standards deals with determination of averages/equalized transportation cost?",
+"o": [
+"CAS 5",
+"CAS 6",
+"CAS 9",
+"CAS 22"
+],
+"a": 0
+},
+{
+"q": "Which standard deals with the principles and methods of determining the manufacturing Cost of excisable goods?",
+"o": [
+"CAS 2",
+"CAS 12",
+"CAS 15",
+"CAS 22"
+],
+"a": 3
+},
+{
+"q": "deals with the principles and methods of determining the production or operation overheads.",
+"o": [
+"CAS-3",
+"CAS-5",
+"CAS-9",
+"CAS-16"
+],
+"a": 0
+},
+{
+"q": "CAS 13 stands for:",
+"o": [
+"Joint Cost",
+"Interest and financing charges",
+"Employee Cost",
+"Cost of Service cost centre"
+],
+"a": 3
+},
+{
+"q": "Which of the following items is not included in preparation of cost sheet?",
+"o": [
+"Carriage inward",
+"Purchase returns",
+"Sales Commission",
+"Interest paid"
+],
+"a": 3
+},
+{
+"q": "Which of the following items is not excluded while preparing a cost sheet?",
+"o": [
+"Goodwill written off",
+"Provision for taxation",
+"Property tax on Factory building",
+"Transfer to reserves"
+],
+"a": 2
+},
+{
+"q": "Which of the following are direct expenses?(1) The cost of special designs, drawings or layouts, (2) The hire of tools or equipment for a particular job. (3) Salesman's wages, (4) Rent, rates and insurance of a factory",
+"o": [
+"(1) and (2)",
+"(1) and (3)",
+"(1) and (4)",
+"(3) and (4)"
+],
+"a": 0
+},
+{
+"q": "What is prime cost?",
+"o": [
+"Total direct cost only",
+"Total indirect costs only",
+"Total non-production costs",
+"Total production costs"
+],
+"a": 0
+},
+{
+"q": "Which of the following is not an element of works overhead?",
+"o": [
+"Sales manager's salary",
+"Plant manager's salary",
+"Factory repairman's wages",
+"Product inspector's salary"
+],
+"a": 0
+},
+{
+"q": "For the purpose of Cost Sheet preparation, costs are classified based on:",
+"o": [
+"Functions",
+"Relevance",
+"Variability",
+"Nature"
+],
+"a": 0
+},
+{
+"q": "Salary paid to an office supervisor is a part of:",
+"o": [
+"Direct expenses",
+"Administration cost",
+"Quality control cost",
+"Factory overheads"
+],
+"a": 1
+},
+{
+"q": "Audit fees paid to cost auditors is part of",
+"o": [
+"Selling and distribution cost",
+"Production cost",
+"Administration cost",
+"Not recorded in the cost sheet"
+],
+"a": 2
+},
+{
+"q": "A company has set up a laboratory for testing of products for compliance with standards. Salary of this laboratory stuffs are part of:",
+"o": [
+"Direct expenses",
+"Quality control cost",
+"Works overheads",
+"Research and development cost"
+],
+"a": 1
+},
+{
+"q": "Canteen expenses for factory workers are part of:",
+"o": [
+"Administration cost",
+"Factory overhead",
+"Marketing cost",
+"None of the above"
+],
+"a": 1
 }
 ]
