@@ -790,7 +790,7 @@
 "a": 0
 },
 {
-"q": "(Total station time/Cycle time  Number of work stations)   100 is known as:",
+"q": "(Total station time / Cycle time x Number of work stations) x 100 is known as:",
 "o": [
 "Line Efficiency",
 "Line smoothness",
@@ -1500,7 +1500,7 @@
 "a": 0
 },
 {
-"q": "(Total station time/cycle timex Number of work stations) x 100 is known as",
+"q": "(Total station time / Cycle time x Number of work stations) x 100 is known as:",
 "o": [
 "Line efficiency",
 "Line smoothness",
@@ -2900,7 +2900,7 @@
 "a": 0
 },
 {
-"q": "Find the economic order quantity and the reorder point, given Annual demand (D)=1000 units Average daily demand (d)=1000/365 Ordering Cost (S)=5 per order Holding cost(HI)=\u00b01.25 per unit per year. Lead time (L)=5 days Cost per unit (C)=\u00b212.50 What quantity should be ordered?",
+"q": "Find the economic order quantity and the reorder point, given Annual demand (D)=1000 units Average daily demand (d)=1000/365 Ordering Cost (S)=₹5 per order Holding cost(H)=₹1.25 per unit per year. Lead time (L)=5 days Cost per unit (C)=₹12.50 What quantity should be ordered?",
 "o": [
 "3612",
 "2812",
