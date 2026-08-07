@@ -1840,7 +1840,7 @@
 "a": 1
 },
 {
-"q": "As a tool service centre the arrival rate is two per hour and the service potential is three per hour. Simple queue conditions exist. The hourly wage paid to the attendant at the service centre is 1.50 per hour and the hourly cost of a machinist away from his work $is^{\circ}4$ Calculate: The average time a machinist spends waiting for service.",
+"q": "As a tool service centre the arrival rate is two per hour and the service potential is three per hour. Simple queue conditions exist. The hourly wage paid to the attendant at the service centre is ₹1.50 per hour and the hourly cost of a machinist away from his work is ₹4. Calculate: The average time a machinist spends waiting for service.",
 "o": [
 "0.777 hours",
 "0.667 hours",
