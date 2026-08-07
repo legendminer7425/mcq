@@ -598,5 +598,605 @@
 "All of the above"
 ],
 "a": 3
+},
+{
+"q": "If the time saved is less than 50% of the standard time, then the wages under Rowan and Halsey premium plan on comparison gives:",
+"o": [
+"Equal wages under two plans",
+"More wages to workers under Halsey Plan than Rowan Plan",
+"More wages to workers under Rowan Plan than Halsey Plan",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Under Taylor's differential piece rate scheme, if a worker fails to complete the task within the standard time, then he is paid",
+"o": [
+"83% of the piece work rate",
+"175% of the piece work rate",
+"67% of the piece work rate",
+"125% of the piece work rate"
+],
+"a": 0
+},
+{
+"q": "Direct Expenses includes imputed cost.",
+"o": [
+"Shall",
+"Shall not",
+"Shall be",
+"None of these"
+],
+"a": 1
+},
+{
+"q": "Direct Expenses that does not meet the test of materiality can be treated as part of overhead.",
+"o": [
+"Treated",
+"Not treated",
+"All of the these",
+"None of these"
+],
+"a": 0
+},
+{
+"q": "Example of Direct Expenses.",
+"o": [
+"Rent",
+"Royalty charged on production",
+"Bonus to employee",
+"None of these"
+],
+"a": 1
+},
+{
+"q": "The allotment of whole items of cost centres or cost unit is called:",
+"o": [
+"Cost allocation",
+"Cost apportionment",
+"Overhead absorption",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Directors remuneration and expenses form a part of:",
+"o": [
+"Production overhead",
+"Administration overhead",
+"Selling overhead",
+"Distribution overhead"
+],
+"a": 1
+},
+{
+"q": "Charging to a cost center those overheads that result solely for the existence of that cost Center is known as",
+"o": [
+"Allocation",
+"Apportionment",
+"Absorption",
+"Allotment"
+],
+"a": 0
+},
+{
+"q": "Absorption means:",
+"o": [
+"Charging of overheads to cost centres",
+"Charging of overhead to cost units",
+"Charging of overheads to cost centres or cost units",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "When the amount of under or over absorption is significant, it should be disposed of by:",
+"o": [
+"Transferring to costing profit and loss account",
+"The use of supplementary rates",
+"Carrying over as a deferred charge to the next accounting year",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "Selling and distribution overheads are absorbed on the basis of:",
+"o": [
+"rate per unit.",
+"percentage on works cost.",
+"percentage on selling price of each unit.",
+"Any of the above"
+],
+"a": 3
+},
+{
+"q": "Primary packing cost is a part of:",
+"o": [
+"Direct material cost",
+"Distribution overhead",
+"Selling overhead",
+"Production cost"
+],
+"a": 3
+},
+{
+"q": "Normal capacity of a plant refers to the difference between:",
+"o": [
+"Maximum capacity and practical capacity",
+"Maximum capacity and actual capacity",
+"Practical capacity and estimated idle capacity as revealed by long term sales trend",
+"Practical capacity and normal capacity"
+],
+"a": 2
+},
+{
+"q": "When the amount of overhead absorbed is less than the amount of overhead incurred, it is called:",
+"o": [
+"Under absorption of overhead",
+"Over absorption of overhead",
+"Proper absorption of overhead",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "is a scientific and accurate method of factory overhead absorption.",
+"o": [
+"Percentage of prime cost method",
+"Machine hour rate method",
+"Percentage of direct material cost method",
+"Percentage of direct labour cost method"
+],
+"a": 1
+},
+{
+"q": "Which of these is not a Material control technique:",
+"o": [
+"ABC Analysis",
+"Fixation of raw material levels",
+"Maintaining stores ledger",
+"Control over slow moving and non moving items"
+],
+"a": 2
+},
+{
+"q": "Out of the following, what is not the work of purchase department:",
+"o": [
+"Receiving purchase requisition",
+"Exploring the sources of material supply",
+"Preparation and execution of purchase orders",
+"Accounting for material received"
+],
+"a": 3
+},
+{
+"q": "Bin Card is a:",
+"o": [
+"Quantitative as well as value wise records of material received, issued and balance",
+"Quantitative record of material received, issued and balance",
+"Value wise records of material received, issued and balance",
+"a record of labour attendance"
+],
+"a": 1
+},
+{
+"q": "Stores Ledger is a:",
+"o": [
+"Quantitative as well as value wise records of material received, issued and balance",
+"Quantitative record of material received, issued and balance",
+"Value wise records of material received, issued and balance",
+"a record of labour attendance"
+],
+"a": 0
+},
+{
+"q": "Re-order level is calculated as:",
+"o": [
+"Maximum consumption x Maximum re-order period",
+"Minimum consumption x Minimum re-order period",
+"1/2 of (Minimum + Maximum consumption)",
+"Maximum level - Minimum level"
+],
+"a": 0
+},
+{
+"q": "Economic order quantity is that quantity at which cost of holding and carrying inventory is",
+"o": [
+"Maximum and equal",
+"Minimum and equal",
+"It can be maximum or minimum depending upon case to case.",
+"Minimum and unequal"
+],
+"a": 3
+},
+{
+"q": "ABC analysis is an inventory control technique in which:",
+"o": [
+"Inventory levels are maintained",
+"Inventory is classified into A, B and C category with A being the highest quantity, lowest value.",
+"Inventory is classified into A, B and C Category with A being the lowest quantity, highest value",
+"Either b or c."
+],
+"a": 2
+},
+{
+"q": "Which one out of the following is not an inventory valuation method?",
+"o": [
+"FIFO",
+"LIFO",
+"Weighted Average",
+"EOQ"
+],
+"a": 3
+},
+{
+"q": "In case of rising prices (inflation), FIFO method will:",
+"o": [
+"provide lowest value of closing stock and profit",
+"provide highest value of closing stock and profit",
+"provide highest value of closing stock but lowest value of profit",
+"provide highest value of profit but lowest value of closing stock"
+],
+"a": 1
+},
+{
+"q": "In case of rising prices (inflation), LIFO will:",
+"o": [
+"provide lowest value of closing stock and profit",
+"provide highest value of closing stock and profit",
+"provide highest value of closing stock but lowest value of profit",
+"provide highest value of profit but lowest value of closing stock"
+],
+"a": 0
+},
+{
+"q": "Calculate Re-order level from the following: Consumption per week: 100-200 units Delivery period: 14-28 days",
+"o": [
+"5600 units",
+"800 units",
+"1400 units",
+"200 units"
+],
+"a": 1
+},
+{
+"q": "Calculate EOQ (approx.) from the following details: Annual Consumption: 24000 units Ordering cost: Rs. 10 per order Purchase price: Rs. 100 per unit Carrying cost: 5%",
+"o": [
+"310",
+"400",
+"290",
+"300"
+],
+"a": 0
+},
+{
+"q": "Calculate the value of closing stock from the following according to FIFO method: Ist January, 2024: Opening balance: 50 units @ Rs. 4 Receipts: 5th January, 2024: 100 units @ Rs. 5, 12th January, 2024: 200 units @ Rs. 4.50 Issues: 2nd January, 2024: 30 units, 18th January, 2024: 150 units",
+"o": [
+"Rs. 765",
+"Rs. 805",
+"Rs. 786",
+"Rs. 700"
+],
+"a": 0
+},
+{
+"q": "Calculate the value of closing stock from the following according to LIFO method: Ist January, 2024: Opening balance: 50 units @ Rs. 4 Receipts: 5th January, 2024: 100 units @ Rs. 5, 12th January, 2024: 200 units @ Rs. 4.50 Issues: 2nd January, 2024: 30 units, 18th January, 2024: 150 units",
+"o": [
+"Rs. 765",
+"Rs. 805",
+"Rs. 786",
+"Rs. 700"
+],
+"a": 1
+},
+{
+"q": "Calculate the value of closing stock from the following according to Weighted Average method: Ist January, 2024: Opening balance: 50 units @ Rs. 4 Receipts: 5th January, 2024: 100 units @ Rs. 5, 12th January, 2024: 200 units @ Rs. 4.50 Issues: 2nd January, 2024: 30 units, 18th January, 2024: 150 units",
+"o": [
+"Rs. 765",
+"Rs. 805",
+"Rs. 786",
+"Rs. 700"
+],
+"a": 2
+},
+{
+"q": "Cost of abnormal wastage is:",
+"o": [
+"Charged to the product cost",
+"Charged to the profit & loss account",
+"charged partly to the product and partly profit & loss account",
+"not charged at all."
+],
+"a": 1
+},
+{
+"q": "Calculate re-order level from the following: Safety stock: 1000 units Consumption per week: 500 units It takes 12 weeks to reach material from the date of ordering.",
+"o": [
+"1000 units",
+"6000 units",
+"3000 units",
+"7000 units"
+],
+"a": 3
+},
+{
+"q": "From the following information, calculate the extra cost of material by following EOQ: Annual consumption: 45000 units Ordering cost per order: Rs. 10 Carrying cost per unit per annum: Rs. 10 Purchase price per unit: Rs. 50 Re-order quantity at present: 45000 units There is discount of 10% per unit in case of purchase of 45000 units in bulk.",
+"o": [
+"No saving",
+"Rs. 2,00,000",
+"Rs. 2,22,010",
+"Rs. 2,990"
+],
+"a": 3
+},
+{
+"q": "Which of the following is an abnormal cause of Idle time:",
+"o": [
+"Time taken by workers to travel the distance between the main gate of factory and place of their work",
+"Time lost between the finish of one job and starting of next job",
+"Time spent to meet their personal needs like taking lunch, tea etc",
+"Machine break downs"
+],
+"a": 3
+},
+{
+"q": "If overtime is resorted to at the desire of the customer, then the overtime premium:",
+"o": [
+"should be charged to costing profit and loss account",
+"should not be charged at all",
+"should be charged to the job directly",
+"should be charged to the highest profit making department"
+],
+"a": 2
+},
+{
+"q": "Labour turnover means:",
+"o": [
+"Turnover generated by labour",
+"Rate of change in composition of labour force during a specified period",
+"Either of the above",
+"Both of the above"
+],
+"a": 1
+},
+{
+"q": "Which of the following is not an avoidable cause of labour turnover:",
+"o": [
+"Dissatisfaction with Job",
+"Lack of training facilities",
+"Low wages and allowances",
+"Disability, making a worker unfit for work"
+],
+"a": 3
+},
+{
+"q": "Costs associated with the labour turnover can be categorised into:",
+"o": [
+"Preventive Costs only",
+"Replacement costs only",
+"Both of the above",
+"Machine costs"
+],
+"a": 2
+},
+{
+"q": "Calculate workers left and discharged from the following: Labour turnover rates are 20%, 10% and 6% respectively under Flux method, Replacement method and Separation method. No. of workers replaced during the quarter is 80.",
+"o": [
+"112",
+"80",
+"48",
+"64"
+],
+"a": 2
+},
+{
+"q": "Calculate workers recruited and joined from the following: Labour turnover rates are 20%, 10% and 6% respectively under Flux method, Replacement method and Separation method. No. of workers replaced during the quarter is 80.",
+"o": [
+"112",
+"80",
+"48",
+"64"
+],
+"a": 0
+},
+{
+"q": "Calculate the labour turnover rate according to replacement method from the following: No. of workers on the payroll: At the beginning of the month: 500 At the end of the month: 600 During the month, 5 workers left, 20 workers were discharged and 75 workers were recruited. Of these, 10 workers were recruited in the vacancies of those leaving and while the rest were engaged for an expansion scheme.",
+"o": [
+"4.55%",
+"1.82%",
+"6%",
+"3%"
+],
+"a": 1
+},
+{
+"q": "Calculate the labour turnover rate according to Separation method from the following: No. of workers on the payroll: At the beginning of the month: 500 At the end of the month: 600 During the month, 5 workers left, 20 workers were discharged and 75 workers were recruited. Of these, 10 workers were recruited in the vacancies of those leaving and while the rest were engaged for an expansion scheme.",
+"o": [
+"4.55%",
+"1.82%",
+"6%",
+"3%"
+],
+"a": 0
+},
+{
+"q": "A worker is allowed 60 hours to complete the job on a guaranteed wage of Rs. 10 per hour. Under the Rowan Plan, he gets an hourly wage of Rs. 12 per hour. For the same saving in time, how much he will get under the Halsey Plan?",
+"o": [
+"Rs.720",
+"Rs.540",
+"Rs.600",
+"Rs.900"
+],
+"a": 1
+},
+{
+"q": "Overhead refers to:",
+"o": [
+"Direct or Prime Cost",
+"All Indirect costs",
+"only Factory indirect costs",
+"Only indirect expenses"
+],
+"a": 1
+},
+{
+"q": "Allotment of whole item of cost to a cost centre or cost unit is known as:",
+"o": [
+"Cost Apportionment",
+"Cost Allocation",
+"Cost Absorption",
+"Machine hour rate"
+],
+"a": 1
+},
+{
+"q": "Which of the following is not a method of cost absorption?",
+"o": [
+"Percentage of direct material cost",
+"Machine hour rate",
+"Labour hour rate",
+"Repeated distribution method"
+],
+"a": 3
+},
+{
+"q": "Service departments costs should be allocated to:",
+"o": [
+"Only Service departments",
+"Only Production departments",
+"Both Production and service departments",
+"None of the production and service departments"
+],
+"a": 2
+},
+{
+"q": "Most suitable basis for apportioning insurance of machine would be:",
+"o": [
+"Floor Area",
+"Value of Machines",
+"No. of Workers",
+"No. of Machines"
+],
+"a": 1
+},
+{
+"q": "Blanket overhead rate is:",
+"o": [
+"One single overhead absorption rate for the whole factory",
+"Rate which is blank or nil rate",
+"rate in which multiple overhead rates are calculated for each production department, service department etc",
+"Always a machine hour rate"
+],
+"a": 0
+},
+{
+"q": "AT Co makes a single product and is preparing its material usage budget for next year. Each unit of product requires 2kg of material, and 5,000 units of product are to be produced next year. Opening inventory of material is budgeted to be 800 kg and AT co budgets to increase material inventory at the end of next year by 20%. The material usage budget for next year is:",
+"o": [
+"8,000 Kg",
+"9,840 kg",
+"10,000 Kg",
+"10,160 Kg"
+],
+"a": 2
+},
+{
+"q": "During a period 17, 500 labour hours were worked at a standard cost of Rs. 6.50 per hour. The labour efficiency variance was Rs. 7,800 favourable. How many standard hours were produced?",
+"o": [
+"1200",
+"16300",
+"17500",
+"18700"
+],
+"a": 3
+},
+{
+"q": "In most of the manufacturing industries, the most important element of cost is",
+"o": [
+"material",
+"Labour",
+"overheads",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Which of the following is NOT considered to be Normal loss of Materials?",
+"o": [
+"Loss due to accidents",
+"Pilferage",
+"Loss due to breaking the bulk",
+"Loss due to transfering of liquid materials from container to another"
+],
+"a": 2
+},
+{
+"q": "Which of following is NOT considered as Normal loss of material?",
+"o": [
+"Loss due to evaporation due to prevalent weather conditions",
+"Loss due to pilferage",
+"Loss due to breaking the bulk",
+"Loss due to transferring of liquid materials from container to another"
+],
+"a": 1
+},
+{
+"q": "At the economic ordering quantity level, the following is true on an annual basis:",
+"o": [
+"Ordering Cost is minimum",
+"Carrying Cost is minimum",
+"Ordering Cost is equal to the Carrying Cost",
+"Purchase Price is minimum"
+],
+"a": 2
+},
+{
+"q": "Continuous Stock Taking is a part of:",
+"o": [
+"Annual Stock Taking",
+"Perpetual Inventory",
+"ABC Analysis",
+"Bin Cards"
+],
+"a": 1
+},
+{
+"q": "In which of the following methods, issues of materials are priced at pre-determined rate?",
+"o": [
+"Inflated Price Method",
+"Standard price method",
+"Replacement Price Method",
+"Market Price Method"
+],
+"a": 1
+},
+{
+"q": "When Material prices Fluctuate widely, the method of pricing that gives absurd results is -",
+"o": [
+"Simple Average Price",
+"Weighted Average price",
+"Moving Average Price",
+"Inflated Price"
+],
+"a": 3
+},
+{
+"q": "When prices fluctuate widely, the method that will smooth out the effect of fluctuations is",
+"o": [
+"Simple Average Price",
+"Weighted Average price",
+"FIFO",
+"LIFO"
+],
+"a": 1
+},
+{
+"q": "Under the FSN system of Inventory Control, Inventory is Classified on the basis of:",
+"o": [
+"Volumne of materail consumption",
+"Frequently of usage of items of inventory",
+"Criticality of the item of inventory of production",
+"Value of Items of Inventory"
+],
+"a": 1
 }
 ]
