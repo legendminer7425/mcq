@@ -1,1 +1,402 @@
-
+[
+{
+"q": "Management Accounting",
+"o": [
+"Accumulates, summarizes and analyses the available data.",
+"Is primarily concerned with the requirements of the management.",
+"Makes Corporate Planning and Strategy effective.",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Management accounting can be viewed as",
+"o": [
+"Marketing-oriented Accounting",
+"Management-oriented Accounting",
+"Accounting-oriented Management",
+"Manager-oriented Accounting"
+],
+"a": 1
+},
+{
+"q": "The main objective of management accounting is",
+"o": [
+"To maintain the accounting records",
+"To know the amount due from customers and suppliers",
+"To ascertain analyse and interpret the results of business operations",
+"To record all the business transactions"
+],
+"a": 2
+},
+{
+"q": "is the study of managerial aspects of financial accounting",
+"o": [
+"Cost accounting",
+"Financial accounting",
+"Business accounting",
+"Management accounting"
+],
+"a": 3
+},
+{
+"q": "The purpose of management accounting is to help make decisions",
+"o": [
+"Managers",
+"Investors",
+"Marketers",
+"Banks"
+],
+"a": 0
+},
+{
+"q": "Management accounting assists the management in",
+"o": [
+"Planning",
+"Directing",
+"Controlling",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Period of lost relevance is the of the evolution of management accounting.",
+"o": [
+"Ist stage",
+"2nd stage",
+"3rd stage",
+"4th stage"
+],
+"a": 2
+},
+{
+"q": "criteria are a set of standards for a company's behaviour used by socially conscious investors to screen potential investments.",
+"o": [
+"JIT",
+"AMT",
+"ABC",
+"ESG"
+],
+"a": 3
+},
+{
+"q": "Management accounting information helps managers formulate strategy by answering which of the following questions?",
+"o": [
+"Who are the most important customers, and how can the company deliver value to the customers?",
+"What is most critical capability of the company which may be technology, production, or marketing?",
+"How can we leverage it for new strategic initiatives?",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Management accounting with specific focus on environmental issues is becoming increasingly important in organizations as environmental costs are large in many organisations. There are three specific reasons for this, which are",
+"o": [
+"Environmental costs are often high in the many manufacturing organisations",
+"Regulatory requirements often impose huge fines for non-compliance",
+"Both 1 and 2",
+"Companies are increasingly realizing that being socially and environmentally responsible declines their image and this has positive impact on their bottom line."
+],
+"a": 2
+},
+{
+"q": "Management accounting is concerned with data collection from",
+"o": [
+"internal sources",
+"external sources",
+"internal and external sources",
+"Internal or external sources"
+],
+"a": 2
+},
+{
+"q": "Management Accounting is concerned with accounting information, which is useful to the management This definition is given by",
+"o": [
+"Robert N. Antho",
+"Brown and Howard",
+"CIMA",
+"The Institute of Chartered Accountants of England and Wales"
+],
+"a": 0
+},
+{
+"q": "The primary objective of Management Accounting is to",
+"o": [
+"maximize profits",
+"minimize losses",
+"maximize profits or minimize losses",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Which of the following is a correct definition of activity-based management?",
+"o": [
+"An approach to the costing and monitoring of activities which involves tracing resource consumption and costing final outputs. Resources are assigned to activities and activities to cost objects based on consumption estimates. The latter utilize cost drivers to attach activity costs to outputs.",
+"The identification and evaluation of the activity drivers used to trace the cost of activities to cost objects. It may also involve selecting activity drivers with potential to contribute to the cost management function with particular reference to cost reduction",
+"A method of budgeting based on an activity framework and utilizing cost driver data in the budget-setting and variance feedback processes.",
+"A system of management which uses activity-based cost information for a variety of purposes including cost reduction, cost modeling and customer profitability analysis"
+],
+"a": 3
+},
+{
+"q": "Which of the following characteristics would be an indicator that a company would benefit from switching to activity based costing?",
+"o": [
+"Only one homogenous product is produced on a continuous basis",
+"The existing cost system is reliable and has produced excellent results",
+"Overhead costs are high and increasing and no one seems to know why",
+"The costs of implementing ABC out-weigh the benefits"
+],
+"a": 2
+},
+{
+"q": "According to the Chartered Institute of Management Accountants (CIMA), cost attribution to cost units on the basis of benefits received from indirect activities e.g. ordering, setting up, and assuring quality is known as:",
+"o": [
+"Absorption costing",
+"Marginal costing",
+"Activitybased- costing",
+"Job costing"
+],
+"a": 2
+},
+{
+"q": "In an ABC system, which of the following is likely to be classified as a batch level activity?",
+"o": [
+"Machine set-up",
+"Product design",
+"Inspection of every item produced",
+"Production manager's work"
+],
+"a": 0
+},
+{
+"q": "Activity based costing",
+"o": [
+"Uses a plant wide overhead rate to assign overhead",
+"Is not expensive to implement",
+"Typically applies overhead costs using direct labour hours",
+"Uses multiple activity rates"
+],
+"a": 3
+},
+{
+"q": "Which of the following activities is not a batch level activity?",
+"o": [
+"Processing purchase orders",
+"Designing products",
+"Receive raw materials from suppliers",
+"Setting up equipment"
+],
+"a": 1
+},
+{
+"q": "Which of the following is not included in batch level activities?",
+"o": [
+"Material ordering cost",
+"Machine set-up cost",
+"Inspection cost",
+"Designing the product"
+],
+"a": 3
+},
+{
+"q": "Assigning overhead using ABC often:",
+"o": [
+"Shifts overhead costs from high-volume products to low- volume products",
+"Shifts overhead costs from low- volume products to high-volume products",
+"Provides the same results as traditional costing",
+"Requires one predetermined overhead rate"
+],
+"a": 0
+},
+{
+"q": "In Activity Based Costing",
+"o": [
+"Non-manufacturing costs may not be assigned to products",
+"Some manufacturing costs may be excluded from product costs",
+"Allocation bases are the same as those used in traditional costing methods",
+"Similar to traditional costing. ABC only uses one overhead cost pool"
+],
+"a": 1
+},
+{
+"q": "In an ABC system, the allocation bases that are used for applying costs to services or procedures are called:",
+"o": [
+"Cost Pool",
+"Cost Driver",
+"Cost Absorption",
+"Cost Object"
+],
+"a": 1
+},
+{
+"q": "Which of the following would not be deducted from sales in a management report prepared using ABC?",
+"o": [
+"Direct materials",
+"Direct labour",
+"Variable selling and administration costs",
+"Shipping costs"
+],
+"a": 3
+},
+{
+"q": "an item for which cost measurement is required e.g. product, job or a customer",
+"o": [
+"Cost Pool",
+"Cost Driver",
+"Cost Absorption",
+"Cost Object"
+],
+"a": 3
+},
+{
+"q": "Which of the following is different in ABC when compared to traditional costing?",
+"o": [
+"Traditional costing and ABC costing usually yield very similar product costs",
+"In an ABC costing system, costs are only assigned to products that actually required work that gave rise to a particular cost",
+"In ABC, batch-level costs are applied to products using unit-level bases",
+"Under traditional costing, batch-level costs are shifted from high-volume products to low- volume products"
+],
+"a": 1
+},
+{
+"q": "Process of Cost allocation under Activity Based Costing is",
+"o": [
+"Cost of Activities Activities Cost Driver-Cost allocated to cost objects",
+"Cost Driver Cost of Activities Cost allocated to cost objects Activities",
+"Activities Cost of Activities Cost Driver-Cost allocated to cost objects",
+"Activities Cost Driver-Cost allocated to cost objects Cost of Activities"
+],
+"a": 2
+},
+{
+"q": "Cost of maintaining a building is:",
+"o": [
+"Unit Level Cost",
+"Batch Level Cost",
+"Product Level Cost",
+"Facility Level Cost"
+],
+"a": 3
+},
+{
+"q": "should be subtracted from net product revenues instead of an arbitrary and illogical apportionment.",
+"o": [
+"Facility Level Cost",
+"Product Level Cost",
+"Organizational Level Cost",
+"High Level Cost"
+],
+"a": 2
+},
+{
+"q": "The basis of apportionment of overheads which takes into account the profitability of various departments is called:",
+"o": [
+"FIFO basis",
+"LIFO basis",
+"Ability to pay basis",
+"Activity basis"
+],
+"a": 3
+},
+{
+"q": "Which of the following is the main cost driver of customer order processing activity?",
+"o": [
+"Flow of the product from the assembly line",
+"Order value",
+"Number of problem suppliers",
+"Number of machine charges"
+],
+"a": 1
+},
+{
+"q": "Painting the product would be an example of which activity level groups",
+"o": [
+"Facility-level activity",
+"Product-level activity",
+"Unit-level activity",
+"Batch-level activity"
+],
+"a": 2
+},
+{
+"q": "Which of the following tasks is not normally associated with an activity-based costing system?",
+"o": [
+"Calculation of cost application rates",
+"Identification of cost pools",
+"Preparation of allocation matrices",
+"Identification of cost drivers"
+],
+"a": 2
+},
+{
+"q": "All of the following are examples of batch level activities except:",
+"o": [
+"Purchase order processing",
+"Setting up equipment",
+"The clerical activity associated with processing purchase orders to pro-duce an order for a standard product",
+"Worker recreational facilities"
+],
+"a": 3
+},
+{
+"q": "A cost driver-",
+"o": [
+"is a force behind the overhaed cost",
+"is an allocation base",
+"is a transaction that is a significant determinant of cost",
+"is all of the above"
+],
+"a": 3
+},
+{
+"q": "Which of these is NOT a cost driver For the Activity Design of products, services & Processes ?",
+"o": [
+"Number of Products in design",
+"Number of Parts per product",
+"Number of employee Training Programmes",
+"Number of engineering Hours"
+],
+"a": 2
+},
+{
+"q": "Which of these in NOT a Cost driver for Marketing and sales Function?",
+"o": [
+"Number of advertisements/Insertions",
+"Number of researche projects",
+"Number of Sales personnel",
+"sales Revenue"
+],
+"a": 1
+},
+{
+"q": "Which of these in NOT a Cost driver for Customer Service Activity ?",
+"o": [
+"Number of service calls",
+"Number of Products serviced",
+"Hours spent on servicing products",
+"sales Revenue"
+],
+"a": 3
+},
+{
+"q": "Plant depreciation is an example of which activity-level group?",
+"o": [
+"Unit-level activity",
+"Facility-level activity",
+"Batch-level activity",
+"Product-level activity"
+],
+"a": 1
+},
+{
+"q": "Under activity-based costing, 'material ordering' is considered as",
+"o": [
+"Unit-level activity",
+"Facility-level activity",
+"Batch-level activity",
+"Product-level activity"
+],
+"a": 2
+}
+]
