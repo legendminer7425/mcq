@@ -398,5 +398,405 @@
 "Product-level activity"
 ],
 "a": 2
+},
+{
+"q": "Samsung an appliance manufacturer is developing a new line of ovens that uses controlled-laser technology. Research and testing costs associated with the new ovens is said to arise from a:",
+"o": [
+"Unit Level Activity",
+"Competitive Level Activity",
+"Facility Level Activity",
+"Product Sustaining Activity"
+],
+"a": 3
+},
+{
+"q": "A homogeneous cost pool is one that:",
+"o": [
+"Does not change over time",
+"Needs many activity drivers to be allocated to a cost object",
+"Can be explained with a single activity driver",
+"Has only one type of material assigned to it"
+],
+"a": 2
+},
+{
+"q": "An Activity-Based Costing, an inspection of the product is a level activity:",
+"o": [
+"Unit",
+"Batch",
+"Product",
+"Facility"
+],
+"a": 1
+},
+{
+"q": "A company uses traditional standard costing system. The inspection and set-up costs are actually ₹1,760 against a budget of ₹2,000. ABC system is being implemented and accordingly the number of batches is identified as the cost driver for inspection and set up. The budgeted production is 10,000 units in batches of 1,000 units whereas actually 9,000 units were produced in 11 batches. The cost per batch under ABC system will be",
+"o": [
+"160",
+"200",
+"180",
+"220"
+],
+"a": 1
+},
+{
+"q": "X Company uses activity-based costing for Product B and Product D. The total estimated overhead cost for the parts administration activity pool was ₹5,50,000 and the expected activity was 2000 part types. If Product D requires 1200 part types, the amount of overhead allocated to product D for parts administration would be:",
+"o": [
+"2,75,000",
+"₹3,00,000",
+"₹3,30,000",
+"3,45,000"
+],
+"a": 2
+},
+{
+"q": "Fast Ltd. manufactures three types of products A, B, and C following ABC System. During a period, the company incurred 73,000 as inspection cost and it was worked for 10, 20 and 9 production runs respectively for producing products A, B, and C. The inspection costs for product B under the ABC system was",
+"o": [
+"15,000",
+"40,000",
+"18.000",
+"24,000"
+],
+"a": 1
+},
+{
+"q": "A company operates an activity based costing (ABC) system to attribute its overhead costs to cost objects. In its budget for the year- ending 31st August, 2022. The company expected to place a total of 2000 purchase orders at a total cost of ₹1,00,000. This activity and its related costs were budgeted to occur at a constant rate throughout the budget year which is divided into 13 four week periods. During the four-week period ended 30th June 2021, a total of 200 purchase orders were placed at a cost of 9,000. The over recovery of these costs for the four-week period was",
+"o": [
+"2,000",
+"₹3,000",
+"₹1.500",
+"₹1,000"
+],
+"a": 3
+},
+{
+"q": "A company manufactures 500 units of product AX the material cost to manufacture is ₹1,50,000, Labour cost ₹2,65,000. Material reordering cost is 4,500, Material handling cost is ₹2,500 Material order-35, Material movement - 20. Total Material cost under Activity based costing is.",
+"o": [
+"554",
+"4.22.000",
+"1,57,000",
+"1.084"
+],
+"a": 2
+},
+{
+"q": "To obtain the break-even point in rupee sales value, total fixed costs are divided by:",
+"o": [
+"Variable cost per unit;",
+"Contribution margin per unit;",
+"Fixed cost per unit;",
+"Profit/volume ratio."
+],
+"a": 3
+},
+{
+"q": "The break-even point is the point at which:",
+"o": [
+"There is no profit, no loss:",
+"Contribution margin is equal to total fixed cost:",
+"Total revenue is equal to total cost;",
+"All of the above."
+],
+"a": 3
+},
+{
+"q": "The primary difference between a fixed budget and a variable (flexible) budget is that a fixed budget:",
+"o": [
+"includes only fixed costs, while a variable budget includes only variable costs.",
+"lis concerned with only further acquisitions of fixed costs, while a variable budget is concerned with expenses which vary with sales.",
+"cannot be changed after the period begins, while a variable budget can be changed after the period begins.",
+"is a plan for a single level of sales (or other measure of activity), while a variable budget consists of several plans, one for each of several levels of sales (or other measures of activity)."
+],
+"a": 3
+},
+{
+"q": "Margin of safety is referred to as:",
+"o": [
+"Excess of actual sales over fixed expenses;",
+"Excess of actual sales over variable expenses;",
+"Excess of actual sales over break-even sales:",
+"Excess of budgeted sales over fixed costs."
+],
+"a": 2
+},
+{
+"q": "Contribution margin is known as",
+"o": [
+"Marginal income",
+"Gross profit",
+"Net income",
+"Net profit"
+],
+"a": 0
+},
+{
+"q": "Fixed cost per unit decrease when",
+"o": [
+"Production volume increases",
+"Production volume decreases",
+"Variable costs per unit decreases",
+"Prime costs per unit decreases"
+],
+"a": 0
+},
+{
+"q": "Within a relevant range, the amount of variable costs per unit",
+"o": [
+"Differs at each production level",
+"Remains constant at each production level",
+"Increases as production increases",
+"Decreases as production increases"
+],
+"a": 1
+},
+{
+"q": "Margin of safety is referred to as",
+"o": [
+"Excess of budgeted or actual sales over the variable expenses and fixed expense, at break-even.",
+"Excess of budgeted or actual sales revenue over the fixed expenses.",
+"Excess of actual sales over budgeted sales.",
+"Excess of sales revenue over the variable expenses"
+],
+"a": 2
+},
+{
+"q": "Under marginal costing system, the contribution margin discloses the excess of",
+"o": [
+"Revenue over fixed costs",
+"Projected revenues over the break-even point",
+"Revenues over variable costs",
+"Variable costs over fixed costs"
+],
+"a": 2
+},
+{
+"q": "A decrease in sales price",
+"o": [
+"does not affect the break-even point",
+"lowers the fixed cost",
+"Increases the break-even point",
+"lowers the break-even point"
+],
+"a": 2
+},
+{
+"q": "Determine Margin of safety if Profit is ₹15,000 and P/V ratio is 40%.",
+"o": [
+"37,500",
+"33,000",
+"38,000",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "What is Margin of Safety if Sales is 20,000 units and B.E.P is 15,000 units?",
+"o": [
+"15000 units",
+"5000 units",
+"10000 units",
+"20000 units"
+],
+"a": 1
+},
+{
+"q": "Determine sales in rupees for desired profit if fixed cost is ₹10,000, Variable cost is ₹30,000, Sales is 50,000 and desired profit is 25,000.",
+"o": [
+"73,500",
+"₹75,000",
+"₹5,000",
+"37,500"
+],
+"a": 3
+},
+{
+"q": "What will be sales in rupees for desired profit if fixed cost is 30,000, desired profit is 15,000 and P/V ratio is 30%?",
+"o": [
+"₹1,50,000",
+"₹1,00,000",
+"₹2,00,000",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Calculate sales in rupees for desired profit if fixed cost is ₹10,000, selling price is 20 per unit, Variable cost is 15 per unit and desired profit is 1 per unit",
+"o": [
+"₹20,000",
+"50,000",
+"70,000",
+"10,000"
+],
+"a": 1
+},
+{
+"q": "Determine sales in units for desired profit if Fixed cost is 15,000, desired profit is ₹5,000 Selling price per unit is 20 and Variable cost per unit is 16.",
+"o": [
+"25,000 units",
+"5,000",
+"₹10.000",
+"10.000 units"
+],
+"a": 0
+},
+{
+"q": "What will be sales in units if fixed cost is ₹50,000 Contribution per unit is 60 and desired profit per unit is ₹10.",
+"o": [
+"26,000 units",
+"1,000",
+"1,000 units",
+"6,000"
+],
+"a": 2
+},
+{
+"q": "Determine B.E.P in units and amount if Units produced if 10,000, Fixed cost is ₹40,000, Selling price is 50 per unit and Variable cost us 30 per unit.",
+"o": [
+"240 per unit, ₹2,00,000",
+"250 per unit, 10,00,000",
+"220 per unit, ₹1,00,000",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Determine B.E.P if Sales is ₹1,00,000, Variable cost is ₹50,000 and Profit is ₹20.000.",
+"o": [
+"60,000",
+"40,000",
+"₹80,000",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Pv ratio will increase if there is -",
+"o": [
+"la decrease in fixed cost",
+"an increase in fixed cost",
+"a decrease in selling price per unit",
+"a decrease in variable cost per unit"
+],
+"a": 3
+},
+{
+"q": "Under marginal costing the cost of product for inventory valuation includes",
+"o": [
+"prime costs and variable factory overheads",
+"prime cost only",
+"prime costs and Fixed factory overheads",
+"prime costs and all factory overheads"
+],
+"a": 0
+},
+{
+"q": "________ period costs are:",
+"o": [
+"variable cost",
+"fixed cost",
+"prime cost",
+"overheads cost"
+],
+"a": 1
+},
+{
+"q": "Marginal costs is taken as equal to",
+"o": [
+"Prime Cost plus all variable overheads",
+"Prime Cost minus all variable overheads",
+"Variable overheads",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Contribution margin is equal to",
+"o": [
+"Sales Fixed Cost - Profit",
+"Profit Variable Cost",
+"Fixed Cost Loss",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "It is pallned sell 1,00,000 units of product A at 12 per unit. Fixed Costs are ₹2,80,000. To achive a profit of ₹2,00,000 what would the variable costs be?",
+"o": [
+"4,80,000",
+"7,20,000",
+"₹9,00,000",
+"9.20,000"
+],
+"a": 1
+},
+{
+"q": "Factors which can change the break even point",
+"o": [
+"change in total fixed costs",
+"change in variable costs per unit",
+"change in the selling price per unit",
+"All of the above."
+],
+"a": 3
+},
+{
+"q": "net profit ratio is 12% and bep is 40% of total sales compute pv ratio",
+"o": [
+"60%",
+"52%",
+"28%",
+"20%"
+],
+"a": 3
+},
+{
+"q": "If the total cost of 1000 units is 60,000 and that of 1001 units is 60,400, then the increase of ₹400 in the total cost is:",
+"o": [
+"Prime cost",
+"All variable overheads",
+"Marginal cost",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Which of the following statements are true about marginal costing?",
+"o": [
+"In marginal costing, fixed costs are treated as product costs",
+"Marginal costing is not an independent system of costing",
+"The elements of cost in marginal costing are divided into fixed and variable components",
+"Both b and e"
+],
+"a": 3
+},
+{
+"q": "The costing method where fixed factory overheads are added to inventory is called:",
+"o": [
+"Activity-based costing",
+"Absorption costing",
+"Marginal costing",
+"All of the above"
+],
+"a": 1
+},
+{
+"q": "While computing profit in marginal costing:",
+"o": [
+"The fixed cost gets added to the contribution",
+"The total marginal cost gets deducted from total sales revenue",
+"The total marginal cost gets added to total sales revenue",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "Which of the following assumptions are made while calculating marginal cost",
+"o": [
+"Total fixed cost is constant at all levels of output",
+"Total variable cost varies according to the volume of output",
+"All elements of cost can be divided into fixed and variable components",
+"All of the above."
+],
+"a": 3
 }
 ]
