@@ -2798,5 +2798,235 @@
 "Eliminate responsibility centers"
 ],
 "a": 1
+},
+{
+"q": "Residual Income (RI) differs from ROI in that RI:",
+"o": [
+"Measures absolute profit after deducting a charge for capital cost",
+"Ignores capital cost",
+"Is a ratio like ROI",
+"Always results in negative values"
+],
+"a": 0
+},
+{
+"q": "Economic Value Added (EVA) is best described as:",
+"o": [
+"Net operating profit after tax minus cost of capital employed",
+"Operating profit divided by sales",
+"Net profit before tax minus fixed cost",
+"Total revenue minus total expenses"
+],
+"a": 0
+},
+{
+"q": "The DuPont analysis breaks down ROI into:",
+"o": [
+"Profit margin and asset turnover",
+"Profit margin and sales growth",
+"Asset turnover and working capital",
+"Net income and equity"
+],
+"a": 0
+},
+{
+"q": "Division A has operating profit 20 lakhs and average operating assets 1 crore. Division B has operating profit 15 lakhs and average operating assets 75 lakhs. Which division has a higher ROI?",
+"o": [
+"Division A: 20%, Division B: 20%",
+"Division A: 25%. Division B: 20%",
+"Division A: 20%, Division B: 25%",
+"Division A: 15%, Division B: 18%"
+],
+"a": 0
+},
+{
+"q": "Division X has operating profit of 230 lakhs and operating assets of 1.5 crore. Cost of capital is 15%. Calculate Residual Income (RI).",
+"o": [
+"29.5 lakhs",
+"4.5 lakhs",
+"27.5 lakhs",
+"10 lakhs"
+],
+"a": 2
+},
+{
+"q": "Division C's sales are 50 lakhs; net operating profit 8 lakhs; average operating assets 40 lakhs. Calculate ROL.",
+"o": [
+"10%",
+"20%",
+"14%",
+"18%"
+],
+"a": 1
+},
+{
+"q": "Division D's net operating profit after tax (NOPAT) is 12 lakhs. Capital charge @ 18% on 250 lakhs capital employed. Calculate Economic Value Added (EVA).",
+"o": [
+"23.6 lakhs",
+"6 lakhs",
+"24.5 lakhs",
+"23 lakhs"
+],
+"a": 3
+},
+{
+"q": "Division Q's ROI is 18%. Cost of capital is 12%. Should Division Q accept a project with an ROI of 14%?",
+"o": [
+"Yes, because project ROI cost of capital",
+"No, because project ROI < divisional ROI",
+"Yes, if project is short term",
+"No, because project ROI <20%"
+],
+"a": 0
+},
+{
+"q": "Which of the following is NOT a responsibility center?",
+"o": [
+"Cost center",
+"Profit center",
+"Investment center",
+"Tax center"
+],
+"a": 3
+},
+{
+"q": "Which of the following is NOT true about responsibility accounting?",
+"o": [
+"Encourages accountability",
+"Helps in performance evaluation",
+"Eliminates all cost variances",
+"Facilitates decentralization"
+],
+"a": 2
+},
+{
+"q": "In responsibility accounting, controllable costs are:",
+"o": [
+"Costs over which a manager has direct influence",
+"Fixed costs only",
+"Sunk costs",
+"Costs that cannot be controlled"
+],
+"a": 0
+},
+{
+"q": "Profit center managers are responsible for:",
+"o": [
+"Costs only",
+"Revenues only",
+"Both revenues and costs",
+"Investment decisions"
+],
+"a": 2
+},
+{
+"q": "Which responsibility center allows managers to make decisions on assets employed as well as profits?",
+"o": [
+"Cost center",
+"Profit center",
+"Investment center",
+"Expense center"
+],
+"a": 2
+},
+{
+"q": "Which decision-making criterion assumes the decision maker is extremely risk-averse?",
+"o": [
+"Maximax",
+"Maximin",
+"Minimax regret",
+"Expected value"
+],
+"a": 1
+},
+{
+"q": "The maximax criterion is also known as:",
+"o": [
+"Optimistic criterion",
+"Pessimistic criterion",
+"Minimax regret",
+"Laplace criterion"
+],
+"a": 0
+},
+{
+"q": "The minimax regret criterion minimizes:",
+"o": [
+"The maximum payoff",
+"The maximum loss relative to the best payoff in each state",
+"The expected value",
+"The minimum loss"
+],
+"a": 1
+},
+{
+"q": "Expected monetary value (EMV) is calculated by:",
+"o": [
+"Multiplying the payoff by the probability and summing for all states",
+"Taking the maximum payoff",
+"Subtracting costs from revenues",
+"Dividing total payoff by the number of alternatives"
+],
+"a": 0
+},
+{
+"q": "Which of the following decision rules is suitable when probabilities of states of nature are unknown and the decision maker is neutral?",
+"o": [
+"Maximin",
+"Maximax",
+"Laplace (Equal probability)",
+"Minimax regret"
+],
+"a": 2
+},
+{
+"q": "In decision theory, a 'payoff table' shows:",
+"o": [
+"Probabilities of states of nature",
+"Outcomes for each alternative under each state of nature",
+"Only the best outcome",
+"Budgeted costs and revenues"
+],
+"a": 1
+},
+{
+"q": "The Laplace criterion assumes:",
+"o": [
+"Decision maker is pessimistic",
+"Decision maker assigns equal probabilities to all states of nature",
+"Probabilities are known precisely",
+"Focus only on worst outcomes"
+],
+"a": 1
+},
+{
+"q": "A decision tree is useful because it:",
+"o": [
+"Simplifies complex decisions by structuring alternatives and outcomes sequentially",
+"Ignores probabilities",
+"Always leads to optimistic decisions",
+"Is used only for investment decisions"
+],
+"a": 0
+},
+{
+"q": "Sensitivity analysis in decision theory helps to:",
+"o": [
+"Evaluate how changes in probabilities or payoffs affect the decision",
+"Eliminate bad alternatives",
+"Predict exact future outcomes",
+"Decide the cost of alternatives"
+],
+"a": 0
+},
+{
+"q": "The Expected Value of Perfect Information (EVPI)' represents:",
+"o": [
+"The cost of obtaining perfect information",
+"The maximum amount a decision maker would pay to eliminate uncertainty",
+"The average payoff",
+"The minimum payoff"
+],
+"a": 1
 }
 ]
