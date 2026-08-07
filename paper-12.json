@@ -1599,804 +1599,794 @@
 ],
 "a": 1
 },
-{
-"q": "Financial leverage means",
-"o": [
-"a very basic profitability ratio",
-"Total Asset Turnover (Turnover / Total Assets)",
-"the use of debt to acquire additional assets or fund projects",
-"None of these"
-],
-"a": 2
-},
-{
-"q": "According to Du Pont Analysis a company can increase its Return on Equity if it",
-"o": [
-"Generates a high Net Profit Margin",
-"Effectively uses its assets so as to generate more sales",
-"Has a high Financial Leverage",
-"All of these"
-],
-"a": 3
-},
-{
-"q": "Du Pont ROE =",
-"o": [
-"Margin on Sales x Asset Turnover x Equity Multiplier",
-"Margin of Safety x Asset Turnover x Equity Multiplier",
-"Margin on Sales x Inventory Turnover x Equity Multiplier",
-"Margin on Sales x Asset Turnover x Debt Multiplier"
-],
-"a": 0
-},
-{
-"q": "expresses divisional profit as a percentage of the assets employed in the division.",
-"o": [
-"ROI",
-"EPS",
-"ROCE",
-"EBITDA"
-],
-"a": 0
-},
-{
-"q": "Return on investment (ROI) is",
-"o": [
-"(Profit before tax - Operations management capital employed) x 100",
-"(Profit before interest and tax / Total capital employed) x 100",
-"(ROE / Operations management capital employed) x 100",
-"(Profit before interest and tax / Operations management capital employed) x 100"
-],
-"a": 3
-},
-{
-"q": "RI (Residual Income) =",
-"o": [
-"Divisional profit - (Percentage of change in Sales / Divisional investment)",
-"Divisional profit - (Percent capital charge / Total investment)",
-"Divisional profit - (Percent capital charge x Divisional investment)",
-"Total profit - (Percent capital charge / Divisional investment)"
-],
-"a": 2
-},
-{
-"q": "The main advantages of RI is/are",
-"o": [
-"It avoids suboptimal decisions as investments are not rejected merely because they lower the divisional manager's ROI.",
-"It maximizes growth of the company and increases shareholders' wealth by accepting opportunities which earn a rate of return in excess of the cost of capital.",
-"The cost of capital charge on divisional investments ensures that divisional managers are aware of the opportunity cost of funds.",
-"All of these"
-],
-"a": 3
-},
-{
-"q": "Acme, a division of Ace Manufacturing, has assets of ₹2,25,000 and an operating income of ₹55,000. What is the division's ROI?",
-"o": [
-"24.44%",
-"23%",
-"25%",
-"50%"
-],
-"a": 0
-},
-{
-"q": "An investment centre has net assets of ₹8,00,000, and made profits before interest and tax of ₹1,60,000. The notional cost of capital is 12%. Calculate and comment on the RI (Residual Income) for the period.",
-"o": [
-"₹1,60,000",
-"₹96,000",
-"₹64,000",
-"₹2,56,000"
-],
-"a": 2
-},
-{
-"q": "A person made a Capital Investment of ₹2,00,000 in a company. Operating profit, after taxes, is ₹28,000. The opportunity cost of that investment is 10%. Calculate EVA.",
-"o": [
-"₹20,000",
-"₹2,800",
-"₹8,000",
-"₹17,200"
-],
-"a": 2
-},
-{
-"q": "For EVA there 3 responsibility centres, which are",
-"o": [
-"Cost centre",
-"Profit centre",
-"Investment centre",
-"All of these"
-],
-"a": 3
-},
-{
-"q": "The theory of learning curves will only hold if which of the following conditions apply?",
-"o": [
-"The task must be repetitive",
-"Production must be at an early stage so that there is room for improvement",
-"There is inconsistency in the workforce",
-"Both 1 and 2"
-],
-"a": 3
-},
-{
-"q": "can be used: a. To calculate the incremental cost of making extra units of a particular products, b. To set standards for labour, c. To prepare realistic production budgets and to report labour cost variances, and d. To quote contact price.",
-"o": [
-"Learning curve theory",
-"Return on investment",
-"Du Pont ROE",
-"Economic Value Added"
-],
-"a": 0
-},
-{
-"q": "The four Perspectives of the Balanced Scorecard are",
-"o": [
-"1. Operational Perspective, 2. Customers Perspective, 3. Internal business process Perspective and 4. Learning & Growth Perspectives.",
-"1. Financial Perspective, 2. Sellers Perspective, 3. Internal business process Perspective and 4. Learning & Growth Perspectives.",
-"1. Financial Perspective, 2. Customers Perspective, 3. Internal business process Perspective and 4. Learning & Growth Perspectives.",
-"1. Financial Perspective, 2. Customers Perspective, 3. External process Perspective and 4. Learning & Growth Perspectives."
-],
-"a": 2
-},
-{
-"q": "MI Ltd. has earned a net profit of ₹15 lakhs after Tax at 30%. Interest cost charged by the financial institutions was 10 Lakhs. The Invested capital is 95 Lakhs of which 55% is debt. The company maintains a weighted average cost of capital of 13%. Compute the Operating Income.",
-"o": [
-"15 lakhs",
-"21.43 lakhs",
-"10 lakhs",
-"31.43 lakhs"
-],
-"a": 3
-},
-{
-"q": "According to Kaplan & Norton, which of the balanced scorecard perspectives serves as the focus of the other perspectives?",
-"o": [
-"Financial.",
-"Customer.",
-"Internal business processes.",
-"Learning & growth."
-],
-"a": 0
-},
-{
-"q": "Which of the following would be considered an operating asset in return on investment computations?",
-"o": [
-"Land being held for plant expansion.",
-"Treasury stock.",
-"Accounts receivable.",
-"Common stock."
-],
-"a": 2
-},
-{
-"q": "A company that is seeking to increase ROI should attempt to decrease:",
-"o": [
-"Sales.",
-"Turnover.",
-"Margin.",
-"Average operating assets."
-],
-"a": 3
-},
-{
-"q": "The performance of investment centre is based on",
-"o": [
-"Cost of the centre",
-"Profit of the centre",
-"Profit and investment of the centre",
-"Revenue of the centre"
-],
-"a": 2
-},
-{
-"q": "Both costs and revenues are measured in centers",
-"o": [
-"Cost",
-"Profit",
-"Revenue",
-"All of these"
-],
-"a": 1
-},
-{
-"q": "A cost centre is a segment of the organization where the manager is responsible for",
-"o": [
-"Costs",
-"Inputs",
-"A or B",
-"None of these"
-],
-"a": 2
-},
-{
-"q": "The performance of investment centre is based on",
-"o": [
-"Cost of the centre",
-"Profit of the centre",
-"Profit and investment of the centre",
-"Revenue of the centre"
-],
-"a": 2
-},
-{
-"q": "Responsibility accounting is used for",
-"o": [
-"cost control",
-"planning",
-"decision making",
-"pricing"
-],
-"a": 0
-},
-{
-"q": "Responsibility Accounting is also known as",
-"o": [
-"Profitability accounting",
-"Activity accounting",
-"Both A and B",
-"None of the above"
-],
-"a": 2
-},
-{
-"q": "Which of the following characteristics is not associated with traditional responsibility accounting?",
-"o": [
-"Assumes optimization of the parts will optimize the whole.",
-"Assumes independence of the parts.",
-"Places emphasis on the performance of individuals.",
-"Attempts to control processes."
-],
-"a": 3
-},
-{
-"q": "In responsibility accounting, responsibilities of various groups or individuals are identified in terms of",
-"o": [
-"Work",
-"Revenue",
-"Cost",
-"All of the above."
-],
-"a": 3
-},
-{
-"q": "The area of focus on responsibility center is",
-"o": [
-"Quantum of sales",
-"Quantum of production",
-"Optimum utilization of resources",
-"All of the above"
-],
-"a": 2
-},
-{
-"q": "In profit center revenue represents a monetary measure of output emanating from a profit center in a given period irrespective whether",
-"o": [
-"The revenue is realized or not",
-"The output is sold or not",
-"Both A and B",
-"None of the above"
-],
-"a": 2
-},
-{
-"q": "In a control report of Department X, it is mentioned as indirect materials are ₹1,000, indirect labour ₹900, Overtime Charges ₹100, Depreciation on equipment ₹500, Allocated factory overhead (38% of factory space) ₹4,300, Allocated overhead of repair shop is ₹1,200. Determine total costs treating department X as a responsibility center.",
-"o": [
-"₹2,500",
-"₹3,200",
-"₹2,200",
-"₹1,200"
-],
-"a": 0
-},
-{
-"q": "Which of the following criterion is not used for decision-making under uncertainty?",
-"o": [
-"Maximin",
-"Maximax",
-"Minimax",
-"Minimize expected loss"
-],
-"a": 3
-},
-{
-"q": "Decision theory is concerned with",
-"o": [
-"Methods of arriving at an optimal decision",
-"Selecting optimal decision in a sequential manner",
-"Analysis of information that is available",
-"All of these"
-],
-"a": 3
-},
-{
-"q": "Which of the following criterion is not applicable to decision-making under risk?",
-"o": [
-"Maximize expected return",
-"Maximize return",
-"Minimize expect regret",
-"Knowledge of likelihood occurrence of each state of nature"
-],
-"a": 1
-},
-{
-"q": "The minimum expected opportunity loss (EOL) is",
-"o": [
-"Equal to EVPI",
-"Minimum regret",
-"Equal to EMV",
-"Both (A) and (B)"
-],
-"a": 3
-},
-{
-"q": "The expected value of perfect information (EVPI) is",
-"o": [
-"Equal to expected regret of the optimal decision under risk",
-"The utility of additional information",
-"Maximum expected opportunity loss",
-"None of the above"
-],
-"a": 0
-},
-{
-"q": "The value of the coefficient of optimism (a) is needed while using the criterion of",
-"o": [
-"Equally likely",
-"Maximin",
-"Realism",
-"Minimax"
-],
-"a": 2
-},
-{
-"q": "The decision-maker's knowledge and experience may influence the decision-making process when using the criterion of",
-"o": [
-"Maximax",
-"Maximax regret",
-"Realism",
-"Maximin"
-],
-"a": 2
-},
-{
-"q": "The difference between the expected profit under conditions of risk and the expected profit with perfect information is called",
-"o": [
-"The expected value of perfect information",
-"Expected marginal loss",
-"None of the above",
-"Any one of the above"
-],
-"a": 0
-},
-{
-"q": "A situation in which a decision maker knows all of the possible outcomes of a decision and also knows the probability associated with each outcome is referred to as",
-"o": [
-"Certainty.",
-"Risk.",
-"Uncertainty.",
-"Strategy."
-],
-"a": 1
-},
-{
-"q": "Which of the following methods of selecting a strategy is consistent with risk averting behaviour?",
-"o": [
-"If two strategies have the same expected profit, select the one with the smaller standard deviation.",
-"If two strategies have the same standard deviation, select the one with the smaller expected profit.",
-"Select the strategy with the larger coefficient of variation.",
-"All of the above are correct."
-],
-"a": 0
-},
-{
-"q": "Which one of the following does not measure risk?",
-"o": [
-"Coefficient of variation",
-"Standard deviation",
-"LPP",
-"All of the above are measures of risk."
-],
-"a": 2
-},
-{
-"q": "The sequence of possible managerial decisions and their expected outcome under each set of circumstances can be represented and analysed by using",
-"o": [
-"The minimax regret criterion.",
-"A decision tree.",
-"A payoff matrix.",
-"Simulation."
-],
-"a": 1
-},
-{
-"q": "We are comparing two investment projects. Both have expected returns of 20%, but the standard deviation of Project A's returns is 15%, while the standard deviation of Project B's returns is 9%. Which one is relatively riskier?",
-"o": [
-"A",
-"B",
-"Both A and B",
-"None of these"
-],
-"a": 0
-},
-{
-"q": "Two investments have different expected returns. Project A's expected return is 20% and the standard deviation of its returns is 15%. Project B's expected return is only 10%, while the standard deviation of its returns remains at 9%. Compute Coefficient of Variation of Project A.",
-"o": [
-"0.20",
-"0.75",
-"0.90",
-"0.10"
-],
-"a": 1
-},
-{
-"q": "Which of the following is NOT a characteristic of management accounting?",
-"o": [
-"Future-oriented",
-"Subjective in nature",
-"Mandatory as per law",
-"Useful for internal decision-making"
-],
-"a": 2
-},
-{
-"q": "Management accounting reports are primarily intended for:",
-"o": [
-"Government authorities",
-"External shareholders",
-"Internal management",
-"Credit rating agencies"
-],
-"a": 2
-},
-{
-"q": "A key feature of management accounting is that it:",
-"o": [
-"Provides real-time data for decisions",
-"Follows GAAP strictly",
-"Is audited annually",
-"Is used only by external parties"
-],
-"a": 0
-},
-{
-"q": "The technique used in management accounting to compare actual results with planned performance is:",
-"o": [
-"Ledger balancing",
-"Trial balance preparation",
-"Variance analysis",
-"Cash accounting"
-],
-"a": 2
-},
-{
-"q": "In Activity Based Costing, the first step is to:",
-"o": [
-"Determine cost pools",
-"Select cost drivers",
-"Identify activities",
-"Allocate overheads to cost objects"
-],
-"a": 2
-},
-{
-"q": "Which of the following is least suitable as a cost driver under ABC?",
-"o": [
-"Number of machine setups",
-"Direct labour hours",
-"Number of customer orders",
-"Total factory square footage"
-],
-"a": 3
-},
-{
-"q": "A company has identified the following overhead cost pools and cost drivers for a product: Setup cost pool: ₹200,000; driver number of setups (2,500 setups). Inspection cost pool: ₹100,000; driver number of inspections (50,000 inspections). Product X has 200 setups and 4,000 inspections. What is the overhead allocated to Product X (using ABC)?",
-"o": [
-"₹16,000",
-"₹12,000",
-"₹24,000",
-"₹14,000"
-],
-"a": 2
-},
-{
-"q": "A product requires 5 machine hours. The machine hour activity pool has ₹300,000 budgeted cost and 15,000 machine hours. What is the machine-hour overhead allocated to that product under ABC?",
-"o": [
-"₹100",
-"₹500",
-"₹1,000",
-"₹2,000"
-],
-"a": 0
-},
-{
-"q": "A firm has two products A and B. The "order processing" cost pool is ₹120,000. The cost driver is number of orders. There are 2,000 orders in total: A uses 600 orders; B uses 1,400 orders. The overhead assigned to B is:",
-"o": [
-"₹89,000",
-"₹84,000",
-"₹48,000",
-"₹70,000"
-],
-"a": 1
-},
-{
-"q": "A company currently uses traditional costing and absorbs overheads at ₹20 per direct labour hour. Under ABC, two cost pools are identified: Setups (₹50,000) with driver number of setups (500), and material handling (₹100,000) with driver number of parts (200,000). Product Y uses 50 setups and 4,000 parts. Under ABC, overhead allocated to Y is:",
-"o": [
-"₹10,000",
-"₹7,000",
-"₹14,000",
-"₹12,000"
-],
-"a": 1
-},
-{
-"q": "A company incurs ₹60,000 as facility-sustaining cost (which supports all products), and allocates it equally across 3 product lines X, Y, Z under ABC. Product X produces 5,000 units, Y 10,000 units, Z 15,000 units. What is the per-unit share of facility cost for Z?",
-"o": [
-"₹24",
-"₹2",
-"₹1.50",
-"₹1.33"
-],
-"a": 3
-},
-{
-"q": "Which statement is true about ABC compared to traditional absorption costing?",
-"o": [
-"ABC tends to under-cost high volume products and over-cost low volume products",
-"ABC always leads to lower cost per unit estimates",
-"ABC ignores overhead costs that are fixed",
-"ABC is simpler to implement than traditional costing"
-],
-"a": 0
-},
-{
-"q": "In ABC, "facility-sustaining costs" are:",
-"o": [
-"Costs that vary with every unit produced",
-"Costs that support the entire facility but cannot be traced to individual products",
-"Always variable costs",
-"Never included in costing"
-],
-"a": 1
-},
-{
-"q": "Under ABC, if an activity's cost is zero (i.e., no cost incurred), then:",
-"o": [
-"Its cost driver rate is infinite",
-"Its cost driver rate is zero",
-"It is automatically merged with another pool",
-"It must still be assigned across products"
-],
-"a": 1
-},
-{
-"q": "A "cost pool" in ABC refers to:",
-"o": [
-"A grouping of fixed costs only",
-"A set of overhead costs associated with a specific activity",
-"The sum of direct costs in a department",
-"The total cost of all drivers"
-],
-"a": 1
-},
-{
-"q": "Which of the following is not an assumption of marginal costing?",
-"o": [
-"Costs can be separated into fixed and variable components",
-"Variable cost per unit remains constant over the relevant range",
-"Selling price per unit changes with volume",
-"No change in inventory level"
-],
-"a": 2
-},
-{
-"q": "When there are no inventories, profit under marginal costing and absorption costing will be:",
-"o": [
-"The same",
-"Different",
-"Marginal costing profit greater",
-"Absorption costing profit greater"
-],
-"a": 0
-},
-{
-"q": "Under marginal costing, get-or-drop decisions predominantly rely on:",
-"o": [
-"Fixed cost recovery",
-"Contribution margin",
-"Full cost per unit",
-"Absorbed fixed overhead"
-],
-"a": 1
-},
-{
-"q": "Which statement is true?",
-"o": [
-"Marginal costing is a complete costing system",
-"Marginal costing is only a technique of cost analysis",
-"Marginal costing always gives higher profit than absorption costing",
-"Marginal costing never considers fixed cost"
-],
-"a": 1
-},
-{
-"q": "What happens to fixed cost per unit when production increases?",
-"o": [
-"It remains constant",
-"It increases",
-"It decreases",
-"It becomes zero"
-],
-"a": 2
-},
-{
-"q": "If the P/V ratio increases, what happens to the break-even point (in rupees)?",
-"o": [
-"It increases",
-"It decreases",
-"It remains unchanged",
-"Cannot determine"
-],
-"a": 1
-},
-{
-"q": "Which decision is least appropriate based on marginal costing?",
-"o": [
-"Accepting a special order at a lower price",
-"Make vs buy decision",
-"Product mix under limited capacity",
-"Long-term pricing for strategic positioning"
-],
-"a": 3
-},
-{
-"q": "The difference in profit between absorption and marginal costing arises due to:",
-"o": [
-"Different sales levels",
-"Different treatments of variable cost",
-"Inventory valuation differences",
-"Treatment of direct labor"
-],
-"a": 2
-},
-{
-"q": "Under marginal costing, closing stock is valued at:",
-"o": [
-"Full cost (direct + variable + fixed overhead)",
-"Variable cost per unit",
-"Replacement cost",
-"Market price"
-],
-"a": 1
-},
-{
-"q": "A company is operating at 80% capacity. A special order is received for 1,000 units at ₹120 each. Variable cost is ₹90 per unit. Should the order be accepted?",
-"o": [
-"No, price is too low",
-"Yes, contribution is ₹30 per unit",
-"No, fixed cost will increase",
-"Yes, fixed cost is saved"
-],
-"a": 1
-},
-{
-"q": "A product yields a contribution of ₹60 per unit. A customer offers ₹500 per unit for 50 extra units. Variable cost per unit is ₹440. Should the offer be accepted?",
-"o": [
-"No, price is too low",
-"Yes, contribution is positive",
-"Only if fixed cost decreases",
-"Yes, profit is ₹60 per unit"
-],
-"a": 1
-},
-{
-"q": "The variable cost of a product is ₹50, and fixed cost per unit is ₹30. There is idle capacity. What is the transfer price under marginal costing?",
-"o": [
-"₹50",
-"₹80",
-"₹30",
-"₹0"
-],
-"a": 0
-},
-{
-"q": "A division can sell its product in the open market at ₹100. The variable cost is ₹60. What should be the minimum transfer price if the division is at full capacity?",
-"o": [
-"₹70",
-"₹60",
-"₹80",
-"₹100"
-],
-"a": 3
-},
-{
-"q": "A division has 1,000 units of idle capacity. Variable cost per unit ₹45. It can transfer units to another division or sell externally for ₹60. What is the opportunity cost of internal transfer?",
-"o": [
-"₹60",
-"₹15",
-"₹45",
-"₹0"
-],
-"a": 3
-},
-{
-"q": "If the selling division is working at full capacity and transfers internally at marginal cost, the likely impact is:",
-"o": [
-"Division earns profit",
-"Division incurs loss",
-"Division loses external contribution",
-"No impact on profit"
-],
-"a": 2
-},
-{
-"q": "A buying division is offered a component internally at ₹70. External market price is ₹65. Should it buy internally if internal cost is ₹50?",
-"o": [
-"Yes, ₹70 is better",
-"No, market price is lower",
-"Yes, internal cost is lower than market",
-"No, fixed cost is not recovered"
-],
-"a": 1
-},
-{
-"q": "Selling Division: VC=₹35, External Price = ₹50. Internal Transfer Price ₹35. If 1,000 units are transferred, what is total opportunity cost?",
-"o": [
-"₹20",
-"₹35,000",
-"₹15,000",
-"₹50,000"
-],
-"a": 2
-},
-{
-"q": "A company has fixed costs of ₹50,000 and variable costs of ₹20 per unit. Selling price is ₹50 per unit. What is the break-even sales in units?",
-"o": [
-"2,500",
-"1,250",
-"3,333",
-"1,667"
-],
-"a": 3
-},
-{
-"q": "In marginal costing, profit is maximum when:",
-"o": [
-"Marginal cost equals marginal revenue",
-"Contribution equals fixed cost",
-"Fixed cost equals variable cost",
-"Total cost equals total revenue"
-],
-"a": 0
-},
-{
-"q": "Which of the following is a correct reason to accept a special order in marginal costing?",
-"o": [
-"It results in positive contribution",
-"It increases fixed costs",
-"It reduces P/V ratio",
-"It affects stock value"
-],
-"a": 0
-},
-{
-"q": "In make-or-buy decisions using marginal costing, which cost is always relevant?",
-"o": [
-"Allocated head office expenses",
-"Sunk cost",
-"Variable production cost",
-"Apportioned rent"
-],
-"a": 2
-},
-{
-"q": "A division transfers goods internally at marginal cost. What is a key disadvantage?",
-"o": [
-"Under-recovery of fixed costs",
-"Overstatement of division's profit",
-"Double counting of variable cost",
-"Increased total cost"
-],
-"a": 0
-}
+  {
+    "q": "Financial leverage means",
+    "o": [
+      "a very basic profitability ratio",
+      "Total Asset Turnover (Turnover / Total Assets)",
+      "the use of debt to acquire additional assets or fund projects",
+      "None of these"
+    ],
+    "a": 2
+  },
+  {
+    "q": "According to Du Pont Analysis a company can increase its Return on Equity if it",
+    "o": [
+      "Generates a high Net Profit Margin",
+      "Effectively uses its assets so as to generate more sales",
+      "Has a high Financial Leverage",
+      "All of these"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Du Pont ROE =",
+    "o": [
+      "Margin on Sales x Asset Turnover x Equity Multiplier",
+      "Margin of Safety x Asset Turnover x Equity Multiplier",
+      "Margin on Sales x Inventory Turnover x Equity Multiplier",
+      "Margin on Sales x Asset Turnover x Debt Multiplier"
+    ],
+    "a": 0
+  },
+  {
+    "q": "_______ expresses divisional profit as a percentage of the assets employed in the division.",
+    "o": [
+      "ROI",
+      "EPS",
+      "ROCE",
+      "EBITDA"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Return on investment (ROI) is",
+    "o": [
+      "(Profit before tax - Operations management capital employed) x 100",
+      "(Profit before interest and tax / Total capital employed) x 100",
+      "(ROE / Operations management capital employed) x 100",
+      "(Profit before interest and tax / Operations management capital employed) x 100"
+    ],
+    "a": 3
+  },
+  {
+    "q": "RI (Residual Income) =",
+    "o": [
+      "Divisional profit - (Percentage of change in Sales / Divisional investment)",
+      "Divisional profit - (Percent capital charge / Total investment)",
+      "Divisional profit - (Percent capital charge x Divisional investment)",
+      "Total profit - (Percent capital charge / Divisional investment)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "The main advantages of RI is/are",
+    "o": [
+      "It avoids suboptimal decisions as investments are not rejected merely because they lower the divisional manager's ROI.",
+      "It maximizes growth of the company and increases shareholders' wealth by accepting opportunities which earn a rate of return in excess of the cost of capital.",
+      "The cost of capital charge on divisional investments ensures that divisional managers are aware of the opportunity cost of funds.",
+      "All of these"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Acme, a division of Ace Manufacturing, has assets of ₹2,25,000 and an operating income of ₹55,000. What is the division's ROI?",
+    "o": [
+      "24.44%",
+      "23%",
+      "25%",
+      "50%"
+    ],
+    "a": 0
+  },
+  {
+    "q": "An investment centre has net assets of ₹8,00,000, and made profits before interest and tax of ₹1,60,000. The notional cost of capital is 12%. Calculate and comment on the RI (Residual Income) for the period.",
+    "o": [
+      "₹1,60,000",
+      "₹96,000",
+      "₹64,000",
+      "₹2,56,000"
+    ],
+    "a": 2
+  },
+  {
+    "q": "A person made a Capital Investment of ₹2,00,000 in a company. Operating profit, after taxes, is ₹28,000. The opportunity cost of that investment is 10%. Calculate EVA.",
+    "o": [
+      "₹20,000",
+      "₹2,800",
+      "₹8,000",
+      "₹17,200"
+    ],
+    "a": 2
+  },
+  {
+    "q": "For EVA there 3 responsibility centres, which are",
+    "o": [
+      "Cost centre",
+      "Profit centre",
+      "Investment centre",
+      "All of these"
+    ],
+    "a": 3
+  },
+  {
+    "q": "The theory of learning curves will only hold if which of the following conditions apply?",
+    "o": [
+      "The task must be repetitive",
+      "Production must be at an early stage so that there is room for improvement",
+      "There is inconsistency in the workforce",
+      "Both 1 and 2"
+    ],
+    "a": 3
+  },
+  {
+    "q": "_______ can be used: a. To calculate the incremental cost of making extra units of a particular products, b. To set standards for labour, c. To prepare realistic production budgets and to report labour cost variances, and d. To quote contact price.",
+    "o": [
+      "Learning curve theory",
+      "Return on investment",
+      "Du Pont ROE",
+      "Economic Value Added"
+    ],
+    "a": 0
+  },
+  {
+    "q": "The four Perspectives of the Balanced Scorecard are",
+    "o": [
+      "1. Operational Perspective, 2. Customers Perspective, 3. Internal business process Perspective and 4. Learning & Growth Perspectives.",
+      "1. Financial Perspective, 2. Sellers Perspective, 3. Internal business process Perspective and 4. Learning & Growth Perspectives.",
+      "1. Financial Perspective, 2. Customers Perspective, 3. Internal business process Perspective and 4. Learning & Growth Perspectives.",
+      "1. Financial Perspective, 2. Customers Perspective, 3. External process Perspective and 4. Learning & Growth Perspectives."
+    ],
+    "a": 2
+  },
+  {
+    "q": "MI Ltd. has earned a net profit of ₹15 lakhs after Tax at 30%. Interest cost charged by the financial institutions was 10 Lakhs. The Invested capital is 95 Lakhs of which 55% is debt. The company maintains a weighted average cost of capital of 13%. Compute the Operating Income.",
+    "o": [
+      "15 lakhs",
+      "21.43 lakhs",
+      "10 lakhs",
+      "31.43 lakhs"
+    ],
+    "a": 3
+  },
+  {
+    "q": "According to Kaplan & Norton, which of the balanced scorecard perspectives serves as the focus of the other perspectives?",
+    "o": [
+      "Financial.",
+      "Customer.",
+      "Internal business processes.",
+      "Learning & growth."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Which of the following would be considered an operating asset in return on investment computations?",
+    "o": [
+      "Land being held for plant expansion.",
+      "Treasury stock.",
+      "Accounts receivable.",
+      "Common stock."
+    ],
+    "a": 2
+  },
+  {
+    "q": "A company that is seeking to increase ROI should attempt to decrease:",
+    "o": [
+      "Sales.",
+      "Turnover.",
+      "Margin.",
+      "Average operating assets."
+    ],
+    "a": 3
+  },
+  {
+    "q": "The performance of investment centre is based on",
+    "o": [
+      "Cost of the centre",
+      "Profit of the centre",
+      "Profit and investment of the centre",
+      "Revenue of the centre"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Both costs and revenues are measured in centers",
+    "o": [
+      "Cost",
+      "Profit",
+      "Revenue",
+      "All of these"
+    ],
+    "a": 1
+  },
+  {
+    "q": "A cost centre is a segment of the organization where the manager is responsible for",
+    "o": [
+      "Costs",
+      "Inputs",
+      "A or B",
+      "None of these"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Responsibility accounting is used for",
+    "o": [
+      "cost control",
+      "planning",
+      "decision making",
+      "pricing"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Responsibility Accounting is also known as",
+    "o": [
+      "Profitability accounting",
+      "Activity accounting",
+      "Both A and B",
+      "None of the above"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Which of the following characteristics is not associated with traditional responsibility accounting?",
+    "o": [
+      "Assumes optimization of the parts will optimize the whole.",
+      "Assumes independence of the parts.",
+      "Places emphasis on the performance of individuals.",
+      "Attempts to control processes."
+    ],
+    "a": 3
+  },
+  {
+    "q": "In responsibility accounting, responsibilities of various groups or individuals are identified in terms of",
+    "o": [
+      "Work",
+      "Revenue",
+      "Cost",
+      "All of the above."
+    ],
+    "a": 3
+  },
+  {
+    "q": "The area of focus on responsibility center is",
+    "o": [
+      "Quantum of sales",
+      "Quantum of production",
+      "Optimum utilization of resources",
+      "All of the above"
+    ],
+    "a": 2
+  },
+  {
+    "q": "In profit center revenue represents a monetary measure of output emanating from a profit center in a given period irrespective whether",
+    "o": [
+      "The revenue is realized or not",
+      "The output is sold or not",
+      "Both A and B",
+      "None of the above"
+    ],
+    "a": 2
+  },
+  {
+    "q": "In a control report of Department X, it is mentioned as indirect materials are ₹1,000, indirect labour ₹900, Overtime Charges ₹100, Depreciation on equipment ₹500, Allocated factory overhead (38% of factory space) ₹4,300, Allocated overhead of repair shop is ₹1,200. Determine total costs treating department X as a responsibility center.",
+    "o": [
+      "₹2,500",
+      "₹3,200",
+      "₹2,200",
+      "₹1,200"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Which of the following criterion is not used for decision-making under uncertainty?",
+    "o": [
+      "Maximin",
+      "Maximax",
+      "Minimax",
+      "Minimize expected loss"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Decision theory is concerned with",
+    "o": [
+      "Methods of arriving at an optimal decision",
+      "Selecting optimal decision in a sequential manner",
+      "Analysis of information that is available",
+      "All of these"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Which of the following criterion is not applicable to decision-making under risk?",
+    "o": [
+      "Maximize expected return",
+      "Maximize return",
+      "Minimize expect regret",
+      "Knowledge of likelihood occurrence of each state of nature"
+    ],
+    "a": 1
+  },
+  {
+    "q": "The minimum expected opportunity loss (EOL) is",
+    "o": [
+      "Equal to EVPI",
+      "Minimum regret",
+      "Equal to EMV",
+      "Both (A) and (B)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "The expected value of perfect information (EVPI) is",
+    "o": [
+      "Equal to expected regret of the optimal decision under risk",
+      "The utility of additional information",
+      "Maximum expected opportunity loss",
+      "None of the above"
+    ],
+    "a": 0
+  },
+  {
+    "q": "The value of the coefficient of optimism (a) is needed while using the criterion of",
+    "o": [
+      "Equally likely",
+      "Maximin",
+      "Realism",
+      "Minimax"
+    ],
+    "a": 2
+  },
+  {
+    "q": "The decision-maker's knowledge and experience may influence the decision-making process when using the criterion of",
+    "o": [
+      "Maximax",
+      "Maximax regret",
+      "Realism",
+      "Maximin"
+    ],
+    "a": 2
+  },
+  {
+    "q": "The difference between the expected profit under conditions of risk and the expected profit with perfect information is called",
+    "o": [
+      "The expected value of perfect information",
+      "Expected marginal loss",
+      "None of the above",
+      "Any one of the above"
+    ],
+    "a": 0
+  },
+  {
+    "q": "A situation in which a decision maker knows all of the possible outcomes of a decision and also knows the probability associated with each outcome is referred to as",
+    "o": [
+      "Certainty.",
+      "Risk.",
+      "Uncertainty.",
+      "Strategy."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which of the following methods of selecting a strategy is consistent with risk averting behaviour?",
+    "o": [
+      "If two strategies have the same expected profit, select the one with the smaller standard deviation.",
+      "If two strategies have the same standard deviation, select the one with the smaller expected profit.",
+      "Select the strategy with the larger coefficient of variation.",
+      "All of the above are correct."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Which one of the following does not measure risk?",
+    "o": [
+      "Coefficient of variation",
+      "Standard deviation",
+      "LPP",
+      "All of the above are measures of risk."
+    ],
+    "a": 2
+  },
+  {
+    "q": "The sequence of possible managerial decisions and their expected outcome under each set of circumstances can be represented and analysed by using",
+    "o": [
+      "The minimax regret criterion.",
+      "A decision tree.",
+      "A payoff matrix.",
+      "Simulation."
+    ],
+    "a": 1
+  },
+  {
+    "q": "We are comparing two investment projects. Both have expected returns of 20%, but the standard deviation of Project A's returns is 15%, while the standard deviation of Project B's returns is 9%. Which one is relatively riskier?",
+    "o": [
+      "A",
+      "B",
+      "Both A and B",
+      "None of these"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Two investments have different expected returns. Project A's expected return is 20% and the standard deviation of its returns is 15%. Project B's expected return is only 10%, while the standard deviation of its returns remains at 9%. Compute Coefficient of Variation of Project A.",
+    "o": [
+      "0.20",
+      "0.75",
+      "0.90",
+      "0.10"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which of the following is NOT a characteristic of management accounting?",
+    "o": [
+      "Future-oriented",
+      "Subjective in nature",
+      "Mandatory as per law",
+      "Useful for internal decision-making"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Management accounting reports are primarily intended for:",
+    "o": [
+      "Government authorities",
+      "External shareholders",
+      "Internal management",
+      "Credit rating agencies"
+    ],
+    "a": 2
+  },
+  {
+    "q": "A key feature of management accounting is that it:",
+    "o": [
+      "Provides real-time data for decisions",
+      "Follows GAAP strictly",
+      "Is audited annually",
+      "Is used only by external parties"
+    ],
+    "a": 0
+  },
+  {
+    "q": "The technique used in management accounting to compare actual results with planned performance is:",
+    "o": [
+      "Ledger balancing",
+      "Trial balance preparation",
+      "Variance analysis",
+      "Cash accounting"
+    ],
+    "a": 2
+  },
+  {
+    "q": "In Activity Based Costing, the first step is to:",
+    "o": [
+      "Determine cost pools",
+      "Select cost drivers",
+      "Identify activities",
+      "Allocate overheads to cost objects"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Which of the following is least suitable as a cost driver under ABC?",
+    "o": [
+      "Number of machine setups",
+      "Direct labour hours",
+      "Number of customer orders",
+      "Total factory square footage"
+    ],
+    "a": 3
+  },
+  {
+    "q": "A company has identified the following overhead cost pools and cost drivers for a product: Setup cost pool: ₹200,000; driver number of setups (2,500 setups). Inspection cost pool: ₹100,000; driver number of inspections (50,000 inspections). Product X has 200 setups and 4,000 inspections. What is the overhead allocated to Product X (using ABC)?",
+    "o": [
+      "₹16,000",
+      "₹12,000",
+      "₹24,000",
+      "₹14,000"
+    ],
+    "a": 2
+  },
+  {
+    "q": "A product requires 5 machine hours. The machine hour activity pool has ₹300,000 budgeted cost and 15,000 machine hours. What is the machine-hour overhead allocated to that product under ABC?",
+    "o": [
+      "₹100",
+      "₹500",
+      "₹1,000",
+      "₹2,000"
+    ],
+    "a": 0
+  },
+  {
+    "q": "A firm has two products A and B. The 'order processing' cost pool is ₹120,000. The cost driver is number of orders. There are 2,000 orders in total: A uses 600 orders; B uses 1,400 orders. The overhead assigned to B is:",
+    "o": [
+      "₹89,000",
+      "₹84,000",
+      "₹48,000",
+      "₹70,000"
+    ],
+    "a": 1
+  },
+  {
+    "q": "A company currently uses traditional costing and absorbs overheads at ₹20 per direct labour hour. Under ABC, two cost pools are identified: Setups (₹50,000) with driver number of setups (500), and material handling (₹100,000) with driver number of parts (200,000). Product Y uses 50 setups and 4,000 parts. Under ABC, overhead allocated to Y is:",
+    "o": [
+      "₹10,000",
+      "₹7,000",
+      "₹14,000",
+      "₹12,000"
+    ],
+    "a": 1
+  },
+  {
+    "q": "A company incurs ₹60,000 as facility-sustaining cost (which supports all products), and allocates it equally across 3 product lines X, Y, Z under ABC. Product X produces 5,000 units, Y 10,000 units, Z 15,000 units. What is the per-unit share of facility cost for Z?",
+    "o": [
+      "₹24",
+      "₹2",
+      "₹1.50",
+      "₹1.33"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Which statement is true about ABC compared to traditional absorption costing?",
+    "o": [
+      "ABC tends to under-cost high volume products and over-cost low volume products",
+      "ABC always leads to lower cost per unit estimates",
+      "ABC ignores overhead costs that are fixed",
+      "ABC is simpler to implement than traditional costing"
+    ],
+    "a": 0
+  },
+  {
+    "q": "In ABC, 'facility-sustaining costs' are:",
+    "o": [
+      "Costs that vary with every unit produced",
+      "Costs that support the entire facility but cannot be traced to individual products",
+      "Always variable costs",
+      "Never included in costing"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Under ABC, if an activity's cost is zero (i.e., no cost incurred), then:",
+    "o": [
+      "Its cost driver rate is infinite",
+      "Its cost driver rate is zero",
+      "It is automatically merged with another pool",
+      "It must still be assigned across products"
+    ],
+    "a": 1
+  },
+  {
+    "q": "A 'cost pool' in ABC refers to:",
+    "o": [
+      "A grouping of fixed costs only",
+      "A set of overhead costs associated with a specific activity",
+      "The sum of direct costs in a department",
+      "The total cost of all drivers"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which of the following is not an assumption of marginal costing?",
+    "o": [
+      "Costs can be separated into fixed and variable components",
+      "Variable cost per unit remains constant over the relevant range",
+      "Selling price per unit changes with volume",
+      "No change in inventory level"
+    ],
+    "a": 2
+  },
+  {
+    "q": "When there are no inventories, profit under marginal costing and absorption costing will be:",
+    "o": [
+      "The same",
+      "Different",
+      "Marginal costing profit greater",
+      "Absorption costing profit greater"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Under marginal costing, get-or-drop decisions predominantly rely on:",
+    "o": [
+      "Fixed cost recovery",
+      "Contribution margin",
+      "Full cost per unit",
+      "Absorbed fixed overhead"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which statement is true?",
+    "o": [
+      "Marginal costing is a complete costing system",
+      "Marginal costing is only a technique of cost analysis",
+      "Marginal costing always gives higher profit than absorption costing",
+      "Marginal costing never considers fixed cost"
+    ],
+    "a": 1
+  },
+  {
+    "q": "What happens to fixed cost per unit when production increases?",
+    "o": [
+      "It remains constant",
+      "It increases",
+      "It decreases",
+      "It becomes zero"
+    ],
+    "a": 2
+  },
+  {
+    "q": "If the P/V ratio increases, what happens to the break-even point (in rupees)?",
+    "o": [
+      "It increases",
+      "It decreases",
+      "It remains unchanged",
+      "Cannot determine"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which decision is least appropriate based on marginal costing?",
+    "o": [
+      "Accepting a special order at a lower price",
+      "Make vs buy decision",
+      "Product mix under limited capacity",
+      "Long-term pricing for strategic positioning"
+    ],
+    "a": 3
+  },
+  {
+    "q": "The difference in profit between absorption and marginal costing arises due to:",
+    "o": [
+      "Different sales levels",
+      "Different treatments of variable cost",
+      "Inventory valuation differences",
+      "Treatment of direct labor"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Under marginal costing, closing stock is valued at:",
+    "o": [
+      "Full cost (direct + variable + fixed overhead)",
+      "Variable cost per unit",
+      "Replacement cost",
+      "Market price"
+    ],
+    "a": 1
+  },
+  {
+    "q": "A company is operating at 80% capacity. A special order is received for 1,000 units at ₹120 each. Variable cost is ₹90 per unit. Should the order be accepted?",
+    "o": [
+      "No, price is too low",
+      "Yes, contribution is ₹30 per unit",
+      "No, fixed cost will increase",
+      "Yes, fixed cost is saved"
+    ],
+    "a": 1
+  },
+  {
+    "q": "A product yields a contribution of ₹60 per unit. A customer offers ₹500 per unit for 50 extra units. Variable cost per unit is ₹440. Should the offer be accepted?",
+    "o": [
+      "No, price is too low",
+      "Yes, contribution is positive",
+      "Only if fixed cost decreases",
+      "Yes, profit is ₹60 per unit"
+    ],
+    "a": 1
+  },
+  {
+    "q": "The variable cost of a product is ₹50, and fixed cost per unit is ₹30. There is idle capacity. What is the transfer price under marginal costing?",
+    "o": [
+      "₹50",
+      "₹80",
+      "₹30",
+      "₹0"
+    ],
+    "a": 0
+  },
+  {
+    "q": "A division can sell its product in the open market at ₹100. The variable cost is ₹60. What should be the minimum transfer price if the division is at full capacity?",
+    "o": [
+      "₹70",
+      "₹60",
+      "₹80",
+      "₹100"
+    ],
+    "a": 3
+  },
+  {
+    "q": "A division has 1,000 units of idle capacity. Variable cost per unit ₹45. It can transfer units to another division or sell externally for ₹60. What is the opportunity cost of internal transfer?",
+    "o": [
+      "₹60",
+      "₹15",
+      "₹45",
+      "₹0"
+    ],
+    "a": 3
+  },
+  {
+    "q": "If the selling division is working at full capacity and transfers internally at marginal cost, the likely impact is:",
+    "o": [
+      "Division earns profit",
+      "Division incurs loss",
+      "Division loses external contribution",
+      "No impact on profit"
+    ],
+    "a": 2
+  },
+  {
+    "q": "A buying division is offered a component internally at ₹70. External market price is ₹65. Should it buy internally if internal cost is ₹50?",
+    "o": [
+      "Yes, ₹70 is better",
+      "No, market price is lower",
+      "Yes, internal cost is lower than market",
+      "No, fixed cost is not recovered"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Selling Division: VC=₹35, External Price = ₹50. Internal Transfer Price ₹35. If 1,000 units are transferred, what is total opportunity cost?",
+    "o": [
+      "₹20",
+      "₹35,000",
+      "₹15,000",
+      "₹50,000"
+    ],
+    "a": 2
+  },
+  {
+    "q": "A company has fixed costs of ₹50,000 and variable costs of ₹20 per unit. Selling price is ₹50 per unit. What is the break-even sales in units?",
+    "o": [
+      "2,500",
+      "1,250",
+      "3,333",
+      "1,667"
+    ],
+    "a": 3
+  },
+  {
+    "q": "In marginal costing, profit is maximum when:",
+    "o": [
+      "Marginal cost equals marginal revenue",
+      "Contribution equals fixed cost",
+      "Fixed cost equals variable cost",
+      "Total cost equals total revenue"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Which of the following is a correct reason to accept a special order in marginal costing?",
+    "o": [
+      "It results in positive contribution",
+      "It increases fixed costs",
+      "It reduces P/V ratio",
+      "It affects stock value"
+    ],
+    "a": 0
+  },
+  {
+    "q": "In make-or-buy decisions using marginal costing, which cost is always relevant?",
+    "o": [
+      "Allocated head office expenses",
+      "Sunk cost",
+      "Variable production cost",
+      "Apportioned rent"
+    ],
+    "a": 2
+  },
+  {
+    "q": "A division transfers goods internally at marginal cost. What is a key disadvantage?",
+    "o": [
+      "Under-recovery of fixed costs",
+      "Overstatement of division's profit",
+      "Double counting of variable cost",
+      "Increased total cost"
+    ],
+    "a": 0
+  }
 ]
