@@ -1,1 +1,452 @@
-
+[
+{
+"q": "Which of the following is/are not characteristic of a company?",
+"o": [
+"It is a distinct legal entity existing independent of its members.",
+"It has a perpetual succession.",
+"The shares of a company are freely transferable except in case of a Private limited Company.",
+"It is a voluntary association of persons usually for social up liftment without expectation of any profit."
+],
+"a": 3
+},
+{
+"q": "Which of the following is/are the important feature/s of a company?",
+"o": [
+"Accounting process is highly regulated and guided by regulatory pronouncements",
+"Constituents of periodical accounts (i.e., income statement, balance sheet etc.) are specified by the law",
+"Importance of compliance to the prescribed rules and regulations is paramount",
+"All of these"
+],
+"a": 3
+},
+{
+"q": "In India, accounting in of a company form is guided by which of the following regulatory sources?",
+"o": [
+"Companies Act, 2013",
+"Company Rules",
+"Accounting Standards",
+"All of these"
+],
+"a": 3
+},
+{
+"q": "Which of the following is not a statutory book of a company?",
+"o": [
+"Register of Investments held and their names",
+"Annual returns",
+"Register of Officers",
+"Register of shareholdings of the directors"
+],
+"a": 2
+},
+{
+"q": "Which of the following is/are not a feature/s of Shares have the following features?",
+"o": [
+"It represents the biggest unit of ownership",
+"Shares of a specific series must have the same face value",
+"Share represents only a partial ownership of Share Capital of the company",
+"Each share has a distinct number"
+],
+"a": 0
+},
+{
+"q": "In case of issue the shares are offered to the existing shareholders of the company without any consideration.",
+"o": [
+"Private Placement",
+"Rights Issue",
+"Bonus Issue",
+"Offers for sale"
+],
+"a": 2
+},
+{
+"q": "When share is issued at a price equal to its face value, it is called issue",
+"o": [
+"at Par",
+"Issue at a Premium",
+"Issue at a Discount",
+"at Bonus"
+],
+"a": 0
+},
+{
+"q": "Provisions relating to buy back of securities are contained in of the Companies Act, 2013.",
+"o": [
+"Section 77",
+"Section 77A",
+"Section 68",
+"Section 63"
+],
+"a": 2
+},
+{
+"q": "Buy-back of equity shares in any financial year should not exceed",
+"o": [
+"10% of net worth",
+"25% of the aggregate of paid-up capital and free reserves of the company",
+"25% of the paid-up equity capital",
+"25% of the aggregate of paid-up equity capital and preference capital"
+],
+"a": 1
+},
+{
+"q": "2. Company may purchase its own shares or other specified securities out of- A. Free reserves B. Securities premium account C. Proceeds of issue of any shares D. Proceeds of issue of specified securities",
+"o": [
+"A and C only",
+"A. b and C only",
+"A, C and D only",
+"A or B or C or D"
+],
+"a": 3
+},
+{
+"q": "Section 68 of the Companies Act, 2013 provides that no buy-back of any kind of shares or other specified securities shall be made out of the",
+"o": [
+"Securities premium balance as it stood before buy back",
+"Proceeds of an earlier issue of the same kind of shares or same kind of other specified securities",
+"General reserve in excess of 15% balance as per latest audited balance sheet",
+"Proceeds of issue of specified securities"
+],
+"a": 1
+},
+{
+"q": "For the purpose of calculating debt equity ratio which of the following debts are considered",
+"o": [
+"Secured debts",
+"Unsecured debts",
+"Current liabilities",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Where a company purchase its own shares out of free reserves or securities premium account, a sum equal to the nominal value of the shares so purchased shall be transferred to the",
+"o": [
+"Capital Reserve Account",
+"General Reserve Account",
+"Capital Redemption Reserve Account",
+"Equity Shares Redemption Account"
+],
+"a": 2
+},
+{
+"q": "No offer of buy-back shall be made within a period of reckoned from the date of the closure of the preceding offer of buy-back",
+"o": [
+"6 months",
+"1 year",
+"2 years",
+"10 months"
+],
+"a": 1
+},
+{
+"q": "Equity shares amounting to Rs.2,00,000 are brought back at a premium of 5%, by issue of preference shares amounting to Rs.1,00,000 at a premium of 10%. Compute the amount to be transferred to Capital Redemption Reserve.",
+"o": [
+"Rs.1,00,000",
+"Rs.90,000",
+"Rs.1,50,000",
+"Rs.50,000"
+],
+"a": 0
+},
+{
+"q": "Following are the extract of balance sheet of Light Co. Ltd. Equity share of Rs. 10 each - Rs.10,00,000 Security Premium - Reserve- Profit & Loss Account - Bank - Rs.2,40,000 Rs.7.50,000 Rs.2,80,000 Rs.9.10,000 Non Trading Investments- Rs.4,20,000 Company brought back 15,000 shares at Rs.40 each. The transaction in respect of buy back was financed by 2/3rd of non-trade investment for Rs.5,90,000 Amount to be transferred to capital redemption reserve is sale of",
+"o": [
+"Rs.6,00,000",
+"Rs.1,00,000",
+"Rs.4.50,000",
+"Rs.1.50,000"
+],
+"a": 3
+},
+{
+"q": "Following information is available from the audited balance sheet of TH Ltd.: Equity Shares Capital (3,000 lakh share of Rs.10 each) - Rs.30,000 Securities Premium Account - Rs.3.000 General Reserve Rs. 10,000 Secured Loans - Rs.40,000 Unsecured Loans - Rs.22,000 Compute the maximum limits up to which buy back is permitted in the financial year 2022-23.",
+"o": [
+"800 lakh shares",
+"1075 lakh shares",
+"500 lakh shares",
+"400 lakh shares"
+],
+"a": 1
+},
+{
+"q": "The notice of the meeting at which the special resolution is proposed to be passed relating to buy back of shares shall be accompanied by an explanatory statement stating",
+"o": [
+"Full and complete disclosure of all material facts",
+"Analysis of debt equity",
+"Gross profit ratio before buy back",
+"Chairman's view on buy back"
+],
+"a": 0
+},
+{
+"q": "The balance appearing in the books of a company at the end of year were: CRR $A/c=Rs.50,000$ Securities Premium Rs.5,000 Revaluation Reserve Rs.20,000 Profit & Loss A/c (Dr.) Rs. 10,000 Maximum amount available for bonus shares will be",
+"o": [
+"Rs.50,000",
+"Rs.55,000",
+"Rs.45,000",
+"Rs.57,000"
+],
+"a": 1
+},
+{
+"q": "is the amount of share capital that a company is permitted to issue.",
+"o": [
+"Issued Share Capital",
+"Authorized Share Capital",
+"Subscribed Capital",
+"Paid up Capital"
+],
+"a": 1
+},
+{
+"q": "When shares are forfeited, the share capital account is debited with",
+"o": [
+"Called-up value of shares",
+"Nominal value of shares",
+"Market value of shares",
+"Paid-up value of shares"
+],
+"a": 0
+},
+{
+"q": "Forfeiture of shares results in the reduction of",
+"o": [
+"Authorised capital",
+"Reserve capital",
+"Paid-up capital",
+"Fixed assets"
+],
+"a": 2
+},
+{
+"q": "Shares can be forfeited",
+"o": [
+"For failure to attend meetings",
+"For failure to repay the loan to the bank",
+"For non-payment of call money",
+"For which shares are pledged as a security"
+],
+"a": 2
+},
+{
+"q": "Redeemable Preference Shares of Rs. 1,00,000 are redeemed at a premium of 5% for which purpose fresh equity capital of Rs. 40,000 is issued at par. What amount should be transferred to Capital Redemption Reserve account?",
+"o": [
+"Rs.40,000",
+"Rs. 1,05,000",
+"Rs.65,000",
+"Rs.60,000"
+],
+"a": 3
+},
+{
+"q": "The financial statements of company shall be in the from provided in",
+"o": [
+"Schedule IV",
+"Schedule III",
+"Schedule V",
+"Schedule VI"
+],
+"a": 1
+},
+{
+"q": "Part I of the Schedule III to the Companies Act, 2013 gives the",
+"o": [
+"Format of Profit & Loss Account",
+"General instructions for preparation of Profit & LoSS Account",
+"Format of Balance Sheet",
+"Format of Comparative Statements"
+],
+"a": 2
+},
+{
+"q": "Where the company covered under section 135 of the Companies Act, 2013, which of the following shall be disclosed with regard to CSR activities?",
+"o": [
+"amount of expenditure incurred",
+"shortfall at the end of the year",
+"shortfall at the end of the year",
+"All of these"
+],
+"a": 3
+},
+{
+"q": "Which of the following is/are not a criteria to classify a liability as current liability?",
+"o": [
+"it is expected to be settled in the company's normal operating cycle",
+"it is held primarily not for the purpose of being traded",
+"it is due to be settled within twelve months after the reporting date",
+"the company does not have an unconditional right to defer settlement of the liability for at least twelve months after the reporting date"
+],
+"a": 1
+},
+{
+"q": "What are the major types of financial statements prepared by entities?",
+"o": [
+"(a) Statement of Financial Performance or Income Statement (b) Statement of Financial State of Affairs or Balance Sheet (c) Statement of Changes in Financial Position (d) Statement of Inflow and Outflow of Cash",
+"(a) Statement of Trial Balance (b) Statement of Financial State of Balance Affairs or Sheet (c) Statement of Changes in Financial Position (d) Statement of Inflow and Outflow of Cash",
+"(a) Statement of Financial Performance or Income Statement (b) Statement of Financial State of Affairs or Balance Sheet (c) Statement of Changes in Financial Position (d) Statement of Fund Flows",
+"(a) Statement of Financial Performance or Income Statement (b) Statement of Financial State of Affairs or Balance Sheet (c) Statement of Changes in Financial Position (d) Cash Book"
+],
+"a": 0
+},
+{
+"q": "If the turnover of the company is less than Rs.100 Crore, the figures appearing in the Financial Statements shall be rounded off to nearest -",
+"o": [
+"To the nearest hundreds",
+"To the nearest hundreds and thousands",
+"To the nearest hundred, thousands, lakh or million thereof",
+"To the nearest hundreds, thousands, lakhs or millions, or decimals thereof"
+],
+"a": 3
+},
+{
+"q": "Under which heading the Deferred Tax Liabilities appears in the balance sheet",
+"o": [
+"Current Liabilities",
+"Non-Current Liabilities",
+"Deferred Liabilities",
+"Contingent Liabilities"
+],
+"a": 1
+},
+{
+"q": "As asset shall be classified as current",
+"o": [
+"If it is held primarily for the purpose of being traded.",
+"If it is not possible to classify such asset as non-current asset",
+"It or the asset normal operating cycle cannot be identified",
+"All of the above"
+],
+"a": 0
+},
+{
+"q": "A liability shall be classified as current when it satisfies any of the following criteria:",
+"o": [
+"It is expected to be settled in the Company's normal operating cycle",
+"It is due to be settled within twelve months after the reporting date",
+"The company does not have an un- conditional right to defer settlement of the liability of at least twelve months after the reporting date.",
+"Any of the above"
+],
+"a": 3
+},
+{
+"q": "Which of the following appears under the heading 'Reserve & Surplus in the balance sheet",
+"o": [
+"Share Options Outstanding Account",
+"Share Application Money Pending Allotment",
+"Long Term Provisions",
+"Share Application Money due for refund"
+],
+"a": 0
+},
+{
+"q": "In the Balance Sheet Bank Overdraft will be shown as a liability under the heading -",
+"o": [
+"Other Current Liabilities",
+"Short Term Borrowings",
+"Current Liabilities",
+"Cash & Cash Equivalent"
+],
+"a": 1
+},
+{
+"q": "In the Balance Sheet Calls in Arrears will be shown in -",
+"o": [
+"Liabilities Side",
+"Assets Side",
+"Assets or Liabilities Side",
+"Liabilities"
+],
+"a": 0
+},
+{
+"q": "Futura Ltd had the following items under the head "Reserves and Surplus" in the Balance Sheet as on 31st March: (Rs. in Lakhs) Securities Premium Account 80, Capital Reserve - 60, General Reserve-90. The Company had an Accumulated Loss of Rs250 Lakhs on the same date. Reserves & Surplus to be disclosed in B/S is",
+"o": [
+"Rs.250 Lakhs",
+"Rs.230 Lakhs",
+"Rs.20 Lakhs",
+"None of the above"
+],
+"a": 3
+},
+{
+"q": "In the Notes to Accounts a Contingent liabilities shall be classified as",
+"o": [
+"Claims against the company not acknowledged as debt",
+"Guarantees",
+"Other money for which the company is contingently liable",
+"All of these"
+],
+"a": 3
+},
+{
+"q": "In case of purchase of assets under instalment payment system, instalments due after 12 months from the reporting date are shown as",
+"o": [
+"Current liability",
+"Current assets",
+"Non-current liability",
+"Non-current assets"
+],
+"a": 2
+},
+{
+"q": "As per Schedule III of Companies Act 2013, while preparing the financial statements in case of a Finance Company, interest received from borrowers should be shown under",
+"o": [
+"Revenue from operation",
+"Other Income",
+"Current assets",
+"Non-current assets"
+],
+"a": 0
+},
+{
+"q": "Inventories are valued at the lower of net realizable value. or the",
+"o": [
+"Fair Value",
+"Historical cost",
+"Current value",
+"None of these"
+],
+"a": 1
+},
+{
+"q": "The amount of Calls-in-Advance not yet adjusted till the Balance Sheet date is shown under under the head Current Liabilities",
+"o": [
+"Other Current Liabilities",
+"Inventories",
+"Trade Receivables",
+"Trade Paybles"
+],
+"a": 0
+},
+{
+"q": "Proposed Dividend is treated as a and is shown as a deduction in Reserve and Surplus.",
+"o": [
+"Contingent Liabilities",
+"Current Assets",
+"Current Liabilities",
+"None of these"
+],
+"a": 0
+},
+{
+"q": "Cash receipts from disposal of shares is classified under",
+"o": [
+"Investing Activity",
+"Operating Activity",
+"Financing Activity",
+"Cash Equivalent"
+],
+"a": 0
+},
+{
+"q": "The main difference in direct and indirect method is to calculate the",
+"o": [
+"Cash Flows from Investing Activity",
+"Cash Flows from Operating Activity",
+"Cash Flows from Financing Activity",
+"All of these"
+],
+"a": 1
+}
+]
