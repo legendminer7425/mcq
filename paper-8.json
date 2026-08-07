@@ -1,1 +1,602 @@
-
+[
+{
+"q": "Prime Cost is:",
+"o": [
+"All costs incurred in manufacturing a product",
+"the total of direct costs",
+"the material cost of a product",
+"the cost of operating a department"
+],
+"a": 1
+},
+{
+"q": "A company employs three drivers to deliver goods to its customers. The salaries paid to these drivers are:",
+"o": [
+"a part of prime cost",
+"a direct production expense",
+"a production overhead",
+"a selling & distribution overhead"
+],
+"a": 3
+},
+{
+"q": "A company has to pay a Rs. 1 per unit royalty to the designer of a product which it manufactures and sells. The royalty charge would be classified in the company's accounts as a",
+"o": [
+"Direct expense",
+"Production overhead",
+"Administrative overhead",
+"Selling overhead"
+],
+"a": 0
+},
+{
+"q": "is a method of dealing with overheads which involves spreading common costs over cost centers on the basis of benefit received.",
+"o": [
+"overhead absorption",
+"overhead apportionment",
+"overhead allocation",
+"overhead analysis"
+],
+"a": 1
+},
+{
+"q": "Which of the following classification is meant for distinction between direct cost and indirect cost?",
+"o": [
+"Function",
+"Element",
+"Variability",
+"Controllability"
+],
+"a": 1
+},
+{
+"q": "Which of the following is applicable for Cost Control?",
+"o": [
+"It is related with the future",
+"It is a corrective function",
+"It ends when the targets are achieved",
+"It challenges the standards set"
+],
+"a": 2
+},
+{
+"q": "is anything for which a separate measurement of cost is required",
+"o": [
+"Cost driver",
+"Cost centre",
+"Cost unit",
+"Cost object"
+],
+"a": 3
+},
+{
+"q": "Ticket counter in a Metro Station is an example of",
+"o": [
+"Profit centre",
+"Investment centre",
+"Cost centre",
+"Revenue centre"
+],
+"a": 3
+},
+{
+"q": "Absorption costing is also referred as",
+"o": [
+"Historical costing",
+"Traditional costing",
+"Full costing",
+"All of the above terms"
+],
+"a": 3
+},
+{
+"q": "the main purpose of cost accounting is",
+"o": [
+"to maintain profit",
+"to help in inventory valuation",
+"to enter into price War with competitive firms",
+"to provide information to management for decision-making"
+],
+"a": 3
+},
+{
+"q": "is anything for which a separate measurement is required",
+"o": [
+"cost unit",
+"cost object",
+"cost driver",
+"cost sentre"
+],
+"a": 1
+},
+{
+"q": "Which of the following is true about Cost Control",
+"o": [
+"It is a corrective function",
+"It challenges the set standards",
+"It ends when targets achieved",
+"is concerned with future"
+],
+"a": 2
+},
+{
+"q": "Cost Units used in Power Sector is:",
+"o": [
+"Kilo-meter (K.Μ.)",
+"Kilo-Watt-Hour (kWh)",
+"Number of Electric Points",
+"Machine Hours"
+],
+"a": 1
+},
+{
+"q": "Process Costing method is suitable for:",
+"o": [
+"Transport Sector",
+"Chemical Industries",
+"Dam Construction",
+"Furniture-making"
+],
+"a": 1
+},
+{
+"q": "distinction between Direct Cost and Indirect Cost is an example of classification.",
+"o": [
+"By element",
+"By Function",
+"By controllability",
+"By Variability"
+],
+"a": 0
+},
+{
+"q": "The advantage of using IT in Cost Accounting does not include",
+"o": [
+"Single point data entry",
+"stock needs to be reconciled with goods received note",
+"reduction in multiplicity of documents",
+"integration of various functions"
+],
+"a": 1
+},
+{
+"q": "A taxi provider charges minimum Rs.80 thereafter Rs. 12 per kilometer of distance travelled, the behaviour of conveyance Cost is",
+"o": [
+"fixed cost",
+"semi-variable",
+"variable",
+"administrative cost"
+],
+"a": 1
+},
+{
+"q": "A Ltd. Has three Production Departments, and each department has machines, which of the following cannot be treated as Cost Centre for cost allocation:",
+"o": [
+"Machines under the Production Department",
+"Production Departments",
+"Both Production Department and Machines",
+"A Ltd."
+],
+"a": 3
+},
+{
+"q": "Which of the following is an example of functional classification of cost?",
+"o": [
+"Semi-variable costs",
+"Fixed Cost",
+"Administrative overhead",
+"indirect Overheads"
+],
+"a": 2
+},
+{
+"q": "Cost which are ascertained after they have been incurred are known as",
+"o": [
+"sunk costs",
+"Imputed Costs",
+"Historical Costs",
+"Oppurtunity Costs"
+],
+"a": 2
+},
+{
+"q": "Generally, for the purpose of Cost sheet preparation, costs are classified on the basis of -",
+"o": [
+"Functions",
+"variablity",
+"relevance",
+"nature"
+],
+"a": 0
+},
+{
+"q": "What is prime cost",
+"o": [
+"Total direct cost only",
+"Total Indirect Costs only",
+"Total Non-Production Costs",
+"Total Production Costs"
+],
+"a": 0
+},
+{
+"q": "Which of the following does not form part of prime cost",
+"o": [
+"Cost of Packing",
+"cost of transportation paid to bring materials to factory",
+"GST paid on Raw materials (where input credit cannot be claimed)",
+"overtime premium paid to workers"
+],
+"a": 0
+},
+{
+"q": "Which of these is not an objective of Cost Accounting?",
+"o": [
+"Ascertainment of Cost",
+"Determination of Selling Price",
+"Cost Control and Cost reduction",
+"Assisting Shareholders in decision making"
+],
+"a": 3
+},
+{
+"q": "Which of the following are direct expenses? (1) Cost of Special Designs drawings or layout, (2) Hire of Tools or Equipment for a particular job, (3) Salesman's wages, (4) Rent, rates and Insurance of a factory.",
+"o": [
+"(1) and (2)",
+"(1) and (3)",
+"(2) and (3)",
+"(3) and (4)"
+],
+"a": 0
+},
+{
+"q": "Salary paid to plant Supervisor is a part of",
+"o": [
+"Direct expenses",
+"Factory Overheads",
+"Quality Control Cost",
+"administrative cost"
+],
+"a": 1
+},
+{
+"q": "Depreciation of Director's Laptop is treated as a part of:",
+"o": [
+"Administration Overheads",
+"Factory Overheads",
+"IT infrastructure Cost",
+"Research & Development Cost"
+],
+"a": 0
+},
+{
+"q": "A manufacturing Company has set-up a lab for testing of products for compliance with standards. Salary of this Lab Staff are part of:",
+"o": [
+"Works Overheads",
+"Quality Control Cost",
+"Direct Expenses",
+"Reearch & Development Cost"
+],
+"a": 1
+},
+{
+"q": "Audit fees paid to external Statutory Auditors is part of",
+"o": [
+"Administration Cost",
+"Production Cost",
+"Selling & distribution Costs",
+"Quality Costrol Cost"
+],
+"a": 0
+},
+{
+"q": "Salary paid to factory stores is a part of",
+"o": [
+"Factory Overheads",
+"Production Cost",
+"Direct Employee Cost",
+"Direct Material Cost"
+],
+"a": 0
+},
+{
+"q": "Canteen Expenses for factory workers are part of -",
+"o": [
+"Factory Overheads",
+"Administration cost",
+"marketing cost",
+"direct expenses"
+],
+"a": 0
+},
+{
+"q": "A company pays Royalty to State Government on the basis of production, it is treated as:",
+"o": [
+"Direct material cost",
+"Quality Control Cost",
+"Direct Expenses",
+"Administrative Overhead"
+],
+"a": 2
+},
+{
+"q": "Which of the following is not an element of Works Overhead?",
+"o": [
+"Store Keeper's Salary",
+"Plant Manager's salary",
+"Sales Manager's Salary",
+"Product Inspector's Salary"
+],
+"a": 2
+},
+{
+"q": "A profit centre is a centre",
+"o": [
+"Where the manager has the responsibility of generating and maximising profits",
+"Which is concerned with earning an adequate Return on Investment",
+"Both of the above",
+"Which manages cost"
+],
+"a": 0
+},
+{
+"q": "Responsibility Centre can be categorised into:",
+"o": [
+"Cost Centres only",
+"Profit Centres only",
+"Investment Centres only",
+"Cost Centres, Profit Centres and Investment Centres"
+],
+"a": 3
+},
+{
+"q": "Cost Unit is defined as:",
+"o": [
+"Unit of quantity of product, service or time in relation to which costs may be ascertained or expressed",
+"A location, person or an item of equipment or a group of these for which costs are ascertained and used for cost control.",
+"Centres having the responsibility of generating and maximising profits",
+"Centres concerned with earning an adequate return on investment"
+],
+"a": 0
+},
+{
+"q": "Fixed cost is a cost:",
+"o": [
+"Which changes in total in proportion to changes in output",
+"which is partly fixed and partly variable in relation to output",
+"Which do not change in total during a given period despise changes in output",
+"which remains same for each unit of output"
+],
+"a": 2
+},
+{
+"q": "Uncontrollable costs are the costs which be influenced by the action of a specified member of an undertaking.",
+"o": [
+"can not",
+"can",
+"may or may not",
+"must"
+],
+"a": 0
+},
+{
+"q": "Element/s of Cost of a product are:",
+"o": [
+"Material only",
+"Labour only",
+"Expenses only",
+"Material, Labour and expenses"
+],
+"a": 3
+},
+{
+"q": "Abnormal cost is the cost:",
+"o": [
+"Cost normally incurred at a given level of output",
+"Cost not normally incurred at a given level of output",
+"Cost which is charged to customer",
+"Cost which is included in the cost of the product"
+],
+"a": 1
+},
+{
+"q": "Conversion cost includes cost of converting..........into........",
+"o": [
+"Raw material, WIP",
+"Raw material, Finished goods",
+"WIP, Finished goods",
+"Finished goods, Saleable goods"
+],
+"a": 1
+},
+{
+"q": "Sunk costs are:",
+"o": [
+"relevant for decision making",
+"Not relevant for decision making",
+"cost to be incurred in future",
+"future costs"
+],
+"a": 1
+},
+{
+"q": "Calculate the prime cost from the following information: Direct material purchased: Rs. 1,00,000 Direct material consumed: Rs. 90,000 Direct labour: Rs. 60,000 Direct expenses: Rs. 20,000 Manufacturing overheads: Rs. 30,000",
+"o": [
+"Rs. 1,80,000",
+"Rs. 2,00,000",
+"Rs. 1,70,000",
+"Rs. 2,10,000"
+],
+"a": 2
+},
+{
+"q": "Total cost of a product: Rs. 10,000 Profit: 25% on Selling Price Profit is:",
+"o": [
+"Rs. 2,500",
+"Rs. 3,00,000",
+"Rs. 3,333",
+"Rs. 2,000"
+],
+"a": 2
+},
+{
+"q": "Calculate cost of sales from the following: Net Works cost: Rs. 2,00,000 Office & Administration Overheads: Rs. 1,00,000 Opening stock of WIP: Rs. 10,000 Closing Stock of WIP: Rs. 20,000 Closing stock of finished goods: Rs. 30,000 There was no opening stock of finished goods. Selling overheads: Rs. 10,000",
+"o": [
+"Rs. 2,70,000",
+"Rs. 2,80,000",
+"Rs. 3,00,000",
+"Rs. 3,20,000"
+],
+"a": 1
+},
+{
+"q": "Which of the following is considered as normal loss of material?",
+"o": [
+"Pilferage",
+"Loss due to accident",
+"Loss due to careless handling of material",
+"None of these"
+],
+"a": 2
+},
+{
+"q": "The most important element of cost is-",
+"o": [
+"Material",
+"Labour",
+"Overheads",
+"All of these"
+],
+"a": 0
+},
+{
+"q": "Direct material is a",
+"o": [
+"Adiministration Cost",
+"Selling and Distribution cost",
+"All of these",
+"None of these"
+],
+"a": 3
+},
+{
+"q": "Which of the following is considered as accounting record?",
+"o": [
+"Bin Card",
+"Bill of material",
+"Store Ledger",
+"None of these"
+],
+"a": 2
+},
+{
+"q": "Direct material can be classified as:",
+"o": [
+"Fixec cost",
+"Semi-Variable cost",
+"Vaiable Cost",
+"Prime cost"
+],
+"a": 2
+},
+{
+"q": "In which of the following methods of pricing, costs lag behind the current economic values?",
+"o": [
+"Replacement price method",
+"Last in first out price method",
+"First in first out price method",
+"Weighted average price method"
+],
+"a": 2
+},
+{
+"q": "In which of the following methods, issues of materials are priced at pre-determined rate?",
+"o": [
+"Replacement price method",
+"Inflated price method",
+"Specific price method",
+"Standard price method"
+],
+"a": 3
+},
+{
+"q": "Which of the following methods smoothes out the effect of fluctuations when material prices fluctuate widely?",
+"o": [
+"FIFO",
+"Simple Average",
+"LIFO",
+"Weighted average"
+],
+"a": 3
+},
+{
+"q": "In which of the following incentive plan of payment, wages on time basis are not Guaranteed?",
+"o": [
+"Halsey plan",
+"Rowan plan",
+"Taylor's differential piece rate system",
+"Gantt's task and bonus system"
+],
+"a": 2
+},
+{
+"q": "Cost of idle time arising due to non-availability of raw material is:",
+"o": [
+"Charged to costing profit and loss A/c",
+"Charged to factory overheads",
+"Recovered by inflating the wage rate",
+"Ignored"
+],
+"a": 0
+},
+{
+"q": "When overtime is required for meeting urgent orders, overtime premium should be",
+"o": [
+"Charged to costing profit and loss A/c",
+"Charged to overhead costs",
+"Charged to respective jobs",
+"Ignored"
+],
+"a": 1
+},
+{
+"q": "Labour turnover is measured by",
+"o": [
+"Number of workers replaced average number of workers",
+"Number of workers left/number in the beginning plus number at the end",
+"Number of workers joining/number in the beginning of the period",
+"All of these"
+],
+"a": 0
+},
+{
+"q": "Idle time is",
+"o": [
+"Time spent by workers in factory",
+"Time spent by workers in office",
+"Time spent by workers off their work",
+"Time spent by workers on their job"
+],
+"a": 2
+},
+{
+"q": "Over time is:",
+"o": [
+"Actual hours being more than normal time",
+"Actual hours being more than standard time",
+"Standard hours being more than actual hours",
+"Actual hours being less than standard time"
+],
+"a": 0
+},
+{
+"q": "Labour productivity is measured by comparing",
+"o": [
+"Total output with total man-hours",
+"Added value for the product with total wage cost",
+"Actual time and standard time",
+"All of the above"
+],
+"a": 3
+}
+]
