@@ -1,1 +1,802 @@
-
+[
+{
+"q": "Time value of money explains that:",
+"o": [
+"a unit of money received today is worth more than a unit received in future",
+"a unit of money received today is worth less than a unit received in future",
+"a unit of money received today and at some other time in future is equal",
+"none of the above"
+],
+"a": 0
+},
+{
+"q": "Time value of money facilitates comparison of cash flows occurring at different time periods by:",
+"o": [
+"compounding all cash flows to a common point of time",
+"discounting all cash flows to a common point of time",
+"using either (1) or (2)",
+"neither (1) nor (2)."
+],
+"a": 2
+},
+{
+"q": "If the nominal rate of interest is 10 per cent per annum and frequency of compounding is 4 i.e. quarterly compounding, the effective rate of interest will be:",
+"o": [
+"10.25% per annum",
+"10.38% per annum",
+"10% per annum",
+"none of the above"
+],
+"a": 1
+},
+{
+"q": "Relationship between annual effective rate of interest and annual nominal rate of interest is, if frequency of compounding is more than 1:",
+"o": [
+"Effective Rate < Nominal rate",
+"Effective Rate > Nominal rate",
+"Effective Rate = Nominal rate",
+"none of the above"
+],
+"a": 1
+},
+{
+"q": "If annual effective rate of interest is 10.25% per annum and nominal rate of return is 10% per annum what is the frequency of compounding?",
+"o": [
+"1",
+"3",
+"2",
+"4"
+],
+"a": 2
+},
+{
+"q": "A student takes a loan of Rs. 50,000 from SBI. The rate of interest being charged by SBI is 10% per annum. What would be the amount of equal annual instalment if he wishes to pay it back in five instalments and first instalment, he will pay at the end of year 5?",
+"o": [
+"Rs11,000",
+"Rs. 19,310",
+"Rs. 15,000",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "How much amount should an investor invest now in order to receive five annuities starting from the end of this year of Rs. 10,000 if the rate of interest offered by bank is 10% per annum?",
+"o": [
+"Rs. 40,000",
+"Rs. 45,000",
+"Rs. 37,910",
+"none of the above"
+],
+"a": 2
+},
+{
+"q": "A bank offers 12% compound interests payable quarterly. If you deposit Rs.2,000 now, how much it will grow at the end of 5 years?",
+"o": [
+"Rs.3,050",
+"Rs.3,430",
+"Rs.3,612",
+"Rs.3,722"
+],
+"a": 2
+},
+{
+"q": "A company wants to repay a loan of Rs. 5,00,000, 10 years from today. What amount should it invest each year for 10 years if the funds can earn 8% per annum? The first investment will be made at the beginning of this year.",
+"o": [
+"Rs. 50,000",
+"Rs. 31,950",
+"Rs. 40,000",
+"Rs. 32,950"
+],
+"a": 1
+},
+{
+"q": "Risk of two securities having different expected return can be compared with:",
+"o": [
+"standard deviation of securities",
+"deposit",
+"coefficient of variation",
+"mean"
+],
+"a": 2
+},
+{
+"q": "A portfolio consists of two securities and the expected return on two securities is 12% and 16% respectively. Calculate return of portfolio if first security accounts for 40% of portfolio.",
+"o": [
+"14%",
+"14.40%",
+"16%",
+"12%"
+],
+"a": 1
+},
+{
+"q": "If the rate of interest is 12%, what are the doubling periods as per the rule 72 and the rule of 69 respectively?",
+"o": [
+"5 Years and 5.2 Years",
+"5.8 Years and 5.3 Years",
+"6 Years and 6.1 Years.",
+"6.5 Years and 6.6 Years"
+],
+"a": 2
+},
+{
+"q": "To create a minimum variance portfolio, in what proportion should the two securities be mixed if the following information is given S1=10%, S2=12%, P12=0.6?",
+"o": [
+"0.72 and 0.28",
+"0.70 and 0.30",
+"0.60 and 0.40",
+"0.50 and 0.40"
+],
+"a": 0
+},
+{
+"q": "A portfolio consisting of two risky securities can be made risk less i.e., Sp=0 if:",
+"o": [
+"the securities are perfectly positively correlated",
+"the securities are perfectly negatively correlated",
+"if the correlation ranges between 0 to 1",
+"if the correlation ranges between-1 to +1"
+],
+"a": 1
+},
+{
+"q": "Efficient portfolios are those portfolios, which offer (for a given level of risk)",
+"o": [
+"maximum return",
+"minimum return",
+"average return",
+"positive return"
+],
+"a": 0
+},
+{
+"q": "CAPM accounts for",
+"o": [
+"systematic risk",
+"unsystematic risk",
+"both of the above",
+"moderate risk"
+],
+"a": 0
+},
+{
+"q": "Assets Management company is formed:",
+"o": [
+"To manage bank's assets",
+"To manage mutual funds investments",
+"To construct infrastructure projects",
+"To run a stock exchange"
+],
+"a": 1
+},
+{
+"q": "Prime duty of a merchant banker is -",
+"o": [
+"Maintaining records of clients",
+"Giving loans to clients",
+"Working as a Capital Market Intermediary",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Basic objective of a money market mutual fund is:",
+"o": [
+"Guaranteed rate of return",
+"Investment in short-term securities",
+"Both (1) and (2)",
+"None of (1) and (2)"
+],
+"a": 1
+},
+{
+"q": "Short selling refers to:",
+"o": [
+"Buying shares and then selling them on the same day",
+"Selling shares without owning them",
+"Selling some shares out of a large holding",
+"Continuously selling shares in lots."
+],
+"a": 1
+},
+{
+"q": "Which of the following is not regulated by SEBI?",
+"o": [
+"Foreign Institutional Investors",
+"Foreign Direct Investment",
+"Mutual Funds",
+"Depositories"
+],
+"a": 1
+},
+{
+"q": "Which of the following is true for mutual funds in India?",
+"o": [
+"Exit load is not allowed",
+"Entry load is allowed",
+"Entry load is not allowed",
+"Exit load allowed is some cases"
+],
+"a": 3
+},
+{
+"q": "Which of the following is not available in India?",
+"o": [
+"Index Options",
+"Index Futures,",
+"Commodity Options",
+"Commodity Futures"
+],
+"a": 2
+},
+{
+"q": "Which of the following is the benefit of Depositories?",
+"o": [
+"Reduction in the share transfer time to the buyer",
+"Reduced Risk of stolen, fake, forged shares",
+"No Stamp duty on transfer of shares in dematerialized form",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Credit Rating of a debt security is:",
+"o": [
+"Guarantee of Repayment",
+"Merely opinion",
+"Positive suggestion",
+"Negative suggestion"
+],
+"a": 1
+},
+{
+"q": "The first computerised online stock exchange in India was:",
+"o": [
+"NSE",
+"OTCEI",
+"BSE",
+"MCX"
+],
+"a": 1
+},
+{
+"q": "Which of the following derivative is not traded on Indian Stock Market?",
+"o": [
+"Index Options",
+"Stock Futures",
+"Index Futures",
+"Forward Rate Agreements"
+],
+"a": 3
+},
+{
+"q": "How many depositories are there in India?",
+"o": [
+"2",
+"3",
+"0",
+"1"
+],
+"a": 0
+},
+{
+"q": "Secondary Market in India is regulated by:",
+"o": [
+"Reserve Bank of India.",
+"Securities and Exchange Board of India",
+"Ministry of Finance",
+"Forward Market Commission"
+],
+"a": 1
+},
+{
+"q": "______ funds do not have a fixed date of redemption.",
+"o": [
+"Open ended funds.",
+"Close ended funds",
+"Diversified funds",
+"Both A and B."
+],
+"a": 0
+},
+{
+"q": "In India, NIFTY and SENSEX are calculated on the basis of:",
+"o": [
+"Market Capitalization",
+"Paid up Capital",
+"Free-float Capitalization",
+"Authorized Share Capital"
+],
+"a": 2
+},
+{
+"q": "The type of collateral (security) used for short-term loan is:",
+"o": [
+"Real estate",
+"Plant & Machinery",
+"Stock of good",
+"Equity share capital"
+],
+"a": 2
+},
+{
+"q": "Which of the following is a liability of a bank?",
+"o": [
+"Treasury Bills",
+"Commercial papers",
+"Certificate of Deposits",
+"Junk Bonds."
+],
+"a": 2
+},
+{
+"q": "Commercial paper is a type of:",
+"o": [
+"Fixed coupon Bond",
+"Unsecured short-term debt",
+"Equity share capital",
+"Government Bond."
+],
+"a": 1
+},
+{
+"q": "Which of the following is not a spontaneous source of short-term funds?",
+"o": [
+"Trade credit",
+"Accrued expenses",
+"Provision for dividend",
+"All of the above"
+],
+"a": 2
+},
+{
+"q": "In India, Commercial Papers are issued as per the lines issued by",
+"o": [
+"Securities and Exchange Board of India",
+"Reserve Bank of India",
+"Forward Market Commission",
+"RBI"
+],
+"a": 1
+},
+{
+"q": "Commercial paper are generally issued at a pries:",
+"o": [
+"Equal to face value",
+"More than face value",
+"Less than face value",
+"Equal to redemption value"
+],
+"a": 2
+},
+{
+"q": "Which of the following is not applicable to commercial paper?",
+"o": [
+"Face Value",
+"Issue Price",
+"Coupon Rate",
+"None of the above"
+],
+"a": 3
+},
+{
+"q": "Accounting Ratios are important tools used by",
+"o": [
+"Managers",
+"Researchers",
+"Investors",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Net Profit Ratio Signifies:",
+"o": [
+"Operational Profitability",
+"Liquidity Position",
+"Big-term Solvency",
+"Profit for Lenders"
+],
+"a": 0
+},
+{
+"q": "Working Capital Turnover measures, the relationship of Working Capital with:",
+"o": [
+"Fixed Assets",
+"Sales",
+"Purchases",
+"Stock"
+],
+"a": 1
+},
+{
+"q": "Dividend Pay-out Ratio is:",
+"o": [
+"PAT Capital",
+"DPS EPS",
+"Pref. Dividend PAT",
+"Pref. Dividend Equity Dividend"
+],
+"a": 1
+},
+{
+"q": "DuPont Analysis deals with:",
+"o": [
+"Analysis of Current Assets",
+"Analysis of Profit",
+"Capital Budgeting",
+"Analysis of Fixed Assets"
+],
+"a": 1
+},
+{
+"q": "In Net Profit Ratio, the denominator is:",
+"o": [
+"Net Purchases",
+"Net Sales",
+"Credit Sales",
+"Cost of goods sold"
+],
+"a": 1
+},
+{
+"q": "Inventory Turnover measures the relationship of inventory with:",
+"o": [
+"Average Sales",
+"Cost of Goods Sold",
+"Total Purchases",
+"Total Assets"
+],
+"a": 1
+},
+{
+"q": "The term 'EVA' is used for:",
+"o": [
+"Extra Value Analysis",
+"Economic Value Added",
+"Expected Value Analysis",
+"Engineering Value Analysis."
+],
+"a": 1
+},
+{
+"q": "Return on Investment may be improved by:",
+"o": [
+"Increasing Turnover",
+"Reducing Expenses",
+"Increasing Capital Utilization",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "In Current Ratio, Current Assets are compared with:",
+"o": [
+"Current Profit",
+"Current Liabilities",
+"Fixed Assets",
+"Equity Share Capital"
+],
+"a": 1
+},
+{
+"q": "ABC Ltd. has a Current Ratio of 1.5: 1 and Net Current Assets of Rs. 5,00,000. What are the Current Assets?",
+"o": [
+"Rs. 5,00,000",
+"Rs. 10,00,000",
+"Rs. 15,00,000",
+"Rs. 25,00,000"
+],
+"a": 2
+},
+{
+"q": "There is deterioration in the management of working capital of XYZ Ltd. What does it refer to?",
+"o": [
+"That the Capital Employed has reduced",
+"That the Profitability has gone up",
+"That debtors collection period has increased",
+"That Sales has decreased"
+],
+"a": 2
+},
+{
+"q": "Which of the following does not help to increase Current Ratio?",
+"o": [
+"Issue of Debentures to buy Stock",
+"Issue of Debentures to pay Creditors",
+"Sale of Investment to pay Creditors",
+"Avail Bank Overdraft to buy Machine"
+],
+"a": 3
+},
+{
+"q": "Debt to Total Assets Ratio can be improved by:",
+"o": [
+"Borrowing More",
+"Issue of Debentures",
+"Issue of Equity Shares",
+"Redemption of Debt"
+],
+"a": 3
+},
+{
+"q": "Ratio of Net Income to Number of Equity Shares known as:",
+"o": [
+"Price Earnings Ratio",
+"Net Profit Ratio",
+"Earnings per Share",
+"Dividend per Share"
+],
+"a": 2
+},
+{
+"q": "Trend Analysis helps comparing performance of a firm -",
+"o": [
+"With other firms",
+"Over a period of firm",
+"With other industries",
+"With other companies"
+],
+"a": 1
+},
+{
+"q": "A Current Ratio of less than one means:",
+"o": [
+"Current Liabilities < Current Assets",
+"Fixed Assets > Current Assets",
+"Current Assets < Current Liabilities",
+"Share Capital > Current Assets"
+],
+"a": 2
+},
+{
+"q": "A firm has Capital of Rs. 10,00,000; Sales of Rs. 5,00,000; Gross Profit of Rs. 2,00,000 and Expenses of Rs. 1,00,000. What is the Net Profit Ratio?",
+"o": [
+"20%",
+"50%",
+"10%",
+"40%"
+],
+"a": 0
+},
+{
+"q": "XYZ Ltd. has earned 8% Return on Total Assests of Rs. 50,00,000 and has a Net Profit Ratio of 5%. Find out the Sales of the firm.",
+"o": [
+"Rs. 4,00,000",
+"Rs. 2,50,000",
+"Rs. 80,00,000",
+"Rs. 83,33,333"
+],
+"a": 2
+},
+{
+"q": "Suppliers and Creditors of a firm are interested in:",
+"o": [
+"Profitability Position",
+"Liquidity Position",
+"Market Share Position",
+"Debt Position"
+],
+"a": 1
+},
+{
+"q": "Which of the following is a measure of Debt Service capacity of a firm?",
+"o": [
+"Current Ratio",
+"Acid Test Ratio",
+"Interest Coverage Ratio",
+"Debtors Turnover"
+],
+"a": 2
+},
+{
+"q": "Gross Profit Ratio for a firm remains same but the Net Profit Ratio is decreasing. The reason for such behavior could be:",
+"o": [
+"Increase in Costs of Goods Sold",
+"If Increase in Expense",
+"Increase in Dividend",
+"Decrease in Sales"
+],
+"a": 1
+},
+{
+"q": "Which of the following statements is correct?",
+"o": [
+"A Higher Receivable Turnover is not desirable",
+"Interest Coverage Ratio depends upon Tax Rate",
+"Increase in Net Profit Ratio means increase in Sales",
+"Lower Debt-Equity Ratio means lower Financial Risk"
+],
+"a": 3
+},
+{
+"q": "Debt to Total Assets of a firm is 2. The Debt to Equity would be:",
+"o": [
+"0.80",
+"0.25",
+"1.00",
+"0.75"
+],
+"a": 1
+},
+{
+"q": "Which of the following helps analysing return to equity Shareholders?",
+"o": [
+"Return on Assets",
+"Earnings Per Share",
+"Net Profit Ratio",
+"Return on Investment"
+],
+"a": 1
+},
+{
+"q": "Return on Assets and Return on Investment Ratios belong to:",
+"o": [
+"Liquidity Ratios",
+"Profitability Ratios",
+"Solvency Ratios",
+"Turnover"
+],
+"a": 1
+},
+{
+"q": "XYZ Ltd. has a Debt Equity Ratio of 1.5 as compared to 1.3 Industry average. It means that the firm has:",
+"o": [
+"Higher Liquidity",
+"Higher Financial Risk",
+"Higher Profitability",
+"Higher Capital Employed"
+],
+"a": 1
+},
+{
+"q": "Ratio Analysis can be used to study liquidity, turnover, profitability, etc. of a firm. What does Debt-Equity Ratio help to study?",
+"o": [
+"Solvency",
+"Liquidity",
+"Profitability",
+"Turnover"
+],
+"a": 0
+},
+{
+"q": "In Inventory Turnover calculation, what is taken in the numerator?",
+"o": [
+"Sales",
+"Cost of Goods Sold",
+"Opening Stock",
+"Closing Stock"
+],
+"a": 1
+},
+{
+"q": "Statement of cash flows are included in:",
+"o": [
+"Ind AS-3",
+"Ind AS-6",
+"Ind AS-7",
+"Ind AS-113"
+],
+"a": 2
+},
+{
+"q": "Cost of capital refers to:",
+"o": [
+"Flotation Cost",
+"Dividend",
+"Required Rate of Return",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Which of the following sources of funds has an implicit cost of capital?",
+"o": [
+"Equity Share Capital",
+"Preference Share Capital",
+"Debentures",
+"Retained earnings"
+],
+"a": 3
+},
+{
+"q": "Which of the following has the highest cost of capital?",
+"o": [
+"Equity shares",
+"Loans",
+"Bonds",
+"Preference shares"
+],
+"a": 0
+},
+{
+"q": "Cost of capital for Government securities is also known as:",
+"o": [
+"Risk-free Rate of Interest",
+"Maximum Rate of Return",
+"Rate of Interest on Fixed Deposits",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Cost of capital for bonds and debentures is calculated on:",
+"o": [
+"Before Tax basis",
+"After Tax basis",
+"Risk-free Rate of Interest basis",
+"Compound interest"
+],
+"a": 1
+},
+{
+"q": "Weighted Average Cost of Capital (WACC) is generally denoted by:",
+"o": [
+"k",
+"Kw",
+"Ko",
+"Ke"
+],
+"a": 2
+},
+{
+"q": "Which of the following cost of capital require tax adjustment?",
+"o": [
+"Cost of Equity Shares",
+"Cost of Preference Shares",
+"Cost of Debentures",
+"Cost of Retained Earnings"
+],
+"a": 2
+},
+{
+"q": "Which is the most expensive source of funds?",
+"o": [
+"New Equity Shares",
+"New Preference Shares",
+"New Debts",
+"Retained Earnings"
+],
+"a": 0
+},
+{
+"q": "Marginal cost of capital is the cost of:",
+"o": [
+"Additional Sales",
+"Additional Funds",
+"Additional Interests",
+"Additional Revenue"
+],
+"a": 1
+},
+{
+"q": "In case the firm is all-equity financed, the WACC would be equal to:",
+"o": [
+"Cost of Debt",
+"Cost of Equity",
+"Neither (1) nor (2)",
+"Both (1) and (2)"
+],
+"a": 1
+},
+{
+"q": "In order to calculate Weighted Average Cost of capitals (WACC) weights may be based on:",
+"o": [
+"Market Values",
+"Target Values",
+"Book Values",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Firm's cost of capital is the average cost of:",
+"o": [
+"All sources",
+"All borrowings",
+"Share capital",
+"Share, Bonds and Debentures"
+],
+"a": 0
+}
+]
