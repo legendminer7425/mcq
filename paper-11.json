@@ -1720,7 +1720,7 @@
 "a":3
 },
 {
-"q":"On the basis of the type of "signal" or "feedback" provided to the learning system, which of the following is not a type of machine learning?",
+"q":"On the basis of the type of \"signal\" or \"feedback\" provided to the learning system, which of the following is not a type of machine learning?",
 "o":[
 "Supervised learning",
 "Unsupervised learning",
@@ -1740,7 +1740,7 @@
 "a":3
 },
 {
-"q":"What does the term "break-even point" refer to?",
+"q":"What does the term \"break-even point\" refer to?",
 "o":[
 "The point where expenses are double the income",
 "The point at which total revenue equals total costs",
@@ -2112,10 +2112,10 @@
 {
 "q":"What is the formula for calculating the cost of retained earnings (kr)?",
 "o":[
-"$kr=ke\times(1+t)\times(1+b)$",
-"$kr=ke\times(1-t)\times(1-b]$",
-"$kr=ke\div(l-t)$",
-"$kr=ke\times t\times b$"
+"kr = ke × (1 + t) × (1 + b)",
+" kr = ke × (1 – t) × (1 – b)",
+" kr = ke ÷ (1 – t)",
+" kr = ke × t × b"
 ],
 "a":1
 },
