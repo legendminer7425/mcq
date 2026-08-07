@@ -1798,5 +1798,604 @@
 "None of the above"
 ],
 "a": 1
+},
+{
+"q": "Which of the following does not form part of prime cost?",
+"o": [
+"GST paid on raw materials (input credit can be claimed)",
+"Cost of transportation paid to bring materials to factory",
+"Cost of packing",
+"Overtime premium paid to workers"
+],
+"a": 3
+},
+{
+"q": "A company pays royalty to State Government on the basis of production, it is treated as:",
+"o": [
+"Direct expenses",
+"Factory overheads",
+"Direct Material Cost",
+"Administration Cost"
+],
+"a": 0
+},
+{
+"q": "In Reconciliation Statements, expenses shown only in financial accounts are:",
+"o": [
+"Added to financial profit",
+"Deducted from financial profit",
+"Ignored",
+"Added to costing profit"
+],
+"a": 3
+},
+{
+"q": "In Reconciliation Statement, expenses shown only in cost accounts are:",
+"o": [
+"Added to financial profit",
+"Deducted from financial profit",
+"Ignored",
+"Deducted from costing profit"
+],
+"a": 1
+},
+{
+"q": "In Reconciliation Statement, transfers to reserves are:",
+"o": [
+"Added to financial profit",
+"Deducted from financial profit",
+"Ignored",
+"Added to costing profit"
+],
+"a": 0
+},
+{
+"q": "In Reconciliation Statement, incomes shown only in financial accounts are:",
+"o": [
+"Added to financial profit",
+"Deducted from financial profit",
+"Ignored",
+"Deducted from costing profit"
+],
+"a": 1
+},
+{
+"q": "In Reconciliation Statement, Closing Stock undervalued in Financial Accounts is",
+"o": [
+"Added to financial profit",
+"Deducted from financial profit",
+"Ignored",
+"Added to costing profit"
+],
+"a": 0
+},
+{
+"q": "Under non-integrated accounting system:",
+"o": [
+"Separate ledgers are maintained for cost and financial accounts",
+"Same ledger is maintained for cost and financial accounts by accountants",
+"(A) and (B) both",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Under non-integrated system of accounting, purchase of raw material is debited to:",
+"o": [
+"Purchase account",
+"Material control account/stores ledger control account",
+"General ledger adjustment account",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "When costing loss is Rs. 5,600, administrative overhead under-absorbed being Rs. 600, the loss as per financial accounts should be",
+"o": [
+"Rs.5000",
+"Rs.5600",
+"Rs.6200",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Which of the following items should be added to costing profit to arrive at financial profit?",
+"o": [
+"Income tax paid",
+"Over absorption of works overhead",
+"Interest paid on debentures",
+"All of the above"
+],
+"a": 1
+},
+{
+"q": "Integral accounts eliminate the necessity of operating",
+"o": [
+"Cost Ledger control accoun",
+"Store Ledger control account",
+"Overhead adjustment account",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Under Non- integrated accounting system, the amount made to complete double entry is:",
+"o": [
+"Finished goods control account",
+"Work in progress control account",
+"stores ledger control accounts",
+"General ledger adjustment account"
+],
+"a": 3
+},
+{
+"q": "Under the Non- Integrated Accounting System -",
+"o": [
+"Same ledger is maintained for Cost and financial Accounts by Accountants",
+"Separate ledgers are maintained for Cost and Financial Accounts",
+"All transactions relating to incomes, Expenditures, Assets and Liabilities are completely recorderd",
+"Product-wise or department wise information is not maintained"
+],
+"a": 1
+},
+{
+"q": "Notional Costs -",
+"o": [
+"May be included in Integrated Accounts",
+"may be Included in Non - Integrated accounts",
+"Cannot Be included in Non-intergrated Accounts",
+"are not accounted at all in Ingrated or Non-integrated Accounts"
+],
+"a": 1
+},
+{
+"q": "Which account is to be debited if materials worth rs 500 are returned to vendor under Non-Ingrated Accounts",
+"o": [
+"Cost Ledger control account",
+"finished goods control Account",
+"WIP Control Account",
+"General ledger adjustment account"
+],
+"a": 3
+},
+{
+"q": "What is the journal Entry under Integrated System for recording Sales made?",
+"o": [
+"No entry",
+"Dr sales, Cr General Ledger Adjustment",
+"Dr. cash or bank Cr. Sales",
+"Dr. General Ledger Adjsutment, Cr sales"
+],
+"a": 3
+},
+{
+"q": "Which of the following items is most likely to be included in Cost Accounts?",
+"o": [
+"Notional Rent",
+"Donations",
+"Transfer to General Reserve",
+"Rent Receivable"
+],
+"a": 0
+},
+{
+"q": "Job costing is used in:",
+"o": [
+"Furniture making",
+"Repair shops",
+"Printing press",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "In a job cost system, costs are accumulated",
+"o": [
+"On a monthly basis",
+"By specific job",
+"By department or process",
+"By kind of material used"
+],
+"a": 1
+},
+{
+"q": "The most suitable cost system where the products differ in type of material and work performed is:",
+"o": [
+"Operating Costing",
+"Job costing",
+"Process costing",
+"All of these."
+],
+"a": 1
+},
+{
+"q": "Cost Price is not fixed in case of:",
+"o": [
+"Cost plus contracts.",
+"Escalation clause",
+"De escalation clause",
+"All of the above"
+],
+"a": 0
+},
+{
+"q": "Most of the expenses are direct in:",
+"o": [
+"Job costing",
+"Batch costing",
+"Contact costing",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Cost plus contract is usually entered into those cases where",
+"o": [
+"Cost can be easily estimated",
+"Cost of certified and uncertified work",
+"Cost of certified work, cost of uncertified work and amount of profit transferred to Profit and Loss Account",
+"Determination of contract cost with reasonable accuracy is not possible"
+],
+"a": 3
+},
+{
+"q": "In order to determine cost of the products or services, different business firms follow:",
+"o": [
+"Different techniques of costing",
+"Uniform costing",
+"Different methods of costing",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "In case product produced or jobs undertaken are of diverse system, the system of costing to be used should be:",
+"o": [
+"Operating Costing",
+"Process Costing",
+"Job Costing",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Job Costing is:",
+"o": [
+"Suitable where similar products are produced on mass scale",
+"Methods of costing used for non-standard and non-repetitive products",
+"Technique of costing",
+"Applicable to all industries regardless of the products or services provided"
+],
+"a": 1
+},
+{
+"q": "Batch costing is a type of:",
+"o": [
+"Direct Costing",
+"Process Costing",
+"job Costing",
+"Differential Costing"
+],
+"a": 2
+},
+{
+"q": "Batch costing is similar to that under job costing except with the difference that:",
+"o": [
+"Process becomes a cost unit",
+"Job becomes a cost unit",
+"Batch become the cost unit instead of a job",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Economic batch quantity is that size of the batch of production where:",
+"o": [
+"Carrying cost is minimum",
+"Set-up cost of machine is minimum",
+"Average cost is minimum",
+"Both A. and B."
+],
+"a": 3
+},
+{
+"q": "Which of the following documents are used in job costing to record the issue of direct materials to a job?",
+"o": [
+"Purchase order",
+"Purchase requisition",
+"Goods received note",
+"Material requisition"
+],
+"a": 3
+},
+{
+"q": "Which of the following statements is true?",
+"o": [
+"Batch costing is a variant of jobs costing",
+"Job cost sheet may be used for estimating profit of jobs",
+"Job costing cannot be used in conjunction with marginal costing",
+"In cost plus contracts, the contractor runs a risk of incurring a loss"
+],
+"a": 1
+},
+{
+"q": "Which of the statement is true?",
+"o": [
+"Job costing can be suitably used for concerns producing any specific product uniformly",
+"Job costing cannot be used in companies applying standard costing",
+"Job cost sheet may be prepared to facilitate routing and scheduling of the job",
+"Neither A, nor B, nor C"
+],
+"a": 3
+},
+{
+"q": "The type of process loss that should not be allowed to affect the cost of good units is called:",
+"o": [
+"Standard Loss",
+"Normal Loss",
+"Abnormal Loss",
+"Seasonal Loss"
+],
+"a": 2
+},
+{
+"q": "Spoilage that occurs under inefficient operating conditions and is generally controllable is called",
+"o": [
+"Normal defectives",
+"Abnormal spoilage",
+"Normal spoilage",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "In which of the following situations an abnormal gain in a process occurs:",
+"o": [
+"When normal loss is equal to actual loss",
+"When the actual output is greater than the planned output",
+"When actual loss is more than the expected",
+"When actual loss is less than the expected loss"
+],
+"a": 1
+},
+{
+"q": "The value of abnormal loss is equal to:",
+"o": [
+"Total cost of materials",
+"Total process cost less cost of scrap",
+"Total process cost less realisable value of normal loss less value of transferred out goods",
+"Total process cost less realisable value of normal loss"
+],
+"a": 3
+},
+{
+"q": "A process account is debited by abnormal gain, the value is determined as:",
+"o": [
+"Equal to the value of good units less closing stock",
+"Equal to the value of normal loss",
+"Cost of good units less realisable value of normal loss",
+"Cost of good unit less realisable value of actual loss"
+],
+"a": 2
+},
+{
+"q": "In sugar manufacturing industry molasses is also produced along with sugar. Molasses may be of small value as compared with the value of sugar and is known as:",
+"o": [
+"Joint product",
+"Common product",
+"By-product",
+"None of them"
+],
+"a": 2
+},
+{
+"q": "Method of apportioning joint costs on the basis of output of each joint product at the point of split-offs is known as:",
+"o": [
+"Physical unit method",
+"Sales value method",
+"Average cost method",
+"Marginal cost and contribution method"
+],
+"a": 0
+},
+{
+"q": "The main purposes of accounting of joint products and by-products is to:",
+"o": [
+"Determine the replacement cost",
+"Determine the opportunity cost",
+"Determine profit or loss on each product line",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Under net realisable value method of apportioning joint costs to joint products, the selling & distribution cost is:",
+"o": [
+"Ignored",
+"Deducted from sales value",
+"Deducted from further processing cost",
+"Added to joint cost"
+],
+"a": 1
+},
+{
+"q": "Which of the following is an example of by-product:",
+"o": [
+"Mustard seeds and mustard oil",
+"Diesel and Petrol in an oil refinery",
+"Edible oils and oil cakes",
+"Curd and butter in a diary"
+],
+"a": 2
+},
+{
+"q": "Which of following methods can be used when the joint products are of unequal quantity and used for captive consumption:",
+"o": [
+"Physical units method",
+"Net realisable value method",
+"Technical estimates, using market value of similar goods",
+"Market value at spit-off method"
+],
+"a": 2
+},
+{
+"q": "Cost of a particular service under operating costing is ascertained by preparing:",
+"o": [
+"Cost sheet",
+"Process account",
+"Job cost sheet",
+"Production account"
+],
+"a": 2
+},
+{
+"q": "Operating costing is applicable to:",
+"o": [
+"Hospitals",
+"Cinemas",
+"Transport undertaking",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Composite cost unit for a hospital is:",
+"o": [
+"Per day",
+"Per bed",
+"Per patient day",
+"Per patient"
+],
+"a": 2
+},
+{
+"q": "Cost units used in power sector is called:",
+"o": [
+"Number of hours",
+"Number of electric points",
+"Kilowatt-hour (KWH)",
+"Kilo meter (K.Μ.)"
+],
+"a": 2
+},
+{
+"q": "Absolute Tonne-Km is an example of:",
+"o": [
+"Composite unit for bus operation",
+"Composite unit of transport sector",
+"Composite unit for oil and natural gas", "Composite unit in power sector"
+],
+"a": 1
+},
+{
+"q": "In process costing, a joint product is",
+"o": [
+"a product which is later divided into many parts",
+"a product which is produced simultaneously with other products and is of similar value to at least one of the other products.",
+"A product which is produced simultaneously with other products but which is of a greater value than any of the other products.",
+"a product produced jointly with another organization"
+],
+"a": 1
+},
+{
+"q": "Process B had no opening inventory. 13,500 units of raw material were transferred in at Rs. 4.50 per unit. Additional material at Rs.1.25per unit was added in process. Labour and overheads were Rs. 6.25 per completed unit and Rs. 2.50 per unit incomplete. If 11,750 completed units were transferred out, what was the closing inventory in Process B?",
+"o": [
+"Rs. 6562.50",
+"Rs. 12,250.00",
+"Rs. 14,437.50",
+"Rs. 25,375.00"
+],
+"a": 2
+},
+{
+"q": "A process costing system for J Co used an input of 3,500Kg of materials at Rs.20 per Kg and labour hours of 2,750 at Rs.25 per hour. Normal loss is 20% and losses can be sold at a scrap value of Rs.5per Kg. Output was 2,950 Kg. What is the value of the output?",
+"o": [
+"Rs. 142,485",
+"Rs. 146,183",
+"Rs. 149,746",
+"Rs. 152,986"
+],
+"a": 0
+},
+{
+"q": "In process costing, if an abnormal loss arises, the process account is generally",
+"o": [
+"Debited with the scrap value of the abnormal loss units",
+"Debited with the full production cost of the abnormal loss units",
+"Credited with the scrap value of the abnormal loss units",
+"Credited with the full production cost of the abnormal loss units"
+],
+"a": 3
+},
+{
+"q": "Which of the following statements is/are correct? 1. A materials requisition note is used to record the issue of direct material to a specific job. 2. A typical job cost will contain actual costs for material, labour and production overheads, and non-production overheads are often added as a percentage of total production cost 3. The job costing method can be applied in costing batches",
+"o": [
+"(1) only",
+"(1) and (2) only",
+"(1) and (3) only",
+"(2) and (3) only"
+],
+"a": 2
+},
+{
+"q": "A job is budgeted to require 3,300 productive hours after incurring 25% idle time. If the total labour cost budgeted for the job is Rs.36,300. What is the labour cost per hour( to the nearest cent)?",
+"o": [
+"Rs. 8.25",
+"Rs. 8.80",
+"Rs. 11.00",
+"Rs. 14.67"
+],
+"a": 0
+},
+{
+"q": "A company calculates the prices of jobs by adding overheads to the prime cost and adding 30% to total costs as a profit margin. Job number Y256 was sold for Rs.1690 and incurred overheads of Rs. 694. What was the prime cost of the job?",
+"o": [
+"Rs. 489",
+"Rs. 606",
+"Rs. 996",
+"Rs. 1300"
+],
+"a": 1
+},
+{
+"q": "State which of the following are the characteristics of service costing? 1. High levels of indirect costs as a proportion of total costs 2. Use of composite cost units 3. Use of equivalent units",
+"o": [
+"(1) only",
+"(1) and (2) only",
+"(2) only",
+"(2) and (3) only"
+],
+"a": 1
+},
+{
+"q": "Which of the following organisations should not be advised to use service costing?",
+"o": [
+"Distribution service",
+"Hospital",
+"Maintenance division of a manufacturing company",
+"A light engineering company"
+],
+"a": 2
+},
+{
+"q": "In case of joint products, the main objective of accounting of the cost is to apportion the joint costs incurred up to the split off point. For cost apportionment one company has chosen Physical Quantity Method. Three joint products 'A', 'B' and 'C' are produced in the same process. Up to the point of split off the total production of A, B and C is 60,000 kg, out of which 'A' produces 30,000 kg and joint costs are Rs. 3,60,000. Joint costs allocated to product A is:",
+"o": [
+"Rs. 1,20,000",
+"Rs. 60,000",
+"Rs. 1,80,000",
+"None of the these"
+],
+"a": 2
+},
+{
+"q": "A transport company is running five buses between two towns, which are 50 kms apart. Seating capacity of each bus is 50 passengers. Actually passengers carried by each bus were 75% of seating capacity. All buses ran on all days of the month. Each bus made one round trip per day. Passenger kms are:",
+"o": [
+"2,81,250",
+"1,87,500",
+"5,62,500",
+"None of the above"
+],
+"a": 2
 }
 ]
