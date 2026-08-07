@@ -42,10 +42,10 @@
 {
 "q": "Principal function of customer service are",
 "o": [
-"manufacture-supply-transport-service",
-"manufacture-transport-service-supply",
-"mafucture- service-transport- supply",
-"manufacture-transport-supply-service"
+"manufacture-supply- transport-service",
+"manufacture- transport-service- supply",
+"mafucture- service- transport- supply",
+"manufacture- transport-supply- service"
 ],
 "a": 3
 },
@@ -63,7 +63,7 @@
 "q": "Which one of the following is not an activity under productions and operations management?",
 "o": [
 "Location of facilities",
-"Plant layouts and Material Handling",
+"Plant layouts and ;",
 "Product Design;",
 "Market penetration;"
 ],
@@ -103,7 +103,7 @@
 "q": "Four dimensions of competitiveness that measure the effectiveness of the operations function are",
 "o": [
 "Cost, Quality, Dependability as a supplier, Flexibility",
-"Price, worth, Dependability as a supplier, Productivity",
+"Price, worth, Dependability as a supplier, Productivity Material Handling",
 "Quantity, Quality, Price, Worth",
 "Cost, Quality, Quantity, Price"
 ],
@@ -244,7 +244,7 @@
 "o": [
 "A slack is used with reference to events whereas float is used with reference to activities",
 "A float is used with reference to events whereas slack is used with reference to activities",
-"A slack is used with reference to critical path whereas float is used with reference to non-critical paths",
+"A slack is used with reference to critical path whereas float is used with reference to non- critical paths",
 "A slack is used with reference to scheduling whereas float is used with reference to crashing"
 ],
 "a": 0
@@ -272,9 +272,9 @@
 {
 "q": "It is extra capacity used to offset demand uncertainty. This is",
 "o": [
-"Capacity Cushion = Actual output - Demand",
+"Capacity Cushion Actual output - Demand",
 "Capacity Cushion = Capacity - Expected demand",
-"Capacity Tolerance = Effective capacity - Actual output",
+"Capacity Tolerance Effective capacity - Actual output",
 "Capacity Cushion = Capacity - Effective Capacity"
 ],
 "a": 1
@@ -293,7 +293,7 @@
 "q": "Leading capacity strategy",
 "o": [
 "Builds capacity in anticipation of increasing future demand",
-"Faces increasing demand with the current capacity undeutilised",
+"Faces increasing demand undeutilised with the current capacity",
 "Builds capacity in anticipation of increasing product varieties",
 "Faces increasing consumption with unsold stock"
 ],
@@ -393,7 +393,7 @@
 "q": "The goal of capacity planning of an organisation is",
 "o": [
 "To achieve a match between its long term supply capabilities and the actual level of long term demand",
-"To achieve a level of operation so that supply failure could be maintained at <= 1% of long term demand",
+"To achieve a level of operation so that supply failure could be maintained at \u2264 1% of long term demand",
 "To achieve a level of operation so that periodic mean operation remain within 95% of long term demand",
 "To achieve a match between its long term supply capabilities and the predicted level of long term demand"
 ],
@@ -453,9 +453,9 @@
 "q": "Need for periodic maintenance of equipment always makes",
 "o": [
 "Licensed capacity > Installed capacity",
-"Installed capacity < Effective capacity",
+"Installed capacity <Effective capacity",
 "Design capacity > Effective capacity",
-"Licensed capacity = Effective capacity"
+"Licensed capacity Effective capacity"
 ],
 "a": 2
 },
@@ -512,7 +512,7 @@
 {
 "q": "Which one of the following is a feature of wait and see strategy?",
 "o": [
-"It facilitates a firm to compete on price; It involves large infrequent jumps in capacity",
+"It facilitates a firm to compete on price;",
 "It guards against inaccurate assumptions regarding competition",
 "It might increase the firm's market share",
 "It results economies of scale"
@@ -522,10 +522,10 @@
 {
 "q": "Which one of the following is not a feature of expansionist strategy?",
 "o": [
+"It involves large infrequent jumps in capacity",
 "It minimizes the chance of sales lost to insufficient capacity",
 "It stays ahead of demand",
-"It lags behind demand",
-"It builds capacity in anticipation of demand"
+"It lags behind demand"
 ],
 "a": 3
 },
@@ -698,5 +698,2725 @@
 "Cement"
 ],
 "a": 3
+},
+{
+"q": "The following establishes time sequence of operations:",
+"o": [
+"Routing",
+"Sequencing",
+"Scheduling",
+"Dispatching"
+],
+"a": 2
+},
+{
+"q": "The act of going round the production shop to note down the progress of work and feedback the information is known as:",
+"o": [
+"Follow up",
+"Dispatching",
+"Routing",
+"Trip card"
+],
+"a": 0
+},
+{
+"q": "In aggregate planning one of the methods used to modification of supply is:",
+"o": [
+"Advertising and sales promotion",
+"Development of complimentary products",
+"Backlogging",
+"Hiring and lay off of employees depending on the situation."
+],
+"a": 3
+},
+{
+"q": "In aggregate planning, one of the methods in modification of demand is:",
+"o": [
+"Differential Pricing",
+"Lay off of employees",
+"Over time working",
+"Sub-contracting."
+],
+"a": 0
+},
+{
+"q": "One of the requirements of Aggregate Planning is:",
+"o": [
+"Both output and sales should be expressed in a logical overall unit of measuring",
+"Appropriate time period",
+"List of all resources available",
+"List of operations required."
+],
+"a": 0
+},
+{
+"q": "The study of relationship between the load on hand and capacity of the work centers is known as:",
+"o": [
+"Scheduling",
+"Loading",
+"Routing",
+"Controlling."
+],
+"a": 1
+},
+{
+"q": "Scheduling deals with:",
+"o": [
+"Number of jobs to be done on a machine",
+"Number of machine tools used to do a job",
+"Different materials used in the product",
+"Fixing up starting and finishing times of each operation in doing a job."
+],
+"a": 3
+},
+{
+"q": "Scheduling shows:",
+"o": [
+"Total cost of production",
+"Total material cost",
+"Which resource should do which job and when",
+"The flow line of materials."
+],
+"a": 2
+},
+{
+"q": "Final stage of production planning, where production activities are coordinated and projected on a time scale is known as:",
+"o": [
+"Scheduling",
+"Loading",
+"Expediting",
+"Routing."
+],
+"a": 0
+},
+{
+"q": "(Total station time/Cycle time  Number of work stations)   100 is known as:",
+"o": [
+"Line Efficiency",
+"Line smoothness",
+"Balance delay of line",
+"Station efficiency."
+],
+"a": 0
+},
+{
+"q": "In solving a problem on LOB, the number of workstations required is given by:",
+"o": [
+"Cycle time/Total time",
+"Cycle time/Element time",
+"Total time/Element time",
+"Total time/ Cycle time."
+],
+"a": 3
+},
+{
+"q": "Number of product varieties that can be manufactured in Mass production is:",
+"o": [
+"One only",
+"Two only",
+"Few varieties in large volumes",
+"Large varieties in small volumes."
+],
+"a": 1
+},
+{
+"q": "Generally in continuous production the production is carried out to:",
+"o": [
+"Customer's order",
+"Government orders only",
+"For stock and supply",
+"Few rich customers"
+],
+"a": 0
+},
+{
+"q": "Inventory cost per product in intermittent production is",
+"o": [
+"Higher",
+"Lowest",
+"Medium",
+"Abnormal."
+],
+"a": 0
+},
+{
+"q": "The material handling cost per unit of product in Continuous production is:",
+"o": [
+"Highest compared to other systems",
+"Lower than other systems",
+"Negligible",
+"Cannot say."
+],
+"a": 1
+},
+{
+"q": "Routing and Scheduling becomes relatively complicated in",
+"o": [
+"Job production",
+"Batch production",
+"Flow production",
+"Mass production"
+],
+"a": 1
+},
+{
+"q": "Number of product varieties that can be manufactured in Job production is:",
+"o": [
+"Limited to one or two",
+"Large varieties of products",
+"One only",
+"None of the above."
+],
+"a": 1
+},
+{
+"q": "In general number of product varities that can be manufactured in Flow production is:",
+"o": [
+"One only",
+"Ten to twenty varities",
+"Large varities",
+"Five only"
+],
+"a": 0
+},
+{
+"q": "Generally the size of the order for production in Job production is:",
+"o": [
+"Small",
+"Large",
+"Medium",
+"Very large"
+],
+"a": 0
+},
+{
+"q": "For a marketing manager, the sales forecast is:",
+"o": [
+"Estimate of the amount of unit sales or a specified future period",
+"Arranging the sales men to different segments of the market",
+"To distribute the goods through transport to satisfy the market demand",
+"To plan the sales methods."
+],
+"a": 0
+},
+{
+"q": "The time horizon selected for forecasting depends on:",
+"o": [
+"The salability of the product",
+"The selling capacity of Salesman",
+"Purpose for which forecast is made",
+"Time required for production cycle."
+],
+"a": 2
+},
+{
+"q": "Manufacturing system often produces:",
+"o": [
+"Standardised products",
+"Standardised products in large volumes",
+"Substandardproduct s in large volumes",
+"Products and services in limited volume"
+],
+"a": 0
+},
+{
+"q": "Most suitable layout for Job production is:",
+"o": [
+"Line layout",
+"Matrix layout",
+"Process layout",
+"Product layout."
+],
+"a": 2
+},
+{
+"q": "Most suitable layout for Continuous production is:",
+"o": [
+"Line layout",
+"Process Layout",
+"Group technology",
+"Matrix layout."
+],
+"a": 0
+},
+{
+"q": "One of the product examples for Line layout is:",
+"o": [
+"Repair workshop",
+"Welding shop",
+"Engineering College",
+"Cement."
+],
+"a": 3
+},
+{
+"q": "One of the important basic objectives of Inventory management is:",
+"o": [
+"To calculate EOQ for all materials in the organisation",
+"To go in person to the market and purchase the materials",
+"To employ the available capital efficiently so as to yield maximum results",
+"Once materials are issued to the departments, personally check how they are used."
+],
+"a": 2
+},
+{
+"q": "MRP stands for:",
+"o": [
+"Material Requirement Planning",
+"Material Reordering Planning",
+"Material Requisition Procedure",
+"Material Recording Procedure."
+],
+"a": 0
+},
+{
+"q": "In route sheet or operation layout, one has to show:",
+"o": [
+"A list of Materials to be used",
+"A list of machine tools to be used",
+"Every work center and the operation to be done at that work center",
+"The cost of product."
+],
+"a": 2
+},
+{
+"q": "In aggregate planning, one of the methods in modification of demand is:",
+"o": [
+"Differential Pricing",
+"Lay off of employees",
+"Over time working",
+"Sub contracting."
+],
+"a": 0
+},
+{
+"q": "A steel plant has a design capacity of 50,000 tons of steel per day, effective capacity of 40,0000 tons of steel per day and actual output of 36,0000 tons of steel per day. Compute the efficiency of the plant",
+"o": [
+"90%",
+"72%",
+"80%",
+"110%"
+],
+"a": 0
+},
+{
+"q": "A firm has four work centres A,B,C & D, in series with individual capacities in units per day shown in below: raw material A-380 B-360 C-340 D-400 Actual output 300, what is the efficiency system",
+"o": [
+"80.33%",
+"77.66%",
+"99%",
+"88.23%"
+],
+"a": 3
+},
+{
+"q": "The monthly requirement of raw material for a company is 3000 units. The carrying cost is estimated to be 20% of the purchase price per unit in addition to rs 2 per unit. The purchase price of raw material is rs 20 per unit. The ordering cost is Rs 25 per order. You are required to find EOQ.",
+"o": [
+"458 units",
+"548 units",
+"448 units",
+"844 units"
+],
+"a": 1
+},
+{
+"q": "EOQ is 102 units,maximum usage 200 units, maximum delivery period 8 weeks, minimum usage 50 units, minimum delevery period 6 weeks, calculate maximum level of stock",
+"o": [
+"1502 units",
+"1202 units",
+"1402 units",
+"1302 units"
+],
+"a": 2
+},
+{
+"q": "M/s Kobo Bearing Ltd is committed to supply 24,000 bearings per annum to M/s Deluxe fans on a steady daily basis It is estimated that it costs 10 paisa as inventory holding cost per bearing per month and that the setup cost per run of bearing manufacture is 324. What is the optimum run size for bearing manufacture?",
+"o": [
+"3600 units",
+"1200 units",
+"7200 units",
+"8400 units"
+],
+"a": 0
+},
+{
+"q": "In general, medium range forecasting period will be approximately:",
+"o": [
+"5 to 10 Years",
+"2 to 3 days",
+"3 to 6 months",
+"10 to 20 years."
+],
+"a": 2
+},
+{
+"q": "The range of Long range forecasting period may be approximately:",
+"o": [
+"1 to 2 weeks",
+"2 to 3 months",
+"1 year",
+"above 5 years."
+],
+"a": 3
+},
+{
+"q": "To plan for future man power requirement:",
+"o": [
+"Short term forecasting is used",
+"Long range forecasting is used",
+"Medium range forecasting is used",
+"There is no need to use forecasting, as future is uncertain."
+],
+"a": 1
+},
+{
+"q": "Long range forecasting is useful in:",
+"o": [
+"Plan for Research and Development",
+"To Schedule jobs in Job production",
+"In purchasing the material to meet the present production demand",
+"To assess manpower required in the coming month."
+],
+"a": 0
+},
+{
+"q": "Medium range forecasting is useful in:",
+"o": [
+"To assess the loading capacity of the machine",
+"To purchase a materials for next month",
+"To plan for- capacity adjustments",
+"To decide whether to receive production orders or not."
+],
+"a": 2
+},
+{
+"q": "Important factor in forecasting production is:",
+"o": [
+"Environmental changes",
+"Available capacity of machines",
+"Disposable income of the consumer",
+"Changes in the preference of the consumer."
+],
+"a": 1
+},
+{
+"q": "To decide work load for men and machines:",
+"o": [
+"Medium range forecasting is used",
+"Short term forecasting is used",
+"Long range forecasting is used",
+"A combination of long range and medium range forecasting is used."
+],
+"a": 1
+},
+{
+"q": "For production planning:",
+"o": [
+"Shot term forecasting is useful",
+"Medium term forecasting is useful",
+"Long term forecasting is useful",
+"Forecasting is not useful."
+],
+"a": 0
+},
+{
+"q": "In general, medium range forecasting period will be approximately",
+"o": [
+"5 to 10 Years",
+"2 to 3 days",
+"3 to 6 months",
+"10 to 20 years"
+],
+"a": 2
+},
+{
+"q": "Medium range forecasting is useful in:",
+"o": [
+"To assess the loading capacity of the machine",
+"To purchase a materials for next month",
+"To plan for- capacity adjustments",
+"To decide whether to receive production orders or not."
+],
+"a": 2
+},
+{
+"q": "Monthly demand for a component is 1000 units. Setting-up cost per batch is  120. Cost of manufacture per unit is 20. Rate of interest may be considered at 10% p.a. Calculate the EBQ",
+"o": [
+"1200 units",
+"1400 units",
+"1440 units",
+"1000 units"
+],
+"a": 0
+},
+{
+"q": "Daily demand for a certain product is normally distributed with a mean of 60 and standard deviation of 7. The source of supply is reliable and maintain a constant lead time of six days. The cost of placing the order is 10 and annual holding costs are 0.50 per unit. There are no stock out costs, and unfilled orders are filled as soon as the order arrives. Assume sales occur over the entire 365 days of the year. Find the. Find the order quantity",
+"o": [
+"336 units",
+"936 units",
+"633 inits",
+"393 units"
+],
+"a": 1
+},
+{
+"q": "Consider the following item that is being managed using a fixed time period model with safety stock Weekly demand $(d)=50$ units Review cycle $(T)=3$ weeks Safety stock (SS) $=30$ units What are the average inventory turn for the item?",
+"o": [
+"24.8 turns per year",
+"84.2 turns per year",
+"80 turns per year",
+"None of the above."
+],
+"a": 0
+},
+{
+"q": "Addition of value to raw materials through application of technology is:",
+"o": [
+"Product",
+"Production",
+"Advancement",
+"Transformation"
+],
+"a": 1
+},
+{
+"q": "Cost reduction can be achieved through",
+"o": [
+"Work sampling",
+"Value analysis",
+"Quality assurance",
+"Supply chain management."
+],
+"a": 1
+},
+{
+"q": "Production control concerned with:",
+"o": [
+"Passive assessment of plant performance",
+"Strict control on labours",
+"Good materials management",
+"Good product design."
+],
+"a": 0
+},
+{
+"q": "The starting point of Production cycle is:",
+"o": [
+"Product design",
+"Production Planning",
+"Routing",
+"Market research."
+],
+"a": 3
+},
+{
+"q": "Variety reduction is generally known as:",
+"o": [
+"Less varities",
+"Simplification",
+"Reduced varities",
+"None of the above."
+],
+"a": 1
+},
+{
+"q": "Preferred numbers are used to:",
+"o": [
+"To determine the number of varities that are to be manufactured",
+"To the test the design of the product",
+"To ascertain the quality level of the product",
+"To evaluate the production cost."
+],
+"a": 0
+},
+{
+"q": "There are stages of Design thinking",
+"o": [
+"5",
+"3",
+"4",
+"2"
+],
+"a": 0
+},
+{
+"q": "Most suitable layout for Job production is",
+"o": [
+"Line layout",
+"Matrix layout",
+"Process layout",
+"Product layout"
+],
+"a": 2
+},
+{
+"q": "Most suitable layout for Continuous production is:",
+"o": [
+"Line layout",
+"Matrix layout",
+"Process layout",
+"Product layout"
+],
+"a": 0
+},
+{
+"q": "One of the product examples for Line layout is:",
+"o": [
+"Repair workshop",
+"Welding shop",
+"Engineering College",
+"Cement."
+],
+"a": 3
+},
+{
+"q": "Generally in continuous production the production is carried out to:",
+"o": [
+"Customer's order",
+"Government orders only",
+"For stock and supply",
+"Few rich customers."
+],
+"a": 2
+},
+{
+"q": "Inventory cost per product in intermittent production is:",
+"o": [
+"Higher",
+"Lowest",
+"Medium",
+"Abnormal."
+],
+"a": 0
+},
+{
+"q": "The material handling cost per unit of product in Continuous production is:",
+"o": [
+"Highest compared to other systems",
+"Lower than other systems",
+"Negligible",
+"Cannot say."
+],
+"a": 1
+},
+{
+"q": "Routing and Scheduling becomes relatively complicated in",
+"o": [
+"Job production",
+"Batch production",
+"Flow production",
+"Mass production."
+],
+"a": 1
+},
+{
+"q": "The starting point of Production cycle is:",
+"o": [
+"Product design",
+"Production Planning",
+"Routing",
+"Market research."
+],
+"a": 3
+},
+{
+"q": "In Process Planning we plan:",
+"o": [
+"Different machines required",
+"Different operations required",
+"We plan the flow of material in each department",
+"We design the product."
+],
+"a": 2
+},
+{
+"q": "In Operation Planning",
+"o": [
+"The planner plans each operation to be done at work centers and the sequence of operations",
+"Decide the tools to be used to perform the operations",
+"Decide the machine to be used to perform the operation",
+"Decide the materials to be used to produce the product"
+],
+"a": 0
+},
+{
+"q": "One of the important production documents is:",
+"o": [
+"Design sheet of the product",
+"List of materials",
+"Route card",
+"Control chart."
+],
+"a": 2
+},
+{
+"q": "The scope of Production Planning and Control is:",
+"o": [
+"Limited to Production of products only",
+"Limited to production of services only",
+"Limited to production of services and products only",
+"Unlimited, can be applied to any type of activity."
+],
+"a": 3
+},
+{
+"q": "Which one of the following product is not suitable for flow shop scheduling?",
+"o": [
+"Car",
+"Petrol",
+"Steel",
+"Invitation Card"
+],
+"a": 3
+},
+{
+"q": "Which one of the following is a Sequencing rule for single facility?",
+"o": [
+"EVPI",
+"DFA",
+"MAD",
+"LPT"
+],
+"a": 3
+},
+{
+"q": "The main question in an assignment problem is",
+"o": [
+"How the assignments should be made in order that the total cost involved in activities is minimized",
+"How the assignments should be made in order that the total resources involved in activities is optimised",
+"How the assignments should be made in order that the total time involved in activities is minimized",
+"How the assignments should be made in order that inter dependence among all activities is minimized"
+],
+"a": 0
+},
+{
+"q": "Linear Programming is a technique used for determining:",
+"o": [
+"Production Programme",
+"Plant Layout",
+"Product Mix",
+"Manufacturing Model sequence"
+],
+"a": 2
+},
+{
+"q": "In a linear programming model feasible solution is",
+"o": [
+"The basic solution to the general L.P problem",
+"Any solution that also satisfies the non-negative restrictions of the general L.P problem",
+"A solution which optimize (maximize or minimize) the objective function of a general L.P problem",
+"A basic solution to the system of equations if one or more of the basic variables become equal to zero"
+],
+"a": 1
+},
+{
+"q": "Which one of the following is not a limitation of linear programming model?",
+"o": [
+"Model can be applied only in situations where objective functions can be expressed in terms of linear expressions",
+"Model can be applied only when coefficients in the constraints equations must be completely known",
+"Model can be applied only to all real world problems which are not complex in nature",
+"cannot be applied to give a solution if management have conflicting multiple goals."
+],
+"a": 2
+},
+{
+"q": "Which of the following is not a method for solving Assignment problem?",
+"o": [
+"Complete Enumeration method",
+"Hungarian method",
+"Simplex method",
+"Natural method"
+],
+"a": 3
+},
+{
+"q": "The objective of application of linear programming in industrial problems is",
+"o": [
+"To determine a plan for production and procurement in the time period under consideration",
+"To determine an optimal solution of the problem under the given constraints",
+"To determine the cost effective solution of the problem under scarce resources",
+"To determine a plan for time based solution to the problem for increasing productivity"
+],
+"a": 0
+},
+{
+"q": "Simulation is the representation of a real life situation by different means. It is popular because---",
+"o": [
+"It may be the only method available as it is difficult to observe the actual environment",
+"It may not be possible to develop a mathematical model",
+"Actual observation of a system may be too expensive or too disruptive",
+"All the above"
+],
+"a": 3
+},
+{
+"q": "In sequencing it is the difference between the time remaining to due date and the remaining processing time. It is",
+"o": [
+"STR",
+"SOT",
+"SPT",
+"DDATE"
+],
+"a": 0
+},
+{
+"q": "Selection of plant location is influenced by few factors. Which one of the following is not a factor?",
+"o": [
+"Existence of Complementary Industries",
+"Availability of Labour",
+"Civic Amenities for Workers",
+"Government's EXIM Policy"
+],
+"a": 3
+},
+{
+"q": "In a queuing system, the speed with which service is provided can be expressed in either of two ways-",
+"o": [
+"Service start time and Service finish time",
+"Service rate and Service time",
+"Arrival rate and Service rate",
+"Service Inflow rate and Service outflow rate"
+],
+"a": 1
+},
+{
+"q": "Most suitable layout for continuous production is",
+"o": [
+"Line layout",
+"Process layout",
+"Group technology",
+"Matrix layout"
+],
+"a": 0
+},
+{
+"q": "The most powerful and popular method for solving linear programming problem is",
+"o": [
+"Simplex method",
+"Graphical method",
+"Transportation method",
+"Assignment method"
+],
+"a": 0
+},
+{
+"q": "(Total station time/cycle timex Number of work stations) x 100 is known as",
+"o": [
+"Line efficiency",
+"Line smoothness",
+"Balance delay of line",
+"Station efficiency"
+],
+"a": 0
+},
+{
+"q": "One of the important charts used in Programme control is:",
+"o": [
+"Material chart",
+"Gantt chart",
+"Route chart",
+"Inspection chart"
+],
+"a": 1
+},
+{
+"q": "Issuing necessary orders, and taking necessary steps to ensure that the time targets set in the schedules are are effectively achieved is known as:",
+"o": [
+"Routing",
+"Dispatching",
+"Scheduling",
+"Inspection."
+],
+"a": 1
+},
+{
+"q": "Linear Programming is a technique used for determining:",
+"o": [
+"Production Programme",
+"Plant Layout",
+"Product Mix",
+"Manufacturing sequence."
+],
+"a": 2
+},
+{
+"q": "Arrangement of machines depending on sequence of operations happens in:",
+"o": [
+"Process Layout",
+"Product Layout",
+"Hybrid Layout",
+"Group Technology Layout."
+],
+"a": 1
+},
+{
+"q": "Computers are used in Production control in this area:",
+"o": [
+"Follow-up activity",
+"To control labour",
+"To disseminate information",
+"Loading, Scheduling and Assignment works."
+],
+"a": 3
+},
+{
+"q": "Z-chart can be used to show:",
+"o": [
+"Process used in production",
+"Quality level of the product",
+"Both the plan and the performance, and deviation from the plan",
+"To show cost structure of the product"
+],
+"a": 2
+},
+{
+"q": "'Z' chart is a chart used in:",
+"o": [
+"Programme control",
+"Job control",
+"Cost control",
+"Quality control."
+],
+"a": 0
+},
+{
+"q": "One of the activities of expediting is:",
+"o": [
+"To file the orders in sequence",
+"To decide the sequence of operation",
+"To record the actual production against the scheduled production",
+"To examine the tools used in production"
+],
+"a": 2
+},
+{
+"q": "When work centers are used in optimal sequence to do the jobs, we can:",
+"o": [
+"Minimise the set up time",
+"Minimise operation time",
+"Minimise breakdown of the machines",
+"Minimise the utility of facility."
+],
+"a": 0
+},
+{
+"q": "The way in which we can assess the efficiency of the production plant is by:",
+"o": [
+"Efficient dispatching",
+"By manufacturing a good product",
+"By comparing the actual performance with targets specified in the specified programme",
+"By efficient production planning."
+],
+"a": 2
+},
+{
+"q": "One of the important charts used in Programme control is:",
+"o": [
+"Material chart",
+"Gantt chart",
+"Route chart",
+"Inspection chart"
+],
+"a": 1
+},
+{
+"q": "One of the important production documents is:",
+"o": [
+"Design sheet of the product",
+"List of materials",
+"Route card",
+"Control chart."
+],
+"a": 2
+},
+{
+"q": "The first stage of Production control is:",
+"o": [
+"Dispatching",
+"Scheduling",
+"Routing",
+"Triggering of production operations and observing the progress and record the deviation"
+],
+"a": 3
+},
+{
+"q": "Production planning in the intermediate range of time is termed as:",
+"o": [
+"Production planning",
+"Long range production planning",
+"Scheduling",
+"Aggregate planning"
+],
+"a": 3
+},
+{
+"q": "One of the principles of Scheduling is:",
+"o": [
+"Principle of optimal product design",
+"Principle of selection of best material",
+"Principle of optimal operation sequence",
+"Principle of optimal cost."
+],
+"a": 2
+},
+{
+"q": "One of the aims of loading is:",
+"o": [
+"To finish the job as early as possible",
+"To minimise the material utilisation",
+"To improve the quality of product",
+"To keep operator idle time, material waiting time and ancillary machine time at minimum."
+],
+"a": 3
+},
+{
+"q": "The cycle time in selected in balancing a line must be:",
+"o": [
+"Must be greater than the smallest time element given in the problem",
+"Must be less than the highest time element given in the problem",
+"Must be slightly greater than the highest time element given in the problem",
+"Left to the choice of the problem solver."
+],
+"a": 2
+},
+{
+"q": "In solving a problem on LOB, the number of workstations required is given by:",
+"o": [
+"Cycle time/Total time",
+"Cycle time/Element time",
+"Total time/Element time",
+"Total time/Cycle time."
+],
+"a": 3
+},
+{
+"q": "Number of product varieties that can be manufactured in Job production is:",
+"o": [
+"Limited to one or two",
+"Large varieties of products",
+"One only",
+"None of the above."
+],
+"a": 1
+},
+{
+"q": "For a marketing manager, the sales forecast is:",
+"o": [
+"Estimate of the amount of unit sales or a specified future period",
+"Arranging the sales men to different segments of the market",
+"To distribute the goods through transport to satisfy the market demand",
+"To plan the sales methods"
+],
+"a": 0
+},
+{
+"q": "For production planning:",
+"o": [
+"Shot term forecasting is useful",
+"Medium term forecasting is useful",
+"Long term forecasting is useful",
+"Forecasting is not useful."
+],
+"a": 0
+},
+{
+"q": "Production planning deals with:",
+"o": [
+"What production facilities is required and how these facilities should be laid out in space available",
+"What to produce and when to produce and where to sell",
+"What should be the demand for the product in future",
+"What is the life of the product?"
+],
+"a": 0
+},
+{
+"q": "The first stage in production planning is:",
+"o": [
+"Process Planning",
+"Factory Planning",
+"Operation Planning",
+"Layout planning."
+],
+"a": 1
+},
+{
+"q": "In Process Planning we plan:",
+"o": [
+"Different machines required",
+"Different operations required",
+"We plan the flow of material in each department",
+"We design the product."
+],
+"a": 2
+},
+{
+"q": "Economies of scale occurs when",
+"o": [
+"Single facility is used for multiple purposes",
+"Production or operating costs increase linearly with output levels",
+"Quantity discounts are not available for material purchases;",
+"Operating efficiency increases as workers gain experience"
+],
+"a": 3
+},
+{
+"q": "The act of assessing the future and make provisions for it is known as",
+"o": [
+"Planning",
+"Forecasting",
+"Assessment",
+"Scheduling."
+],
+"a": 1
+},
+{
+"q": "Application of technology or process to the raw material to add use value is known as:",
+"o": [
+"Product",
+"Production",
+"Application of technology",
+"Combination of technology and process."
+],
+"a": 1
+},
+{
+"q": "In Production by disintegration the material undergoes:",
+"o": [
+"Change in economic value only",
+"Change in physical and chemical characteristics",
+"Change in technology only",
+"None of the above."
+],
+"a": 1
+},
+{
+"q": "The scope of Production Planning and Control is:",
+"o": [
+"Limited to Production of products only",
+"Limited to production of services only",
+"Limited to production of services and products only",
+"Unlimited, can be applied to any type of activity."
+],
+"a": 3
+},
+{
+"q": "In an organisation the production planning and control department comes under:",
+"o": [
+"Planning department",
+"Manufacturing department",
+"Personal department",
+"R & D department."
+],
+"a": 1
+},
+{
+"q": "In Job production system, we need:",
+"o": [
+"More unskilled labours",
+"Skilled labours",
+"Semi-skilled labours",
+"Old people."
+],
+"a": 1
+},
+{
+"q": "Wanda's Car Wash & dry is an automatic, five-minute operation with a single bay. On a typical Saturday morning, cars arrive at a mean rate of eight per hour, with arrivals tending to follow a Poisson distribution. Find The average time cars spend in line and service.",
+"o": [
+"10 minutes",
+"20 minutes",
+"15 minutes",
+"None of the above."
+],
+"a": 0
+},
+{
+"q": "A departmental store has one cashier. During the rush hours, customers arrive at a rate of 20 per hour. The average number of customers that can be handled by the cashier is 24 per hour. Assume the conditions for use of the single - channel queuing model. Find out average customer spends in the system",
+"o": [
+"10 customers",
+"5 customers",
+"15 customers",
+"20 customers"
+],
+"a": 1
+},
+{
+"q": "As a tool service centre the arrival rate is two per hour and the service potential is three per hour. Simple queue conditions exist. The hourly wage paid to the attendant at the service centre is 1.50 per hour and the hourly cost of a machinist away from his work $is^{\circ}4$ Calculate: The average time a machinist spends waiting for service.",
+"o": [
+"0.777 hours",
+"0.667 hours",
+"0.600 hours",
+"0.700 hours"
+],
+"a": 1
+},
+{
+"q": "Which one of the following is not a factor affecting productivity?",
+"o": [
+"Product design",
+"Material handling system",
+"Inventory control",
+"Master production schedule"
+],
+"a": 3
+},
+{
+"q": "Which one of the following is not correct?",
+"o": [
+"Productivity can be improved by changing work methods",
+"Productivity relates to a fixed set of tools or conditions",
+"For countries, high productivity rates can reduce the risk of inflation",
+"Productivity measures are used to judge the effective use of resources"
+],
+"a": 1
+},
+{
+"q": "Which one of the following is not a factor for determination of effective capacity?",
+"o": [
+"Scheduling",
+"Labour turnover",
+"Union attitudes",
+"EOQ"
+],
+"a": 3
+},
+{
+"q": "A device of expressing the ratio between outputs and the inputs of the resources in numerical terms is named",
+"o": [
+"Productivity Index",
+"Efficiency Index",
+"Performance Index",
+"Resource Index"
+],
+"a": 0
+},
+{
+"q": "In Production by service, the product undergoes the changes in:",
+"o": [
+"Shape and size of the surface",
+"Shape of the surface only",
+"Size of the surface only",
+"Chemical and Mechanical properties."
+],
+"a": 1
+},
+{
+"q": "Use of any process or procedure designed to transform a set of input elements into a set of output elements is known as:",
+"o": [
+"Transformation process",
+"Transformation of input to output",
+"Production",
+"Technology change"
+],
+"a": 2
+},
+{
+"q": "Conversion of inputs into outputs is known as:",
+"o": [
+"Application of technology",
+"Operations management",
+"Manufacturing products",
+"Product"
+],
+"a": 1
+},
+{
+"q": "Most important benefit to the consumer from efficient production system is:",
+"o": [
+"He can save money",
+"He will have product of his choice easily available",
+"He gets increased use value in the product",
+"He can get the product on credit."
+],
+"a": 2
+},
+{
+"q": "In Continuous manufacturing system, we need:",
+"o": [
+"General purpose machines and Skilled labours",
+"Special machine tools and highly skilled labours",
+"Semi automatic machines and unskilled labours",
+"General purpose machines and unskilled labours"
+],
+"a": 1
+},
+{
+"q": "The best way of improving the productivity of capital is:",
+"o": [
+"Purchase automatic machines",
+"Effective Labour control",
+"To use good financial management",
+"Productivity of capital is to be increased through effective materials management."
+],
+"a": 3
+},
+{
+"q": "There are two industries A and B manufacturing hose couplings. The standard time per piece is 15 minutes. The output of two small scale industries is 30 and 20 respectively per shift of 8 hours. Find the productivity of each per shift of 8 hours.",
+"o": [
+"15/16, 5/8",
+"$7/24$ $9/16$",
+"3/8,2 $2/5$",
+"none of the above"
+],
+"a": 0
+},
+{
+"q": "Calculate the standard production per shift of 8 hours duration, with the following data: Observed time per unit 5 minutes, Rating Factor-120%, Total allowances = 30% of normal time.",
+"o": [
+"45.61 units",
+"54.61 units",
+"51.64 units",
+"61.54 units"
+],
+"a": 3
+},
+{
+"q": "ISO 9004 only establishes guidelines",
+"o": [
+"operation",
+"design",
+"quality",
+"none of the above"
+],
+"a": 0
+},
+{
+"q": "for Quality Assurance in Design, Production, Installation and Servicing the model is be used.",
+"o": [
+"ISO 9002 Model",
+"ISO 9001 Model",
+"ISO 9003 Model",
+"none of the above"
+],
+"a": 1
+},
+{
+"q": "for Quality Assurance in Production and Installation the model is be used.",
+"o": [
+"ISO 9002 Model",
+"ISO 9001 Model",
+"ISO 9003 Model",
+"none of the above"
+],
+"a": 0
+},
+{
+"q": "for Quality Assurance in Final Inspection Test the model is be used.",
+"o": [
+"ISO 9002 Model",
+"ISO 9001 Model",
+"ISO 9003 Model",
+"none of the above"
+],
+"a": 2
+},
+{
+"q": "A cement factory in Madhya Pradesh works 7 days a week in 3 shifts per days having maintenance in the first shift of around 2 hours. It has roughly 100 workers which produces only pozzolanic properties cement better known as PPC. The output per month is around 2500 tonnes of PPC. Find the productivity per worker?",
+"o": [
+"20 tonnes",
+"30 tonnes",
+"25 tonnes",
+"15 tonnes"
+],
+"a": 2
+},
+{
+"q": "The method used in scheduling a project is:",
+"o": [
+"A schedule of breakdown of orders",
+"Outline Master Programme",
+"PERT & CPM",
+"Schedule for large and integrated work"
+],
+"a": 2
+},
+{
+"q": "The difference between product system and project system is:",
+"o": [
+"Project system the equipment and machinery are fixed where as in product system they are movable",
+"In Product system the machinery and equipment are fixed and in project system they are not fixed",
+"Project system produces only standardized products and product system produces only unstandardised products",
+"Products cannot be stocked whereas projects can be stocked."
+],
+"a": 1
+},
+{
+"q": "Fixing the flow lines of materials in production is known as:",
+"o": [
+"Scheduling",
+"Loading",
+"Planning",
+"Routing."
+],
+"a": 3
+},
+{
+"q": "The activity of specifying when to start the job and when to end the job is known as:",
+"o": [
+"Plaining",
+"Scheduling",
+"Timing",
+"Follow-up."
+],
+"a": 2
+},
+{
+"q": "A network:",
+"o": [
+"Is a graphical representation of all the activities and events.",
+"Is a graphical representation of all the activities",
+"Is a graphical representation of all the events.",
+"All the above"
+],
+"a": 0
+},
+{
+"q": "While evaluating existing or proposed service systems, operation manager",
+"o": [
+"Relate to potential customer dissatisfaction and costs:",
+"Relate cost of parallel facilities with single queue",
+"Relate cost of multiple queues with cost of serve",
+"Relate to potential customer satisfaction and service quality"
+],
+"a": 0
+},
+{
+"q": "Probalistic time is dividded into:",
+"o": [
+"3",
+"2",
+"4",
+"6"
+],
+"a": 0
+},
+{
+"q": "Gantt Chart is a principal tool used in",
+"o": [
+"Scheduling",
+"Loading",
+"Planning",
+"Routing."
+],
+"a": 0
+},
+{
+"q": "The event from where more than one activity starts",
+"o": [
+"Merge event",
+"Brust Event",
+"start event",
+"event nodes"
+],
+"a": 1
+},
+{
+"q": "Free float means or is equal to",
+"o": [
+"Total float Slack time of the head event",
+"Independent Float +Tail Slack",
+"Independent Float - Head Slack",
+"PERT"
+],
+"a": 0
+},
+{
+"q": "The critical path analysis is an important tool in production planning and",
+"o": [
+"Loading",
+"scheduling",
+"Routing.",
+"All the above"
+],
+"a": 1
+},
+{
+"q": "The method used in scheduling a project is:",
+"o": [
+"A schedule of break- down of orders",
+"Outline master programme",
+"PERT & CPM",
+"Schedule for large and integrated work"
+],
+"a": 2
+},
+{
+"q": "One of the important charts used in programme control IS:",
+"o": [
+"Material chart",
+"Gantt chart",
+"Route chart",
+"Inspection chart"
+],
+"a": 1
+},
+{
+"q": "Final stage of production planning, where production activities are coordinated and projected on a time scale is known as:",
+"o": [
+"Scheduling",
+"Loading",
+"Planning",
+"Routing"
+],
+"a": 0
+},
+{
+"q": "One of the principles of Scheduling is:",
+"o": [
+"Principle of optimal product design",
+"Principle of selection of best material",
+"Principle of optimal operation sequence",
+"Principle of optimal cost."
+],
+"a": 2
+},
+{
+"q": "Issuing necessary orders, and taking necessary steps to ensure that the time targets set in the schedules are effectively achieved is known as:",
+"o": [
+"Routing",
+"Dispatching",
+"Scheduling",
+"Inspection."
+],
+"a": 1
+},
+{
+"q": "Which one of the following statements is NOT correct?",
+"o": [
+"LFT is calculated from the LFT of the head event.",
+"Slack can be calculated by adding EFT and LFT of any job.",
+"EFT is the sum of the EST and the time of duration for any event",
+"The Total Project time is the shortest possible time required in completing the project."
+],
+"a": 1
+},
+{
+"q": "Which one of the following establishes time sequence of operations?",
+"o": [
+"Routing",
+"Sequencing",
+"Scheduling",
+"Dispatching"
+],
+"a": 2
+},
+{
+"q": "Issuing necessary orders, and taking necessary steps to ensure that the time targets set in the schedules are effectively achieved is known as:",
+"o": [
+"Routing",
+"Dispatching",
+"Scheduling",
+"Inspection."
+],
+"a": 1
+},
+{
+"q": "Which one of the following is the benefit of keeping standby machines?",
+"o": [
+"Utilisation of Additional space",
+"Appropriate investment of additional capital",
+"Availability of Additional Depreciation",
+"Protection against a complete shutdown"
+],
+"a": 3
+},
+{
+"q": "Preventive maintenance is useful in reducing",
+"o": [
+"Inspection Cost",
+"Shutdown Cost",
+"Cost of pre- mature replacement",
+"Set-up cost of machine"
+],
+"a": 1
+},
+{
+"q": "Two important functions that are to be done by Production department are:",
+"o": [
+"Forecasting",
+"Costing",
+"Scheduling and loading",
+"Inspecting."
+],
+"a": 2
+},
+{
+"q": "When work centers are used in optimal sequence to do the jobs, we can:",
+"o": [
+"Minimise the set up time",
+"Minimse operation time",
+"Minimise the break down of machines",
+"Minimise the utility of facility."
+],
+"a": 0
+},
+{
+"q": "Preventive maintenance policy is justified only when",
+"o": [
+"The average downtime and its cost is equal to the average time taken to carry out breakdown repairs",
+"The average downtime and its cost is greater than the average time taken to carry out breakdown repairs",
+"The average downtime and its cost is less than the average time taken to carry out breakdown repairs",
+"The average downtime t is less than the average time taken to carry out breakdown repairs"
+],
+"a": 1
+},
+{
+"q": "Which one of the following is not correct?",
+"o": [
+"Preventive maintenance reduces breakdowns and downtime",
+"Preventive maintenance increases number of large scale repairs",
+"Preventive maintenance Lower unit cost of the product manufactured, project.",
+"Preventive maintenance improves industrial relations"
+],
+"a": 1
+},
+{
+"q": "Production department or maintenance department depending on the size of the plant generally takes up",
+"o": [
+"preventive maintenance work.",
+"capacity planning plan",
+"maintenance minimise",
+"all of them replace"
+],
+"a": 0
+},
+{
+"q": "The main problem in maintenance analysis is to the overall cost of maintenance without sacrificing the objectives.",
+"o": [
+"Stable",
+"Appropriate",
+"minimise",
+"Protection"
+],
+"a": 2
+},
+{
+"q": "In some cases the and inconvenience due to breakdown of equipment is so high that standby equipment is kept.",
+"o": [
+"cost",
+"loss",
+"time",
+"intervals"
+],
+"a": 1
+},
+{
+"q": "while the equipment is running or during pre- planned shut-downs.",
+"o": [
+"Routine maintenance",
+"preventive maintenance",
+"replacement",
+"break down maintenance"
+],
+"a": 0
+},
+{
+"q": "The organizational structure should be",
+"o": [
+"systematic",
+"well maintained",
+"flexible.",
+"all of them"
+],
+"a": 0
+},
+{
+"q": "Which one of the following is NOT the advantage of Preventive Maintenance?",
+"o": [
+"Better product quality",
+"Greater safety to workers",
+"Increased breakdowns and downtime",
+"Fewer large-scale repairs"
+],
+"a": 2
+},
+{
+"q": "Identify which one of the following is NOT the objective of the maintenance:",
+"o": [
+"To keep all production facilities and allied facilities in an optimum working condition.",
+"To ensure specified accuracy to products and time schedule of delivery to customers",
+"To keep the down time of the machine at the maximum.",
+"To keep the production cycle within the stipulated range."
+],
+"a": 2
+},
+{
+"q": "One of the objectives of maintenance is:",
+"o": [
+"to prevent obsolescence",
+"to ensure spare parts management.",
+"to satisfy customers.",
+"to extend the useful life of Plant & Machinery without sacrificing the level of performance"
+],
+"a": 3
+},
+{
+"q": "The monitoring, evaluating and disseminating of information from the external and internal environments to key people within the organisation is called",
+"o": [
+"Strategy Formulation",
+"Evaluation and control",
+"Strategy Implementation",
+"Environmental scanning"
+],
+"a": 3
+},
+{
+"q": "The of a company state how managers and employees should conduct themselves.",
+"o": [
+"values",
+"goals",
+"objectives",
+"vison"
+],
+"a": 0
+},
+{
+"q": "are the day-to-day way in which an organisation operates and can be seen by people both inside and outside the organisation..",
+"o": [
+"Performances",
+"Targets",
+"Behaviours",
+"Values"
+],
+"a": 2
+},
+{
+"q": "Which among the following provide the standards for performance appraisal?",
+"o": [
+"Mission",
+"Vision",
+"Values",
+"Objectives"
+],
+"a": 3
+},
+{
+"q": "is concerned with complexity arising out of ambiguous and non-routine situations with organisation wide rather than operation-specific implications.",
+"o": [
+"Operational management",
+"Business level strategy",
+"Strategic Management",
+"Functional level strategy"
+],
+"a": 2
+},
+{
+"q": "refer to the job-specific goals of each individual employee.",
+"o": [
+"Balanced Score Card",
+"Performance objectives",
+"Personal objectives",
+"Organisational genomics"
+],
+"a": 2
+},
+{
+"q": "The balanced score card is a approach to performance management",
+"o": [
+"top-down",
+"bottom up",
+"indirect",
+"direct"
+],
+"a": 0
+},
+{
+"q": "This provides the broad 'data' from which to identify key drivers of change.",
+"o": [
+"SWOT analysis",
+"BCG matrix",
+"PESTEL analysis",
+"Critical Success Factors"
+],
+"a": 2
+},
+{
+"q": "Environment is",
+"o": [
+"complex",
+"dynamic",
+"Multi-faceted",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "are the growth rate of the economy, interest rates, currency exchange rates, and inflation (or deflation) rates.",
+"o": [
+"Macro-economic forces",
+"Demographic forces",
+"Technological forces",
+"Political forces"
+],
+"a": 0
+},
+{
+"q": "are outcomes of changes in the characteristics of a population",
+"o": [
+"Macro-economic forces",
+"Demographic forces",
+"Technological forces",
+"Political forces"
+],
+"a": 1
+},
+{
+"q": "What describes the categories of activities within and around an organisation, which together create a product or service?",
+"o": [
+"SWOT analysis",
+"BCG framework",
+"Value Chain",
+"Brain storming"
+],
+"a": 2
+},
+{
+"q": "transform these inputs into the final product or service.",
+"o": [
+"Operations",
+"Inbound logistics",
+"Outbound logistics",
+"Service"
+],
+"a": 0
+},
+{
+"q": "includes those activities that enhance or maintain the value of product or service, such as installation, repair, training and spares.",
+"o": [
+"Operations",
+"Inbound logistics",
+"Outbound logistics",
+"Service"
+],
+"a": 3
+},
+{
+"q": "are companies that are not currently competing in an industry, but have the capability to do so if they choose.",
+"o": [
+"Established companies",
+"Potential competitors",
+"Rivals",
+"Competitors"
+],
+"a": 1
+},
+{
+"q": "Absolute cost advantages arise from",
+"o": [
+"superior production operations and processes",
+"control of particular inputs required for production",
+"access to cheaper funds",
+"all of the above"
+],
+"a": 3
+},
+{
+"q": "A is a combination of structures which could take the form of product and geographical divisions or functional and divisional structures operating in tandem.",
+"o": [
+"Functional structure",
+"Matrix Structure",
+"Project based structure",
+"structure"
+],
+"a": 1
+},
+{
+"q": "A combines the local responsiveness of the international subsidiary with the coordination advantages found in global product companies.",
+"o": [
+"Functional structure",
+"Matrix Structure",
+"Project based structure",
+"Transnational structure"
+],
+"a": 3
+},
+{
+"q": "Which among the following is true?",
+"o": [
+"BPR has resulted in major gains in efficiency.",
+"BPR has resulted in major gains in speed",
+"BPR has resulted in major gains in quality.",
+"BPR has resulted in major gains in efficiency, quality and speed."
+],
+"a": 3
+},
+{
+"q": "A is one where teams are created, undertake the work and are then dissolved.",
+"o": [
+"Functional structure",
+"Matrix Structure",
+"Project based structure",
+"Transnational structure"
+],
+"a": 2
+},
+{
+"q": "specifies what is to be accomplished by focusing on the end result.",
+"o": [
+"Output control",
+"Behaviour control",
+"Premise control",
+"Implementation control"
+],
+"a": 0
+},
+{
+"q": "is control achieved through the establishment of a comprehensive system of rules and procedures to direct the actions of divisions, functions, and individuals.",
+"o": [
+"Output control",
+"Behaviour control",
+"Premise control",
+"Implementation control"
+],
+"a": 1
+},
+{
+"q": "checks systemically and continuously whether the assumptions on which the strategy is based are still valid.",
+"o": [
+"Output control",
+"Behaviour control",
+"Premise control",
+"Implementation control"
+],
+"a": 2
+},
+{
+"q": "A is based on the primary activities that have to be undertaken by an organisation",
+"o": [
+"Functional structure",
+"Matrix Structure",
+"Project based structure",
+"Transnational structure"
+],
+"a": 0
+},
+{
+"q": "This test is a catch-all category, indicating that the structure must fit legal, stakeholder, trade union or similar constraints.",
+"o": [
+"The Feasibility Test",
+"The People Test",
+"The Parenting Advantage Test",
+"The Specialised Cultures Test"
+],
+"a": 0
+},
+{
+"q": "In a fast-moving world, an important test to determine the extent to which a design will allow for change in the future is called?",
+"o": [
+"The Feasibility Test",
+"The Flexibility Test",
+"The Parenting Advantage Test",
+"The Specialised Cultures Test"
+],
+"a": 1
+},
+{
+"q": "Digital transformation drives change in",
+"o": [
+"customer experience",
+"operational processes",
+"business models",
+"all of the above"
+],
+"a": 3
+},
+{
+"q": "The process of digital transformation requires coordination across the entire organization, and involves business culture changes.",
+"o": [
+"digital strategy",
+"digitisation",
+"digital transformation",
+"data aggregation"
+],
+"a": 2
+},
+{
+"q": "Categorising and organising the digitised data and making it ready for application of further processes is called",
+"o": [
+"Data aggregation",
+"Data management",
+"Workflow automation",
+"Process component"
+],
+"a": 1
+},
+{
+"q": "Which among the following is not a characteristic of Big Data?",
+"o": [
+"Variety",
+"Volume",
+"Velocity",
+"Invariability"
+],
+"a": 3
+},
+{
+"q": "Data that can be stored, accessed and processed in the form of fixed format is called",
+"o": [
+"unstructured data",
+"semi-structured data",
+"structured data",
+"flexible data"
+],
+"a": 2
+},
+{
+"q": "Which among the following is not a component of a block chain?",
+"o": [
+"Distributed ledger technology",
+"Immutable record",
+"Smart contracts",
+"Increased threat"
+],
+"a": 3
+},
+{
+"q": "Which among the following alternatives is not suited for Robotic process automation tools?",
+"o": [
+"Repeatable",
+"Predictable interactions with IT applications",
+"Routine",
+"Unpredictable events"
+],
+"a": 3
+},
+{
+"q": "is similar to referral programs.",
+"o": [
+"Influencer Marketing",
+"Affiliate marketing",
+"Social Media Marketing Platforms",
+"Content marketing"
+],
+"a": 1
+},
+{
+"q": "is a form of paid advertising that allows marketing teams to essentially purchase traffic to their website.",
+"o": [
+"Influencer Marketing",
+"Affiliate marketing",
+"Pay-per-click",
+"Content marketing"
+],
+"a": 2
+},
+{
+"q": "Forecasting the weather is an example of",
+"o": [
+"Narrow Al",
+"General AI/human level",
+"Super Al",
+"Deep-learning"
+],
+"a": 0
+},
+{
+"q": "JIT stands for:",
+"o": [
+"Just in purchase",
+"Just in production",
+"Just in time use of material",
+"Just in time order the material"
+],
+"a": 1
+},
+{
+"q": "Example of production by disintegration is:",
+"o": [
+"Crude oil",
+"Mineral water",
+"Automobile",
+"Locomotive"
+],
+"a": 0
+},
+{
+"q": "The act of assessing the future and make the provision for the act is known as:",
+"o": [
+"Forcasting",
+"Assessment",
+"Scheduling",
+"Planning"
+],
+"a": 0
+},
+{
+"q": "The quatities for which the planner has to prepare production plan are known as",
+"o": [
+"Optimal quantity of products",
+"planning quantity standards",
+"Quantity planning",
+"Material planning"
+],
+"a": 1
+},
+{
+"q": "PERT is oriented technique:",
+"o": [
+"Event oriented technique",
+"Activity oriented technique",
+"Both (1) & (2)",
+"None"
+],
+"a": 0
+},
+{
+"q": "Operations Management is primarily deals with:",
+"o": [
+"Recruitment and training of employees",
+"Conversion of inputs into outputs using physical resources",
+"Financial planning and budgeting",
+"Market research and promotion"
+],
+"a": 1
+},
+{
+"q": "What is the main objectives of Operations Management include:",
+"o": [
+"Effectiveness. efficiency, and adaptability",
+"Profitability, liquidity, and solvency",
+"Motivation, leadership, and teamwork",
+"Planning, staffing. and directing"
+],
+"a": 0
+},
+{
+"q": "Under Production and Operations Management which of the following is not an activity?",
+"o": [
+"Product Design",
+"Financial Accounting",
+"Quality Control",
+"Maintenance Management"
+],
+"a": 1
+},
+{
+"q": "The term "Disappearance of Smokestacks" refers to:",
+"o": [
+"Decline of heavy industries",
+"Transformation of factories into environmentally friendly, knowledge-based systems",
+"Ban on factory pollution",
+"Movement of factories to rural areas"
+],
+"a": 1
+},
+{
+"q": "The idea that "Small is Beautiful" was given by:",
+"o": [
+"Peter Drucker",
+"E.F. Schumacher",
+"Henry Fayol",
+"Elton Mayo"
+],
+"a": 1
+},
+{
+"q": "The utilisation rate helps management to determine:",
+"o": [
+"Product quality",
+"Need for adding or reducing capacity",
+"Labour efficiency",
+"Machine downtime"
+],
+"a": 1
+},
+{
+"q": "Facility Layout is also known as:",
+"o": [
+"Plant Location",
+"Plant Layout",
+"Facility Design",
+"Work Centre Management"
+],
+"a": 1
+},
+{
+"q": "Process Layout is also known as:",
+"o": [
+"Functional Layout",
+"Product Layout",
+"Fixed Position Layout",
+"Combination Layout"
+],
+"a": 0
+},
+{
+"q": "The main advantage of process layout is:",
+"o": [
+"High volume production",
+"Low material handling cost",
+"Flexibility in operation",
+"High specialization for one product"
+],
+"a": 2
+},
+{
+"q": "Material Requirement Planning (MRP) is mainly used for planning the production of:",
+"o": [
+"Services",
+"Finished goods only",
+"Raw materials only",
+"Assembled products"
+],
+"a": 3
+},
+{
+"q": "The main purpose of MRP is to:",
+"o": [
+"Minimize labour cost",
+"Ensure that materials are available when needed",
+"Increase advertising efficiency",
+"Maintain maximum stock at all times"
+],
+"a": 1
+},
+{
+"q": "Which among the following is an advantage of an efficient production and inventory management system?",
+"o": [
+"Increased idle time and higher inventory levels",
+"Reduced inventory, reduced idle time, and reduced setup time",
+"Inability to adjust the master production schedule",
+"Higher sales prices and slower response to market demands"
+],
+"a": 1
+},
+{
+"q": "The Economic Lot Size or Economic Order Quantity or Economic Batch Quantity is defined as:",
+"o": [
+"The quantity of output produced in one batch that maximizes production rate",
+"The maximum quantity that can be stored in the warehouse",
+"The quantity of output produced in one batch that is most economical, resulting in the lowest average cost of production",
+"The quantity of output produced to meet immediate demand only"
+],
+"a": 2
+},
+{
+"q": "M/s Kobo Bearings Ltd., is committed to supply 24,000 bearings per annum to M/s Deluxe Fans on a steady daily basis. It is estimated that it costs 10 paisa as inventory holding cost per bearing per month and that the setup cost per run of bearing manufacture is  324. What is the optimum run size for bearing manufacture?",
+"o": [
+"3600",
+"2400",
+"2600",
+"3700"
+],
+"a": 0
+},
+{
+"q": "Find the economic order quantity and the reorder point, given Annual demand (D)=1000 units Average daily demand (d)=1000/365 Ordering Cost (S)=5 per order Holding cost(HI)=\u00b01.25 per unit per year. Lead time (L)=5 days Cost per unit (C)=\u00b212.50 What quantity should be ordered?",
+"o": [
+"3612",
+"2812",
+"2612",
+"4888"
+],
+"a": 2
+},
+{
+"q": "A good product design helps an organization to:",
+"o": [
+"Reduce product features",
+"Increase production lead time",
+"Stay ahead of competition and sustain in a VUCA world",
+"Avoid product diversification"
+],
+"a": 2
+},
+{
+"q": "The Growth phase of the Product Life Cycle is characterized by:",
+"o": [
+"Decline in market share and profits",
+"Rapid increase in sales and market expansion",
+"Withdrawal of the product from the market",
+"Lack of promotional activity"
+],
+"a": 1
+},
+{
+"q": "The Decline phase of the Product Life Cycle is characterized by:",
+"o": [
+"Increasing sales and market share",
+"Higher profitability and expansion",
+"Falling sales and narrowing profit margins",
+"Introduction of new product variants"
+],
+"a": 2
+},
+{
+"q": "Which among the following order represents the correct stages of the Product Life Cycle?",
+"o": [
+"Growth \u2192 Introduction \u2192 Maturity Decline",
+"Introduction \u2192 Growth Maturity \u2192 Decline",
+"Maturity Growth Introduction \u2192 Decline",
+"Introduction \u2192 Maturity Growth Decline"
+],
+"a": 1
+},
+{
+"q": "The main objective of an assignment problem is to:",
+"o": [
+"Increase production regardless of cost",
+"Assign workers randomly to jobs",
+"Maximize the number of workers employed",
+"Minimize total cost or time of performing all jobs"
+],
+"a": 3
+},
+{
+"q": "Which of the following is not a method for solving an assignment problem?",
+"o": [
+"Complete Enumeration Method",
+"Simplex Method",
+"Regression Method",
+"Transportation Method"
+],
+"a": 2
+},
+{
+"q": "Wanda's Car Wash & dry is an automatic, five-minute operation with a single bay. On a typical Saturday morning.cars arrive at a mean rate of eight per hour, with arrivals tending to follow a Poisson distribution. Find the average number of cars in line..",
+"o": [
+"0.667 Car",
+"0.167 Car",
+"10 minutes",
+"20 minutes"
+],
+"a": 0
+},
+{
+"q": "Monte Carlo simulation is mainly used in for:",
+"o": [
+"Static systems only",
+"Systems without uncertainty",
+"Random or stochastic systems",
+"Deterministic systems"
+],
+"a": 2
+},
+{
+"q": "The important requirements of Monte Carlo simulation are:",
+"o": [
+"Hardware optimization",
+"Real-life experimentation",
+"Model of the system and random number generator",
+"Linear equations and constraints"
+],
+"a": 2
+},
+{
+"q": "Simulation is most useful method when:",
+"o": [
+"Data is always deterministic",
+"Optimization techniques are sufficient",
+"The system is simple and can be solved mathematically",
+"The system is complex and difficult to analyze mathematically"
+],
+"a": 3
+},
+{
+"q": "In which company Lean operation has its roots?",
+"o": [
+"General Motors, USA",
+"Honda Motors, Japan",
+"Toyota Automobile Co., Japan",
+"Ford Motors. USA"
+],
+"a": 2
+},
+{
+"q": "Which of the following is not an objective of JIT manufacturing?",
+"o": [
+"Produce only what customers want",
+"Produce products with perfect quality",
+"Produce with waste",
+"Produce products before demand arises"
+],
+"a": 3
+},
+{
+"q": "Continuous improvement in JIT means:",
+"o": [
+"Focusing on short- term gains",
+"Relying on external audits only",
+"Once problems are solved, no further action is needed",
+"Correcting existing problems and identifying new ones continuously"
+],
+"a": 3
+},
+{
+"q": "A factory has 13 workers producing a single product. The total output in a month of 24 working days is 370 units. What is the monthly productivity per worker?",
+"o": [
+"30",
+"28.46",
+"zero",
+"20"
+],
+"a": 1
+},
+{
+"q": "Productivity is commonly defined as:",
+"o": [
+"Output plus capital",
+"Input multiplied by time",
+"Ratio between the output volume and the volume of inputs",
+"Output minus input"
+],
+"a": 2
+},
+{
+"q": "Which of the following is not a method to measure employee productivity?",
+"o": [
+"Measure the amount of work completed",
+"Measure quality of work",
+"Measure goals",
+"Measure employee happiness"
+],
+"a": 3
+},
+{
+"q": "Natural factors influencing productivity include:",
+"o": [
+"Industrial policy",
+"Product design",
+"Climatic and geological conditions",
+"Labour laws"
+],
+"a": 2
+},
+{
+"q": "Social factors affecting productivity refer to:",
+"o": [
+"Credit facilities",
+"Market demand",
+"Culture, customs, and traditions of society",
+"Machine maintenance and downtime"
+],
+"a": 2
+},
+{
+"q": "Continuous improvement in TQM is also known as:",
+"o": [
+"Six Sigma",
+"Benchmarking",
+"KAIZEN",
+"JIT"
+],
+"a": 2
+},
+{
+"q": "Total Quality Management encourages:",
+"o": [
+"Individual work only",
+"Ignoring process improvements",
+"Teamwork, cooperation, and employee involvement",
+"Short-term results over long-term quality"
+],
+"a": 2
+},
+{
+"q": "Which of the following is not a principle of TQM?",
+"o": [
+"Quality is achieved through random inspection",
+"Continuous improvement (Kaizen)",
+"Worker involvement is essential",
+"Strive for quality in all things"
+],
+"a": 0
+},
+{
+"q": "Slack signifies:",
+"o": [
+"The total float of the project",
+"The total duration of the project",
+"TheTreedom available to reschedule or start a",
+"The difference between EST and EFT"
+],
+"a": 2
+},
+{
+"q": "For a job, slack time is calculated as:",
+"o": [
+"LFT + EFT",
+"EFT-LFT",
+"LFT-EFT",
+"EST-LST"
+],
+"a": 1
+},
+{
+"q": "A job with zero slack is called:",
+"o": [
+"Critical job",
+"Non-critical job",
+"Independent job",
+"Slack job"
+],
+"a": 0
+},
+{
+"q": "EFT (Earliest Finish Time) is calculated as:",
+"o": [
+"Earliest Start Time + Duration of activity",
+"Latest Finish Time Duration",
+"Earliest Start Time Duration",
+"Latest Start Time + Duration"
+],
+"a": 0
+},
+{
+"q": "Floats represent:",
+"o": [
+"Difference between EFT and LFT",
+"Difference between maximum time available and actual time required to complete an activity",
+"Difference between EST and LST",
+"Total duration of the project"
+],
+"a": 1
+},
+{
+"q": "Formula for Total Float (TF) is:",
+"o": [
+"TF (EFT of tail eventLST of head event) Duration",
+"TF (EST of tail event EFT of head event) - Duration",
+"TF (LFT of head event EST of tail event) - Duration",
+"TF(LFT of head event EST of tail event) + Duration"
+],
+"a": 2
+},
+{
+"q": "A project activity has an $EFT=12$ days, $LFT=20$ days. What is its slack time?",
+"o": [
+"8 days",
+"27 days",
+"0 days",
+"12 days"
+],
+"a": 0
+},
+{
+"q": "A negative total float indicates that:",
+"o": [
+"The activity has excess resources",
+"The activity can be delayed without affecting the project",
+"Resources are not adequate and the activity cannot finish on time",
+"The project is ahead of schedule"
+],
+"a": 2
+},
+{
+"q": "Free Float is a part of:",
+"o": [
+"Slack time",
+"Total Float",
+"Dummy activity",
+"Float"
+],
+"a": 1
+},
+{
+"q": "Independent Float can be calculated as:",
+"o": [
+"Total Float + Slack Time of tail event",
+"Total Float-Head Slack",
+"Free Float - Tail Slack",
+"Free Float + Tail Slack"
+],
+"a": 2
+},
+{
+"q": "The main difference between slack and float is that:",
+"o": [
+"Slack refers to activities, float refers to events",
+"Both refer to events only",
+"Both refer to activities only",
+"Slack is used for events, float is used for activities"
+],
+"a": 3
+},
+{
+"q": "The time constraint in project management refers to:",
+"o": [
+"The schedule for the project to reach completion",
+"The total cost to complete a project",
+"The number of team members working on the project",
+"The availability of raw materials"
+],
+"a": 0
+},
+{
+"q": "Quality Improvement in project management refers to:",
+"o": [
+"Increasing team size for faster execution",
+"Minimizing scope to meet deadlines",
+"Applying tools to close gaps between current and desired quality levels",
+"Reducing cost of resources"
+],
+"a": 2
+},
+{
+"q": "A Gantt Chart is also known as a:",
+"o": [
+"Network diagram",
+"Line graph",
+"Bar chart",
+"Flow chart"
+],
+"a": 2
+},
+{
+"q": "A major advantage of the Gantt Chart is that it:",
+"o": [
+"Shows detailed network relationships",
+"Can easily incorporate changes in timing and machine loads",
+"Eliminates the need for manpower planning",
+"Eliminates the need for manpower planning"
+],
+"a": 1
+},
+{
+"q": "An event in a network refers to:",
+"o": [
+"A job that consumes time and money",
+"The use of physical resources",
+"The start or completion of a job that consumes no resources",
+"An interruption in the workflow"
+],
+"a": 2
+},
+{
+"q": "Network analysis provides a graphical representation of:",
+"o": [
+"Profit and loss data",
+"Material flow between departments",
+"Only the critical activities",
+"All activities and events in logical sequence"
+],
+"a": 3
+},
+{
+"q": "Which of the following is not an application of network analysis?",
+"o": [
+"Aircraft manufacturing",
+"Retail store management",
+"Construction of residential complex",
+"Satellite mission development"
+],
+"a": 1
+},
+{
+"q": "The type of maintenance in which machines are repaired only after breakdown is known as:",
+"o": [
+"Scheduled maintenance",
+"Predictive maintenance",
+"Breakdown or repair maintenance",
+"Preventive maintenance"
+],
+"a": 2
+},
+{
+"q": "Which of the following is an analytical measure used to evaluate preventive maintenance effectiveness?",
+"o": [
+"Hours worked for maintenance/ Scheduled hours x 100",
+"Inspections incomplete/ Inspections scheduled x 100",
+"Frequency of breakdowns = Number of breakdowns/ Available machine hours",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "One of the key advantages of preventive maintenance is:",
+"o": [
+"Increased work content of maintenance jobs",
+"Reduced breakdowns and downtime",
+"Reduced safety of workers",
+"Increased downtime"
+],
+"a": 1
+},
+{
+"q": "What does running maintenance typically include?",
+"o": [
+"Installation of new machinery",
+"Only major repairs after equipment failure",
+"Lubrication, cleaning, and periodic overhaul while the equipment is in operation or during preplanned shutdowns",
+"Outsourcing all maintenance work"
+],
+"a": 2
+},
+{
+"q": "What are the two main causes for the replacement of machinery?",
+"o": [
+"Wear and obsolescence",
+"Technological improvement and breakdowns",
+"Wear and depreciation",
+"Maintenance and repair costs"
+],
+"a": 0
+},
+{
+"q": "One reason for replacing a machine before its expected life is:",
+"o": [
+"To reduce factory space",
+"To avoid preventive maintenance",
+"To reduce running costs and increase productivity",
+"To increase downtime"
+],
+"a": 2
+},
+{
+"q": "Which of the following is NOT a classification of spare parts?",
+"o": [
+"Regular Spares",
+"Insurance Spares",
+"Capital Spares",
+"Temporary Spares"
+],
+"a": 3
+},
+{
+"q": "What is the primary purpose of a vision statement in an organization?",
+"o": [
+"To outline the company's current operations and processes.",
+"To list the company's products and services.",
+"To define the desired. future state and aspirations of the organization.",
+"To describe the company's financial goals."
+],
+"a": 2
+},
+{
+"q": "What does the "F" in the FAST goal-setting framework stand for?",
+"o": [
+"Financially viable",
+"Fully achievable",
+"Frequently discussed",
+"Fully transparent"
+],
+"a": 2
+},
+{
+"q": "What does EVA stand for in financial performance metrics?",
+"o": [
+"Equity Value Added",
+"Earnings Value Added",
+"Economic Value Added",
+"Earnings Variance Analysis"
+],
+"a": 2
+},
+{
+"q": "The dynamic nature of the business environment requires businesses to:",
+"o": [
+"Continuously adapt to changes and anticipate future trends",
+"Maintain a static approach to operations",
+"Ignore external changes and focus only on internal factors",
+"Rely solely on historical data for decision-making"
+],
+"a": 0
+},
+{
+"q": "A company develops a new recycling process to reduce waste. Which PESTEL factor is it responding to?",
+"o": [
+"Environmental",
+"Technological",
+"Economic",
+"Political"
+],
+"a": 0
 }
 ]
