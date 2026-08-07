@@ -1,1 +1,802 @@
-
+[
+{
+"q": "Management Accounting",
+"o": [
+"Accumulates, summarizes and analyses the available data.",
+"Is primarily concerned with the requirements of the management.",
+"Makes Corporate Planning and Strategy effective.",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Management accounting can be viewed as",
+"o": [
+"Marketing-oriented Accounting",
+"Management-oriented Accounting",
+"Accounting-oriented Management",
+"Manager-oriented Accounting"
+],
+"a": 1
+},
+{
+"q": "The main objective of management accounting is",
+"o": [
+"To maintain the accounting records",
+"To know the amount due from customers and suppliers",
+"To ascertain analyse and interpret the results of business operations",
+"To record all the business transactions"
+],
+"a": 2
+},
+{
+"q": "is the study of managerial aspects of financial accounting",
+"o": [
+"Cost accounting",
+"Financial accounting",
+"Business accounting",
+"Management accounting"
+],
+"a": 3
+},
+{
+"q": "The purpose of management accounting is to help make decisions",
+"o": [
+"Managers",
+"Investors",
+"Marketers",
+"Banks"
+],
+"a": 0
+},
+{
+"q": "Management accounting assists the management in",
+"o": [
+"Planning",
+"Directing",
+"Controlling",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Period of lost relevance is the of the evolution of management accounting.",
+"o": [
+"1st stage",
+"2nd stage",
+"3rd stage",
+"4th stage"
+],
+"a": 2
+},
+{
+"q": "criteria are a set of standards for a company's behaviour used by socially conscious investors to screen potential investments.",
+"o": [
+"JIT",
+"AMT",
+"ABC",
+"ESG"
+],
+"a": 3
+},
+{
+"q": "Management accounting information helps managers formulate strategy by answering which of the following questions?",
+"o": [
+"Who are the most important customers, and how can the company deliver value to the customers?",
+"What is most critical capability of the company which may be technology, production, or marketing?",
+"How can we leverage it for new strategic initiatives?",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Management accounting with specific focus on environmental issues is becoming increasingly important in organizations as environmental costs are large in many organisations. There are three specific reasons for this, which are",
+"o": [
+"Environmental costs are often high in the many manufacturing organisations",
+"Regulatory requirements often impose huge fines for non-compliance",
+"Both 1 and 2",
+"Companies are increasingly realizing that being socially and environmentally responsible declines their image and this has positive impact on their bottom line."
+],
+"a": 2
+},
+{
+"q": "Management accounting is concerned with data collection from",
+"o": [
+"internal sources",
+"external sources",
+"internal and external sources",
+"Internal or external sources"
+],
+"a": 2
+},
+{
+"q": "Management Accounting is concerned with accounting information, which is useful to the management This definition is given by",
+"o": [
+"Robert N. Antho",
+"Brown and Howard",
+"CIMA",
+"The Institute of Chartered Accountants of England and Wales"
+],
+"a": 0
+},
+{
+"q": "The primary objective of Management Accounting is to",
+"o": [
+"maximize profits",
+"minimize losses",
+"maximize profits or minimize losses",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Which of the following is a correct definition of activity-based management?",
+"o": [
+"An approach to the costing and monitoring of activities which involves tracing resource consumption and costing final outputs.",
+"The identification and evaluation of the activity drivers used to trace the cost of activities to cost objects.",
+"A method of budgeting based on an activity framework and utilizing cost driver data in the budget-setting and variance feedback processes.",
+"A system of management which uses activity-based cost information for a variety of purposes including cost reduction, cost modeling and customer profitability analysis"
+],
+"a": 3
+},
+{
+"q": "Which of the following characteristics would be an indicator that a company would benefit from switching to activity based costing?",
+"o": [
+"Only one homogenous product is produced on a continuous basis",
+"The existing cost system is reliable and has produced excellent results",
+"Overhead costs are high and increasing and no one seems to know why",
+"The costs of implementing ABC out-weigh the benefits"
+],
+"a": 2
+},
+{
+"q": "According to the Chartered Institute of Management Accountants (CIMA), cost attribution to cost units on the basis of benefits received from indirect activities e.g. ordering, setting up, and assuring quality is known as:",
+"o": [
+"Absorption costing",
+"Marginal costing",
+"Activity-based-costing",
+"Job costing"
+],
+"a": 2
+},
+{
+"q": "In an ABC system, which of the following is likely to be classified as a batch level activity?",
+"o": [
+"Machine set-up",
+"Product design",
+"Inspection of every item produced",
+"Production manager's work"
+],
+"a": 0
+},
+{
+"q": "Activity based costing",
+"o": [
+"Uses a plant wide overhead rate to assign overhead",
+"Is not expensive to implement",
+"Typically applies overhead costs using direct labour hours",
+"Uses multiple activity rates"
+],
+"a": 3
+},
+{
+"q": "Which of the following activities is not a batch level activity?",
+"o": [
+"Processing purchase orders",
+"Designing products",
+"Receive raw materials from suppliers",
+"Machine set-up cost"
+],
+"a": 1
+},
+{
+"q": "Which of the following is not included in batch level activities?",
+"o": [
+"Material ordering cost",
+"Machine set-up cost",
+"Inspection cost",
+"Designing the product"
+],
+"a": 3
+},
+{
+"q": "Assigning overhead using ABC often:",
+"o": [
+"Shifts overhead costs from high-volume products to low-volume products",
+"Shifts overhead costs from low-volume products to high-volume products",
+"Provides the same results as traditional costing",
+"Requires one predetermined overhead rate"
+],
+"a": 0
+},
+{
+"q": "In Activity Based Costing",
+"o": [
+"Non-manufacturing costs may not be assigned to products",
+"Some manufacturing costs may be excluded from product costs",
+"Allocation bases are the same as those used in traditional costing methods",
+"Similar to traditional costing, ABC only uses one overhead cost pool"
+],
+"a": 1
+},
+{
+"q": "In an ABC system, the allocation bases that are used for applying costs to services or procedures are called:",
+"o": [
+"Cost Pool",
+"Cost Driver",
+"Cost Absorption",
+"Cost Object"
+],
+"a": 1
+},
+{
+"q": "Which of the following would not be deducted from sales in a management report prepared using ABC?",
+"o": [
+"Direct materials labour",
+"Variable selling and administration costs",
+"Shipping costs",
+"Fixed factory overhead"
+],
+"a": 2
+},
+{
+"q": "An item for which cost measurement is required e.g. product, job or a customer",
+"o": [
+"Cost Pool",
+"Driver",
+"Cost Absorption",
+"Cost Object"
+],
+"a": 3
+},
+{
+"q": "Which of the following is different in ABC when compared to traditional costing?",
+"o": [
+"Traditional costing and ABC costing usually yield very similar product costs",
+"In an ABC costing system, costs are only assigned to products that actually required work that gave rise to a particular cost",
+"In ABC, batch-level costs are applied to products using unit-level bases",
+"Under traditional costing, batch-level costs are shifted from high-volume products to low-volume products"
+],
+"a": 1
+},
+{
+"q": "Process of Cost allocation under Activity Based Costing is",
+"o": [
+"Cost of Activities -> Activities -> Cost Driver -> Cost allocated to cost objects",
+"Cost Driver -> Cost of Activities -> Cost allocated to cost objects -> Activities",
+"Activities -> Cost of Activities -> Cost Driver -> Cost allocated to cost objects",
+"Activities -> Cost Driver -> Cost allocated to cost objects -> Cost of Activities"
+],
+"a": 2
+},
+{
+"q": "Cost of maintaining a building is:",
+"o": [
+"Unit Level Cost",
+"Batch Level Cost",
+"Product Level Cost",
+"Facility Level Cost"
+],
+"a": 3
+},
+{
+"q": "should be subtracted from net product revenues instead of an arbitrary and illogical apportionment.",
+"o": [
+"Facility Level Cost",
+"Product Level Cost",
+"Organizational Level Cost",
+"High Level Cost"
+],
+"a": 2
+},
+{
+"q": "The basis of apportionment of overheads which takes into account the profitability of various departments is called:",
+"o": [
+"FIFO basis",
+"LIFO basis",
+"Ability to pay basis",
+"Activity basis"
+],
+"a": 3
+},
+{
+"q": "Which of the following is the main cost driver of customer order processing activity?",
+"o": [
+"Flow of the product from the assembly line",
+"Order value",
+"Number of problem suppliers",
+"Number of machine charges"
+],
+"a": 1
+},
+{
+"q": "Painting the product would be an example of which activity level groups",
+"o": [
+"Facility-level activity",
+"Product-level activity",
+"Unit-level activity",
+"Batch-level activity"
+],
+"a": 2
+},
+{
+"q": "Which of the following tasks is not normally associated with an activity-based costing system?",
+"o": [
+"Calculation of cost application rates",
+"Identification of cost pools",
+"Preparation of allocation matrices",
+"Identification of cost drivers"
+],
+"a": 2
+},
+{
+"q": "All of the following are examples of batch level activities except:",
+"o": [
+"Purchase order processing",
+"Setting up equipment",
+"The clerical activity associated with processing purchase orders to produce an order for a standard product",
+"Worker recreational facilities"
+],
+"a": 3
+},
+{
+"q": "A cost driver -",
+"o": [
+"is a force behind the overhead cost",
+"is an allocation base",
+"is a transaction that is a significant determinant of cost",
+"is all of the above"
+],
+"a": 3
+},
+{
+"q": "Which of these is NOT a cost driver for the Activity Design of products, services & Processes?",
+"o": [
+"Number of Products in design",
+"Number of Parts per product",
+"Number of employee Training Programmes",
+"Number of engineering Hours"
+],
+"a": 2
+},
+{
+"q": "Which of these is NOT a Cost driver for Marketing and sales Function?",
+"o": [
+"Number of advertisements/Insertions",
+"Number of research projects",
+"Number of Sales personnel",
+"Sales Revenue"
+],
+"a": 1
+},
+{
+"q": "Which of these is NOT a Cost driver for Customer Service Activity?",
+"o": [
+"Number of service calls",
+"Number of Products serviced",
+"Hours spent on servicing products",
+"Sales Revenue"
+],
+"a": 3
+},
+{
+"q": "Plant depreciation is an example of which activity-level group?",
+"o": [
+"Unit-level activity",
+"Facility-level activity",
+"Batch-level activity",
+"Product-level activity"
+],
+"a": 1
+},
+{
+"q": "Under activity-based costing, 'material ordering' is considered as",
+"o": [
+"Unit-level activity",
+"Facility-level activity",
+"Batch-level activity",
+"Product-level activity"
+],
+"a": 2
+},
+{
+"q": "Samsung an appliance manufacturer is developing a new line of ovens that uses controlled-laser technology. Research and testing costs associated with the new ovens is said to arise from a:",
+"o": [
+"Unit Level Activity",
+"Competitive Level Activity",
+"Facility Level Activity",
+"Product Sustaining Activity"
+],
+"a": 3
+},
+{
+"q": "A homogeneous cost pool is one that:",
+"o": [
+"Does not change over time",
+"Needs many activity drivers to be allocated to a cost object",
+"Can be explained with a single activity driver",
+"Has only one type of material assigned to it"
+],
+"a": 2
+},
+{
+"q": "In Activity-Based Costing, an inspection of the product is a level activity:",
+"o": [
+"Unit",
+"Batch",
+"Product",
+"Facility"
+],
+"a": 1
+},
+{
+"q": "A company uses traditional standard costing system. The inspection and set-up costs are actually ₹1,760 against a budget of ₹2,000. ABC system is being implemented and accordingly the number of batches is identified as the cost driver for inspection and set up. The budgeted production is 10,000 units in batches of 1,000 units whereas actually 9,000 units were produced in 11 batches. The cost per batch under ABC system will be",
+"o": [
+"₹160",
+"₹200",
+"₹180",
+"₹220"
+],
+"a": 1
+},
+{
+"q": "X Company uses activity-based costing for Product B and Product D. The total estimated overhead cost for the parts administration activity pool was ₹5,50,000 and the expected activity was 2000 part types. If Product D requires 1200 part types, the amount of overhead allocated to product D for parts administration would be:",
+"o": [
+"₹2,75,000",
+"₹3,00,000",
+"₹3,30,000",
+"₹3,45,000"
+],
+"a": 2
+},
+{
+"q": "Fast Ltd. manufactures three types of products A, B, and C following ABC System. During a period, the company incurred ₹73,000 as inspection cost and it was worked for 10, 20 and 9 production runs respectively for producing products A, B, and C. The inspection costs for product B under the ABC system was",
+"o": [
+"₹15,000",
+"₹40,000",
+"₹18,000",
+"₹24,000"
+],
+"a": 1
+},
+{
+"q": "A company operates an activity based costing (ABC) system to attribute its overhead costs to cost objects. In its budget for the year-ending 31st August, 2022. The company expected to place a total of 2000 purchase orders at a total cost of ₹1,00,000. This activity and its related costs were budgeted to occur at a constant rate throughout the budget year which is divided into 13 four week periods. During the four-week period ended 30th June 2021, a total of 200 purchase orders were placed at a cost of ₹9,000. The over recovery of these costs for the four-week period was",
+"o": [
+"₹2,000",
+"₹3,000",
+"₹1,50,0",
+"₹1,000"
+],
+"a": 3
+},
+{
+"q": "A company manufactures 500 units of product AX the material cost to manufacture is ₹1,50,000, Labour cost ₹2,65,000. Material reordering cost is ₹4,500, Material handling cost is ₹2,500 Material order-35, Material movement - 20. Total Material cost under Activity based costing is.",
+"o": [
+"554",
+"4,22,000",
+"1,57,000",
+"1,084"
+],
+"a": 2
+},
+{
+"q": "To obtain the break-even point in rupee sales value, total fixed costs are divided by:",
+"o": [
+"Variable cost per unit;",
+"Contribution margin per unit;",
+"Fixed cost per unit;",
+"Profit/volume ratio."
+],
+"a": 3
+},
+{
+"q": "The break-even point is the point at which:",
+"o": [
+"There is no profit, no loss;",
+"Contribution margin is equal to total fixed cost;",
+"Total revenue is equal to total cost;",
+"All of the above."
+],
+"a": 3
+},
+{
+"q": "The primary difference between a fixed budget and a variable (flexible) budget is that a fixed budget:",
+"o": [
+"includes only fixed costs, while a variable budget includes only variable costs.",
+"is concerned with only further acquisitions of fixed costs, while a variable budget is concerned with expenses which vary with sales.",
+"cannot be changed after the period begins, while a variable budget can be changed after the period begins.",
+"is a plan for a single level of sales (or other measure of activity), while a variable budget consists of several plans, one for each of several levels of sales (or other measures of activity)."
+],
+"a": 3
+},
+{
+"q": "Margin of safety is referred to as:",
+"o": [
+"Excess of actual sales over fixed expenses;",
+"Excess of actual sales over variable expenses;",
+"Excess of actual sales over break-even sales;",
+"Excess of budgeted sales over fixed costs."
+],
+"a": 2
+},
+{
+"q": "Contribution margin is known as",
+"o": [
+"Marginal income",
+"Gross profit",
+"Net income",
+"Net profit"
+],
+"a": 0
+},
+{
+"q": "Fixed cost per unit decrease when",
+"o": [
+"Production volume increases",
+"Production volume decreases",
+"Variable costs per unit decreases",
+"Prime costs per unit decreases"
+],
+"a": 0
+},
+{
+"q": "Within a relevant range, the amount of variable costs per unit",
+"o": [
+"Differs at each production level",
+"Remains constant at each production level",
+"Increases as production increases",
+"Decreases as production increases"
+],
+"a": 1
+},
+{
+"q": "Margin of safety is referred to as",
+"o": [
+"Excess of budgeted or actual sales over the variable expenses and fixed expense, at break-even.",
+"Excess of budgeted or actual sales revenue over the fixed expenses.",
+"Excess of actual sales over budgeted sales.",
+"Excess of sales revenue over the variable expenses"
+],
+"a": 2
+},
+{
+"q": "Under marginal costing system, the contribution margin discloses the excess of",
+"o": [
+"Revenue over fixed costs",
+"Projected revenues over the break-even point",
+"Revenues over variable costs",
+"Variable costs over fixed costs"
+],
+"a": 2
+},
+{
+"q": "A decrease in sales price",
+"o": [
+"does not affect the break-even point",
+"lowers the fixed cost",
+"Increases the break-even point",
+"lowers the break-even point"
+],
+"a": 2
+},
+{
+"q": "Determine Margin of safety if Profit is ₹15,000 and P/V ratio is 40%.",
+"o": [
+"₹37,500",
+"₹33,000",
+"₹38,000",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "What is Margin of Safety if Sales is 20,000 units and B.E.P is 15,000 units?",
+"o": [
+"15,000 units",
+"5,000 units",
+"10,000 units",
+"20,000 units"
+],
+"a": 1
+},
+{
+"q": "Determine sales in rupees for desired profit if fixed cost is ₹10,000, Variable cost is ₹30,000, Sales is ₹50,000 and desired profit is ₹5,000.",
+"o": [
+"₹73,500",
+"₹75,000",
+"₹5,000",
+"₹37,500"
+],
+"a": 3
+},
+{
+"q": "What will be sales in rupees for desired profit if fixed cost is ₹30,000, desired profit is ₹15,000 and P/V ratio is 30%?",
+"o": [
+"₹1,50,000",
+"₹1,00,000",
+"₹2,00,000",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Calculate sales in rupees for desired profit if fixed cost is ₹10,000, selling price is ₹20 per unit, Variable cost is ₹15 per unit and desired profit is ₹1 per unit",
+"o": [
+"₹20,000",
+"₹50,000",
+"₹70,000",
+"₹10,000"
+],
+"a": 1
+},
+{
+"q": "Determine sales in units for desired profit if Fixed cost is ₹15,000, desired profit is ₹5,000 Selling price per unit is ₹20 and Variable cost per unit is ₹16.",
+"o": [
+"25,000 units",
+"5,000 units",
+"10,000 units",
+"12,500 units"
+],
+"a": 1
+},
+{
+"q": "What will be sales in units if fixed cost is ₹50,000 Contribution per unit is ₹60 and desired profit per unit is ₹10.",
+"o": [
+"26,000 units",
+"1,000 units",
+"1,000 units",
+"6,000 units"
+],
+"a": 2
+},
+{
+"q": "Determine B.E.P in units and amount if Units produced if 10,000, Fixed cost is ₹40,000, Selling price is ₹50 per unit and Variable cost us ₹30 per unit.",
+"o": [
+"240 per unit, ₹2,00,000",
+"250 per unit, ₹10,00,000",
+"2,000 units, ₹1,00,000",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Determine B.E.P if Sales is ₹1,00,000, Variable cost is ₹50,000 and Profit is ₹20,000.",
+"o": [
+"₹60,000",
+"₹40,000",
+"₹80,000",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Pv ratio will increase if there is -",
+"o": [
+"a decrease in fixed cost",
+"an increase in fixed cost",
+"a decrease in selling price per unit",
+"a decrease in variable cost per unit"
+],
+"a": 3
+},
+{
+"q": "Under marginal costing the cost of product for inventory valuation includes",
+"o": [
+"prime costs and variable factory overheads",
+"prime cost only",
+"prime costs and Fixed factory overheads",
+"prime costs and all factory overheads"
+],
+"a": 0
+},
+{
+"q": "period costs are:",
+"o": [
+"variable cost",
+"fixed cost",
+"prime cost",
+"overheads cost"
+],
+"a": 1
+},
+{
+"q": "Marginal costs is taken as equal to",
+"o": [
+"Prime Cost plus all variable overheads",
+"Prime Cost minus all variable overheads",
+"Variable overheads",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "Contribution margin is equal to",
+"o": [
+"Sales - Fixed Cost - Profit",
+"Profit - Variable Cost",
+"Fixed Cost - Loss",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "It is planned to sell 1,00,000 units of product A at ₹12 per unit. Fixed Costs are ₹2,80,000. To achieve a profit of ₹2,00,000 what would the variable costs be?",
+"o": [
+"₹4,80,000",
+"₹7,20,000",
+"₹9,00,000",
+"₹9,20,000"
+],
+"a": 1
+},
+{
+"q": "Factors which can change the break even point",
+"o": [
+"change in total fixed costs",
+"change in variable costs per unit",
+"change in the selling price per unit",
+"All of the above."
+],
+"a": 3
+},
+{
+"q": "net profit ratio is 12% and bep is 40% of total sales compute pv ratio",
+"o": [
+"60%",
+"52%",
+"28%",
+"20%"
+],
+"a": 3
+},
+{
+"q": "If the total cost of 1000 units is ₹60,000 and that of 1001 units is ₹60,400, then the increase of ₹400 in the total cost is:",
+"o": [
+"Prime cost",
+"All variable overheads",
+"Marginal cost",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "Which of the following statements are true about marginal costing?",
+"o": [
+"In marginal costing, fixed costs are treated as product costs",
+"Marginal costing is not an independent system of costing",
+"The elements of cost in marginal costing are divided into fixed and variable components",
+"Both b and c"
+],
+"a": 3
+},
+{
+"q": "The costing method where fixed factory overheads are added to inventory is called:",
+"o": [
+"Activity-based costing",
+"Absorption costing",
+"Marginal costing",
+"All of the above"
+],
+"a": 1
+},
+{
+"q": "While computing profit in marginal costing:",
+"o": [
+"The fixed cost gets added to the contribution",
+"The total marginal cost gets deducted from total sales revenue",
+"The total marginal cost gets added to total sales revenue",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "Which of the following assumptions are made while calculating marginal cost",
+"o": [
+"Total fixed cost is constant at all levels of output",
+"Total variable cost varies according to the volume of output",
+"All elements of cost can be divided into fixed and variable components",
+"All of the above."
+],
+"a": 3
+}
+]
