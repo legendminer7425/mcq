@@ -1130,7 +1130,7 @@
 "a":1
 },
 {
-"q":"net working capital will arise when current assets exceed current liabilities.",
+"q":"A net working capital will arise when current assets exceed current liabilities.",
 "o":[
 "Summative",
 "Negative",
@@ -1140,7 +1140,7 @@
 "a":3
 },
 {
-"q":"net working capital occurs when current liabilities are in excess of current assets.",
+"q":"A net working capital occurs when current liabilities are in excess of current assets.",
 "o":[
 "Positive",
 "Negative",
@@ -2449,4 +2449,4 @@
 ],
 "a":2
 }
-]
+]  
