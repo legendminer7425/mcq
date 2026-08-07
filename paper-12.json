@@ -1998,5 +1998,405 @@
 "All of the above are measures of risk."
 ],
 "a": 2
+},
+{
+"q": "The sequence of possible managerial decisions and their expected outcome under each set of circumstances can be represented and analysed by using",
+"o": [
+"The minimax regret criterion.",
+"A decision tree.",
+"A payoff matrix.",
+"Simulation."
+],
+"a": 1
+},
+{
+"q": "We are comparing two investment projects. Both have expected returns of 20%, but the standard deviation of Project A's returns is 15%, while the standard deviation of Project B's returns is 9%. Which one is relatively riskier?",
+"o": [
+"A",
+"B",
+"Both A and B",
+"Bnone of these"
+],
+"a": 0
+},
+{
+"q": "Two investments have different expected returns. Project A's expected return is 20% and the standard deviation of its returns is 15%. Project B's expected return is only 10%, while the standard deviation of its returns remains at 9%. Compute Coefficient of Varience of Project A.",
+"o": [
+"0.20",
+"0.75",
+"0.90",
+"0.10"
+],
+"a": 1
+},
+{
+"q": "Which of the following is NOT a characteristic of management accounting?",
+"o": [
+"Future-oriented",
+"Subjective in nature",
+"Mandatory as per law",
+"Useful for internal decision-making"
+],
+"a": 2
+},
+{
+"q": "Management accounting reports are primarily intended for:",
+"o": [
+"Government authorities",
+"External shareholders",
+"Internal management",
+"Credit rating agencies"
+],
+"a": 2
+},
+{
+"q": "A key feature of management accounting is that it:",
+"o": [
+"Provides real-time data for decisions",
+"Follows GAAP strictly",
+"Is audited annually",
+"Is used only by external parties"
+],
+"a": 0
+},
+{
+"q": "The technique used in management accounting to compare actual results with planned performance is:",
+"o": [
+"Ledger balancing",
+"Trial balance preparation",
+"Variance analysis",
+"Cash accounting"
+],
+"a": 2
+},
+{
+"q": "In Activity Based Costing, the first step is to:",
+"o": [
+"Determine cost pools",
+"Select cost drivers",
+"Identify activities",
+"Allocate overheads to cost objects"
+],
+"a": 2
+},
+{
+"q": "Which of the following is least suitable as a cost driver under ABC?",
+"o": [
+"Number of machine setups",
+"Direct labour hours",
+"Number of customer orders",
+"Total factory square footage"
+],
+"a": 3
+},
+{
+"q": "A company has identified the following overhead cost pools and cost drivers for a product: Setup cost pool: 200,000; driver number of setups (2,500 setups) Inspection cost pool: 100,000; driver number of inspections (50,000 inspections) Product X has 200 setups and 4,000 inspections. What is the overhead allocated to Product X (using ABC)?",
+"o": [
+"16,000",
+"12,000",
+"24,000",
+"14.000"
+],
+"a": 2
+},
+{
+"q": "A product requires 5 machine hours. The machine hour activity pool has 300,000 budgeted cost and 15,000 machine hours. What is the machine-hour overhead allocated to that product under ABC?",
+"o": [
+"100",
+"500",
+"₹1,000",
+"₹2,000"
+],
+"a": 0
+},
+{
+"q": "A firm has two products A and B. The "order processing" cost pool is 120,000. The cost driver is number of orders. There are 2,000 orders in total: A uses 600 orders; B uses 1,400 orders. The overhead assigned to B is:",
+"o": [
+"89,000",
+"84,000",
+"48.000",
+"₹70.000"
+],
+"a": 1
+},
+{
+"q": "A company currently uses traditional costing and absorbs overheads at 20 per direct labour hour. Under ABC, two cost pools are identified: Setups (50,000) with driver number of setups (500), and material handling (100,000) with driver number of parts (200,000). Product Y uses 50 setups and 4,000 parts. Under ABC, overhead allocated to Y is:",
+"o": [
+"10,000",
+"7,000",
+"14,000",
+"12,000"
+],
+"a": 1
+},
+{
+"q": "A company incurs 60,000 as facility-sustaining cost (which supports all products), and allocates it equally across 3 product lines X, Y, Z under ABC. Product X produces 5,000 units, Y 10,000 units, Z 15,000 units. What is the per-unit share of facility cost for Z?",
+"o": [
+"24",
+"₹2",
+"1.50",
+"1.33"
+],
+"a": 3
+},
+{
+"q": "Which statement is true about ABC compared to traditional absorption costing?",
+"o": [
+"ABC tends to under-cost high volume products and over-cost low volume products",
+"ABC always leads to lower cost per unit estimates",
+"ABC ignores overhead costs that are fixed",
+"ABC is simpler to implement than traditional costing"
+],
+"a": 0
+},
+{
+"q": "In ABC, "facility-sustaining costs" are:",
+"o": [
+"Costs that vary with every unit produced",
+"Costs that support the entire facility but cannot be traced to individual products",
+"Always variable costs",
+"Never included in costing"
+],
+"a": 1
+},
+{
+"q": "Under ABC, if an activity's cost is zero (i.e., no cost incurred), then:",
+"o": [
+"Its cost driver rate is infinite",
+"Its cost driver rate is zero",
+"It is automatically merged with another pool",
+"It must still be assigned across products"
+],
+"a": 1
+},
+{
+"q": "A "cost pool" in ABC refers to:",
+"o": [
+"A grouping of fixed costs only",
+"A set of overhead costs associated with a specific activity",
+"The sum of direct costs in a department",
+"The total cost of all drivers"
+],
+"a": 1
+},
+{
+"q": "Which of the following is not an assumption of marginal costing?",
+"o": [
+"Costs can be separated into fixed and variable components",
+"Variable cost per unit remains constant over the relevant range",
+"Selling price per unit changes with volume",
+"No change in inventory level"
+],
+"a": 2
+},
+{
+"q": "When there are no inventories, profit under marginal costing and absorption costing will be:",
+"o": [
+"The same",
+"Different",
+"Marginal costing profit greater",
+"Absorption costing profit greater"
+],
+"a": 0
+},
+{
+"q": "Under marginal costing, get-or-drop decisions predominantly rely on:",
+"o": [
+"Fixed cost recovery",
+"Contribution margin",
+"Full cost per unit",
+"Absorbed fixed overhead"
+],
+"a": 1
+},
+{
+"q": "Which statement is true?",
+"o": [
+"Marginal costing is a complete costing system",
+"Marginal costing is only a technique of cost analysis",
+"Marginal costing always gives higher profit than absorption costing",
+"Marginal costing never considers fixed cost"
+],
+"a": 1
+},
+{
+"q": "What happens to fixed cost per unit when production increases?",
+"o": [
+"It remains constant",
+"It increases",
+"It decreases",
+"It becomes zero"
+],
+"a": 2
+},
+{
+"q": "If the P/V ratio increases, what happens to the break-even point (in rupees)?",
+"o": [
+"It increases",
+"It decreases",
+"It remains unchanged",
+"Cannot determine"
+],
+"a": 1
+},
+{
+"q": "Which decision is least appropriate based on marginal costing?",
+"o": [
+"Accepting a special order at a lower price",
+"Make vs buy decision",
+"Product mix under limited capacity",
+"Long-term pricing for strategic positioning"
+],
+"a": 3
+},
+{
+"q": "The difference in profit between absorption and marginal costing arises due to:",
+"o": [
+"Different sales levels",
+"Different treatments of variable cost",
+"Inventory valuation differences",
+"Treatment of direct labor"
+],
+"a": 2
+},
+{
+"q": "Under marginal costing, closing stock is valued at:",
+"o": [
+"Full cost (direct + variable + fixed overhead)",
+"Variable cost per unit",
+"Replacement cost",
+"Market price"
+],
+"a": 1
+},
+{
+"q": "A company is operating at 80% capacity. A special order is received for 1,000 units at ₹120 each. Variable cost is 90 per unit. Should the order be accepted?",
+"o": [
+"No, price is too low",
+"Yes, contribution is 30 per unit",
+"No, fixed cost will increase",
+"Yes, fixed cost is saved"
+],
+"a": 1
+},
+{
+"q": "A product yields a contribution of 60 per unit. A customer offers 500 per unit for 50 extra units. Variable cost per unit is 440. Should the offer be accepted?",
+"o": [
+"No, price is too low",
+"Yes, contribution is positive",
+"Only if fixed cost decreases",
+"Yes, profit is 60 per unit"
+],
+"a": 1
+},
+{
+"q": "The variable cost of a product is 50, and fixed cost per unit is 30. There is idle capacity. What is the transfer price under marginal costing?",
+"o": [
+"50",
+"80",
+"30",
+"0"
+],
+"a": 0
+},
+{
+"q": "A division can sell its product in the open market at 100. The variable cost is 60. What should be the minimum transfer price if the division is at full capacity?",
+"o": [
+"60",
+"70",
+"80",
+"100"
+],
+"a": 3
+},
+{
+"q": "A division has 1,000 units of idle capacity. Variable cost per unit 45. It can transfer units to another division or sell externally for 60. What is the opportunity cost of internal transfer?",
+"o": [
+"60",
+"15",
+"45",
+"0"
+],
+"a": 3
+},
+{
+"q": "If the selling division is working at full capacity and transfers internally at marginal cost, the likely impact is:",
+"o": [
+"Division earns profit",
+"Division incurs loss",
+"Division loses external contribution",
+"No impact on profit"
+],
+"a": 2
+},
+{
+"q": "A buying division is offered a component internally at 70. External market price is 265. Should it buy internally if internal cost is 50?",
+"o": [
+"Yes, 270 is better",
+"No, market price is lower",
+"Yes, internal cost is lower than market",
+"No, fixed cost is not recovered"
+],
+"a": 1
+},
+{
+"q": "Selling Division: VC = 35, External Price = 50. Internal Transfer Price = 35. If 1,000 units are transferred, what is total opportunity cost?",
+"o": [
+"20",
+"35,000",
+"15,000",
+"50,000"
+],
+"a": 2
+},
+{
+"q": "A company has fixed costs of ₹50,000 and variable costs of 20 per unit. Selling price is 50 per unit. What is the break-even sales in units?",
+"o": [
+"1,250",
+"2,500",
+"3,333",
+"1,667"
+],
+"a": 3
+},
+{
+"q": "In marginal costing, profit is maximum when:",
+"o": [
+"Marginal cost equals marginal revenue",
+"Contribution equals fixed cost",
+"Fixed cost equals variable cost",
+"Total cost equals total revenue"
+],
+"a": 0
+},
+{
+"q": "Which of the following is a correct reason to accept a special order in marginal costing?",
+"o": [
+"It results in positive contribution",
+"It increases fixed costs",
+"It reduces P/V ratio",
+"It affects stock value"
+],
+"a": 0
+},
+{
+"q": "In make-or-buy decisions using marginal costing, which cost is always relevant?",
+"o": [
+"Allocated head office expenses",
+"Sunk cost",
+"Variable production cost",
+"Apportioned rent"
+],
+"a": 2
+},
+{
+"q": "A division transfers goods internally at marginal cost. What is a key disadvantage?",
+"o": [
+"Overstatement of division's profit",
+"Under-recovery of fixed costs",
+"Double counting of variable cost",
+"Increased total cost"
+],
+"a": 1
 }
 ]
