@@ -1198,5 +1198,405 @@
 "All of the above"
 ],
 "a": 3
+},
+{
+"q": "The standard cost card contains quantities and costs for",
+"o": [
+"Direct material only",
+"Direct labour only",
+"Direct material and direct labour only",
+"Direct material. direct labour, and overhead"
+],
+"a": 3
+},
+{
+"q": "Standards differ from budgets in that:",
+"o": [
+"Budgets but not standards may be used in valuing inventories",
+"Budgets but not standards may be journalized and",
+"Budgets are a total amount and standards are a unit amount",
+"Only budgets contribute to management posted planning and control"
+],
+"a": 2
+},
+{
+"q": "Standard Costs:",
+"o": [
+"Are imposed by governmental agencies",
+"Are predetermined unit costs which companies use as measures of performance",
+"Can be used by manufacturing companies but not by service or not-for- profit companies",
+"All of the above"
+],
+"a": 1
+},
+{
+"q": "The advantages of standard costs include all of the following except:",
+"o": [
+"Management by exception may be used",
+"Management planning is facilitated",
+"They may simplify the costing of inventories",
+"Management must use a static budget"
+],
+"a": 3
+},
+{
+"q": "Normal standards:",
+"o": [
+"Allow for rest periods, machine breakdowns, and setup time",
+"Represent perfect performance levels under ideal operating conditions",
+"Are rarely used because managers believe they lower workforce morale",
+"Are more likely than ideal standards to result in unethical practices"
+],
+"a": 0
+},
+{
+"q": "The setting of standards is:",
+"o": [
+"A managerial accounting decision",
+"A management decision",
+"A worker decision",
+"Preferably set at the ideal level of performance"
+],
+"a": 1
+},
+{
+"q": "Which of the following is correct about the total overhead variance?",
+"o": [
+"Budgeted overhead and budgeted overhead applied are the same",
+"Total actual overhead is composed of variable overhead, fixed overhead, and period costs.",
+"Standard hours actually worked are used in computing the variance",
+"Standard hours allowed for the work done is the measure used in computing the variance"
+],
+"a": 3
+},
+{
+"q": "What is the name given to a budget that has been prepared by re-evaluating activities and comparing the incremental costs of those activities with their incremental benefits?",
+"o": [
+"Incremental budget",
+"Rolling budget",
+"Zero based budget",
+"Flexible budget"
+],
+"a": 2
+},
+{
+"q": "A budget is an instrument of management used as an aid in the",
+"o": [
+"Planning",
+"Programming",
+"Control of business activity",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Following may be regarded as a summary budget",
+"o": [
+"Production budget",
+"Master budget",
+"Cash budget",
+"Sales budget"
+],
+"a": 1
+},
+{
+"q": "Purchases budget is prepared using the information from:",
+"o": [
+"Capital expenditure budget",
+"Materials budget",
+"Both (1) and (2)",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "Following budget may be compiled on departmental basis:",
+"o": [
+"Production budget",
+"Purchase budget",
+"Materials budget",
+"All of the above"
+],
+"a": 0
+},
+{
+"q": "Production budget is based upon:",
+"o": [
+"Sales budget",
+"Factory capacity",
+"Availability of raw material and labour",
+"All of the above."
+],
+"a": 3
+},
+{
+"q": "Budget includes:",
+"o": [
+"Income",
+"Expenditure",
+"Employment of capital",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "A budget should be:",
+"o": [
+"Rigid",
+"Flexible",
+"Both (1) and (2)",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "The object of budgetary control is",
+"o": [
+"Planning",
+"Forecasting",
+"Organizing",
+"Directing"
+],
+"a": 0
+},
+{
+"q": "The budget which is dynamic is",
+"o": [
+"Flexible budget",
+"Sales budget",
+"Cash budget",
+"Purchase budget"
+],
+"a": 1
+},
+{
+"q": "The process of budgeting helps in the control of:",
+"o": [
+"Cost of production",
+"Liquidity",
+"Capital Expenditure",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Plant utilization budget and Manufacturing overhead budgets are types of:",
+"o": [
+"Production budget",
+"Sales budget",
+"Cost budget",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "R&D budget and Capital expenditure budget are examples of:",
+"o": [
+"Short-term budget",
+"Current budget",
+"Long-term budget",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "The scare factors is also known as:",
+"o": [
+"Key factor",
+"Abnormal factor",
+"Linking factor",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "What is the name given to a budget that has been prepared by re- evaluating activities and comparing the incremental costs of those activities with their incremental benefits?",
+"o": [
+"Incremental budget",
+"Rolling budget",
+"Zero based budget",
+"Flexible budget"
+],
+"a": 2
+},
+{
+"q": "A budget is an instrument of management used as an aid in the",
+"o": [
+"Planning",
+"Programming",
+"Control of business activity",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Following may be regarded as a summary budget",
+"o": [
+"Production budget",
+"Master budget",
+"Cash budget",
+"Sales budget"
+],
+"a": 1
+},
+{
+"q": "Purchases budget is prepared using the information from:",
+"o": [
+"Capital expenditure budget",
+"Materials budget",
+"Both (1) and (2)",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "Following budget may be compiled on departmental basis:",
+"o": [
+"Production budget",
+"Purchase budget",
+"Materials budget",
+"All of the above"
+],
+"a": 0
+},
+{
+"q": "Production budget is based upon:",
+"o": [
+"Sales budget",
+"Factory capacity",
+"Availability of raw material and labour",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "A budget should be:",
+"o": [
+"Rigid",
+"Flexible",
+"Both (1) and (2)",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "The object of budgetary control is",
+"o": [
+"Planning",
+"Forecasting",
+"Organizing",
+"Directing"
+],
+"a": 0
+},
+{
+"q": "The budget which is dynamic is",
+"o": [
+"Flexible budget",
+"Sales budget",
+"Cash budget",
+"Purchase budget"
+],
+"a": 1
+},
+{
+"q": "The process of budgeting helps in the control of:",
+"o": [
+"Cost of production",
+"Liquidity",
+"Capital Expenditure",
+"All of the above"
+],
+"a": 3
+},
+{
+"q": "Plant utilization budget and Manufacturing overhead budgets are types of:",
+"o": [
+"Production budget",
+"Sales budget",
+"Cost budget",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "R&D budget and Capital expenditure budget are examples of:",
+"o": [
+"Short-term budget",
+"Current budget",
+"Long-term budget",
+"None of the above"
+],
+"a": 2
+},
+{
+"q": "The scare factors is also known as:",
+"o": [
+"Key factor",
+"Abnormal factor",
+"Linking factor",
+"None of the above"
+],
+"a": 0
+},
+{
+"q": "A company usually determines the appropriate degree of decentralization based on a combination of the",
+"o": [
+"Managers personal characteristics",
+"Nature of decisions required for organizational growth",
+"Types of organizational lactivities in which the company is engaged",
+"All of these"
+],
+"a": 3
+},
+{
+"q": "Major disadvantages of Decentralization are",
+"o": [
+"Can result in a lack of goal congruence or sub optimization by sub-unit managers",
+"Requires more effective communication abilities because decision making is removed from the home office",
+"Helps top management recognizes and develop managerial talent",
+"Both 1 and 2"
+],
+"a": 3
+},
+{
+"q": "Which of the following is/are not benefit/s of Decentralization?",
+"o": [
+"Greater awareness of local problems",
+"Allows managerial performance to be comparatively evaluated",
+"Creates personnel difficulties upon introduction, especially if managers are unwilling to delegate effectively",
+"Develops skill level of junior managers"
+],
+"a": 2
+},
+{
+"q": "Return on Equity =",
+"o": [
+"Net Profit Margin x Asset Turnover Ratio Financial Leverage",
+"Gross Profit Margin Asset Turnover Ratio x Financial Leverage",
+"Net Profit Margin x Inventory Turnover Ratio x Financial Leverage",
+"Net Profit Margin x Asset Turnover Ratio Operating Leverage"
+],
+"a": 0
+},
+{
+"q": "According to DuPont methodology, three main financial parameters that drive Return on Equity (ROE) are",
+"o": [
+"(1) Employee performance, (2) Asset usage performance, and (3) Financial leverage.",
+"(1) Operating performance, (2) Asset usage performance, and (3) Financial leverage.",
+"(1) Operating performance, (2) Inventory usage performance, and (3) Financial leverage.",
+"(1) Operating performance, (2) Asset usage performance, and (3) Operating leverage."
+],
+"a": 1
+},
+{
+"q": "Asset usage performance means",
+"o": [
+"a very basic profitability ratio",
+"Total Asset Turnover (Turnover Total Assets)",
+"the use of debt to acquire additional assets or fund projects",
+"None of these"
+],
+"a": 1
 }
 ]
