@@ -1,1 +1,702 @@
-
+[
+{
+"q": "OM deals with",
+"o": [
+"both tangible and intangible product",
+"tangible product",
+"intangible services",
+"tangible product and intangible services"
+],
+"a": 3
+},
+{
+"q": "One of the example of pure service:",
+"o": [
+"teaching",
+"product service",
+"repairing service",
+"All of the above"
+],
+"a": 0
+},
+{
+"q": "Objectives of operations management can be categorized into",
+"o": [
+"two",
+"three",
+"four",
+"seven"
+],
+"a": 0
+},
+{
+"q": "One of the objective of operation management is",
+"o": [
+"product service",
+"Customer service",
+"planning",
+"None of them"
+],
+"a": 1
+},
+{
+"q": "Principal function of customer service are",
+"o": [
+"manufacture-supply-transport-service",
+"manufacture-transport-service-supply",
+"mafucture- service-transport- supply",
+"manufacture-transport-supply-service"
+],
+"a": 3
+},
+{
+"q": "The desired objective of Production and Operations Management is:",
+"o": [
+"Use cheap machinery to produce",
+"To train unskilled workers to manufacture goods perfectly",
+"Optimal utilisation of available resources",
+"To earn good profits."
+],
+"a": 2
+},
+{
+"q": "Which one of the following is not an activity under productions and operations management?",
+"o": [
+"Location of facilities",
+"Plant layouts and Material Handling",
+"Product Design;",
+"Market penetration;"
+],
+"a": 3
+},
+{
+"q": "Operations management is concerned essentially with the utilization of resources. Utilisation of resources means",
+"o": [
+"Obtaining maximum effect from resources",
+"Minimising loss of resources,",
+"Minimising underutilisation or waste of resources",
+"All the above"
+],
+"a": 3
+},
+{
+"q": "Which one of the following is not an objective of Operations Management?",
+"o": [
+"To satisfy customers by providing right thing at the right place at the right time",
+"To satisfy customers by providing right thing at the right price at the right time",
+"To satisfy customers by providing right thing at the right price at right quality",
+"To satisfy customers by providing right thing with right design with desired features"
+],
+"a": 1
+},
+{
+"q": "Productions and Operations Management distinguishes itself from other functions such as personnel, marketing, finance, etc. mainly by its primary concern:",
+"o": [
+"Conversion by using intellectual properties of a concern;",
+"Conversion by using physical resources",
+"Conversion by using services provided by other functions",
+"Conversion by using machineries"
+],
+"a": 1
+},
+{
+"q": "Four dimensions of competitiveness that measure the effectiveness of the operations function are",
+"o": [
+"Cost, Quality, Dependability as a supplier, Flexibility",
+"Price, worth, Dependability as a supplier, Productivity",
+"Quantity, Quality, Price, Worth",
+"Cost, Quality, Quantity, Price"
+],
+"a": 0
+},
+{
+"q": "Generally the size of the order for production in Job production is:",
+"o": [
+"Small",
+"Large",
+"Medium",
+"Very large"
+],
+"a": 0
+},
+{
+"q": "The desired objective of Production and Operations Management is:",
+"o": [
+"Use cheap machinery to produce",
+"To train unskilled workers to manufacture goods perfectly",
+"Optimal utilisation of available resources",
+"To earn good profits."
+],
+"a": 2
+},
+{
+"q": "To decide work load for men and machines:",
+"o": [
+"Medium range forecasting is used",
+"Short term forecasting is used",
+"Long range forecasting is used",
+"A combination of long range and medium range forecasting is used."
+],
+"a": 1
+},
+{
+"q": "The act of assessing the future and make provisions for it is known as",
+"o": [
+"Planning",
+"Forecasting",
+"Assessment",
+"Scheduling"
+],
+"a": 1
+},
+{
+"q": "The time horizon selected for forecasting depends on:",
+"o": [
+"The salability of the product",
+"The selling capacity of Salesman",
+"Purpose for which forecast is made",
+"Time required for production cycle"
+],
+"a": 2
+},
+{
+"q": "Important factor in forecasting production is:",
+"o": [
+"Environmental changes",
+"Available capacity of machines",
+"Disposable income of the consumer",
+"Changes in the preference of the consumer."
+],
+"a": 1
+},
+{
+"q": "Application of technology or process to the raw material to add use value is known as:",
+"o": [
+"Product",
+"Production",
+"Application of technology",
+"Combination of technology and process."
+],
+"a": 1
+},
+{
+"q": "In Production by disintegration the material undergoes:",
+"o": [
+"Change in economic value only",
+"Change in physical and chemical characteristics",
+"Change in technology only",
+"None of the above"
+],
+"a": 1
+},
+{
+"q": "Use of any process or procedure designed to transform a set of input elements into a set of output elements is known as:",
+"o": [
+"Transformation process",
+"Transformation of input to output",
+"Production",
+"Technology change."
+],
+"a": 2
+},
+{
+"q": "Conversion of inputs into outputs is known as:",
+"o": [
+"Application of technology",
+"Operations management",
+"Manufacturing products",
+"Product."
+],
+"a": 1
+},
+{
+"q": "Which one of the following is the external factor impacting effective capacity?",
+"o": [
+"Product standards",
+"Scheduling",
+"Motivation",
+"Product mix"
+],
+"a": 0
+},
+{
+"q": "Increasing capacity utilisation depends on",
+"o": [
+"Ability to increase design capacity",
+"Ability to increase effective capacity",
+"Ability to increase capacity chunk",
+"Ability to increase resource endowments"
+],
+"a": 1
+},
+{
+"q": "Which one of the following is not within the purview of Long Range planning?",
+"o": [
+"Building a new facility",
+"Expanding the existing facility",
+"Moving to a new facility due to forecasted changes in demand",
+"Preparation of overtime budget for workforce"
+],
+"a": 3
+},
+{
+"q": "The basic difference between slack and float time is that",
+"o": [
+"A slack is used with reference to events whereas float is used with reference to activities",
+"A float is used with reference to events whereas slack is used with reference to activities",
+"A slack is used with reference to critical path whereas float is used with reference to non-critical paths",
+"A slack is used with reference to scheduling whereas float is used with reference to crashing"
+],
+"a": 0
+},
+{
+"q": "Which one of the following is not a factor in determining Economic Lot Size for manufacturing?",
+"o": [
+"Production Schedule",
+"Usage rate",
+"Manufacturing Cost",
+"Cost of Deterioration"
+],
+"a": 0
+},
+{
+"q": "Which one of the following is not a factor in planning service capacity",
+"o": [
+"Period of production",
+"Need to be near customers",
+"Inability to store services",
+"Degree of volatility of demand"
+],
+"a": 0
+},
+{
+"q": "It is extra capacity used to offset demand uncertainty. This is",
+"o": [
+"Capacity Cushion = Actual output - Demand",
+"Capacity Cushion = Capacity - Expected demand",
+"Capacity Tolerance = Effective capacity - Actual output",
+"Capacity Cushion = Capacity - Effective Capacity"
+],
+"a": 1
+},
+{
+"q": "Which one of the following is correct?",
+"o": [
+"Capacity decision does not affect product lead times",
+"Capacity decisions must link backward & forward channels in the whole operation chain",
+"Expansionist strategy does not help a firm to reduce its costs and compete on price",
+"Wait & see strategy improves market share over the long run"
+],
+"a": 1
+},
+{
+"q": "Leading capacity strategy",
+"o": [
+"Builds capacity in anticipation of increasing future demand",
+"Faces increasing demand with the current capacity undeutilised",
+"Builds capacity in anticipation of increasing product varieties",
+"Faces increasing consumption with unsold stock"
+],
+"a": 0
+},
+{
+"q": "Which one of the following does not reduce effective capacity?",
+"o": [
+"Paperwork required by Government regulatory agencies",
+"Pollution standard on products",
+"Efficient distributors",
+"Higher labour turnover"
+],
+"a": 2
+},
+{
+"q": "Which one of the following is an operational factor that determines effective capacity?",
+"o": [
+"Product standards",
+"Quality capabilities",
+"Learning rates",
+"Quality assurance"
+],
+"a": 3
+},
+{
+"q": "Which one of the following is not a factor impacting effective capacity?",
+"o": [
+"The design of facilities",
+"Product mix",
+"Layout of the work space",
+"Market share"
+],
+"a": 3
+},
+{
+"q": "Benefits of high utilisation are realised only when",
+"o": [
+"Effective capacity is fully achieved",
+"There is high efficiency",
+"Breakdown maintenances are minimum",
+"There is demand for output"
+],
+"a": 3
+},
+{
+"q": "Key to improving capacity utilisation is",
+"o": [
+"To increase effective capacity",
+"To increase design capacity",
+"To decrease effective capacity",
+"To increase maintenance frequency of the capacity"
+],
+"a": 0
+},
+{
+"q": "Utilisation of an operation facility is measured by",
+"o": [
+"(Effective Capacity)/(Design Capacity)*100",
+"(Actual Output)/(Design Cpacity)*100",
+"(Actual output)/(Effective Capacity)*100",
+"(Design Capacity)/(Effective Capacity)*100"
+],
+"a": 1
+},
+{
+"q": "Efficiency of an operation facility is measured by",
+"o": [
+"(Effective Capacity)/(Design Capacity)*100",
+"(Actual Output)/(Design Cpacity)*100",
+"(Actual output)/(Effective Capacity)*100",
+"(Design Capacity)/(Effective Capacity)*100"
+],
+"a": 2
+},
+{
+"q": "Which one of the following questions are not answered by Capacity planning?",
+"o": [
+"What kind of capacity is needed?",
+"How much is needed to match demand?",
+"When is it needed?",
+"For whom it is needed?"
+],
+"a": 2
+},
+{
+"q": "Out of Balance Capacity occurs",
+"o": [
+"When there is a gap between supply and demand",
+"When there is a gap between long term supply and long term demand",
+"When there is a gap between current and desired capacity",
+"When there is a gap between actual supply and EOQ supply"
+],
+"a": 2
+},
+{
+"q": "The goal of capacity planning of an organisation is",
+"o": [
+"To achieve a match between its long term supply capabilities and the actual level of long term demand",
+"To achieve a level of operation so that supply failure could be maintained at <= 1% of long term demand",
+"To achieve a level of operation so that periodic mean operation remain within 95% of long term demand",
+"To achieve a match between its long term supply capabilities and the predicted level of long term demand"
+],
+"a": 3
+},
+{
+"q": "Capacity refers to",
+"o": [
+"An upper limit or ceiling on the load that an operating unit can handle",
+"A range from a lower limit to an upper limit of load through which an operating unit could operate",
+"A limit on the load that an operating unit could handle only with 5% deviation",
+"An upper limit of load which an operating unit could break during emergency"
+],
+"a": 0
+},
+{
+"q": "This denotes the highest output established by the actual trial runs of the productive machines installed. This is",
+"o": [
+"Design capacity",
+"Rated capacity",
+"Effective capacity",
+"Licensed capacity"
+],
+"a": 1
+},
+{
+"q": "Which one of the following is not a key question in Capacity planning?",
+"o": [
+"What kind of capacity is needed?",
+"What kind of facilities are needed?",
+"How much capacity is needed to match demand?",
+"When the capacity is it needed?"
+],
+"a": 1
+},
+{
+"q": "Capacity Utilisation is",
+"o": [
+"The degree to which a resource such as equipment, space or the workforce is currently being used",
+"The degree to which a resource such as equipment, space or the workforce is currently being held as reserve",
+"The degree to which a resource such as equipment, space or the workforce is currently being used for achieving installed capacity",
+"The degree to which a resource such as equipment, space or the workforce is currently being used for achieving optimisation"
+],
+"a": 0
+},
+{
+"q": "Actual Output cannot exceed effective capacity because of",
+"o": [
+"Problems of scheduling & balancing operations",
+"Rejection due to quality problems",
+"Need for periodic maintenance of equipment",
+"Changing product mix"
+],
+"a": 1
+},
+{
+"q": "Need for periodic maintenance of equipment always makes",
+"o": [
+"Licensed capacity > Installed capacity",
+"Installed capacity < Effective capacity",
+"Design capacity > Effective capacity",
+"Licensed capacity = Effective capacity"
+],
+"a": 2
+},
+{
+"q": "If design capacity is reduced by allowances such as personal time and maintenance, the resultant capacity is",
+"o": [
+"Design capacity",
+"Effective capacity",
+"Installed capacity",
+"Licensed capacity"
+],
+"a": 1
+},
+{
+"q": "This capacity is the maximum rate of output achieved under ideal conditions. This is",
+"o": [
+"Design capacity",
+"Effective capacity",
+"Installed capacity",
+"Licensed capacity"
+],
+"a": 0
+},
+{
+"q": "Which one of the following is an output measure of Capacity?",
+"o": [
+"Total capacity of AKC Motors in India is 300000 machine hours in a year",
+"Total Capacity of Z steel plant is 720000labour hours in a year",
+"The Aluminum giant XYZ produces 30mt in a day",
+"The oil conglomerate ABC has 80000gallon refinery size"
+],
+"a": 2
+},
+{
+"q": "Which one of the following is a feature of input measure of capacity?",
+"o": [
+"It is less applicable when the amount of customization and variety in the product mix increases",
+"It is used mainly in case of high volume processes such as car manufacturers",
+"Capacity is usually expressed as number of workstations or number of workers",
+"It is applicable. when the firm provides a relatively small number of standardized services and products"
+],
+"a": 2
+},
+{
+"q": "Which one of the following is not a feature of output measure of capacity?",
+"o": [
+"It is applicable when the firm provides a relatively small number of standardized services and products",
+"It is used mainly in case of high volume processes such as car manufacturers",
+"It is generally used for low volume, flexible processes such as furniture maker",
+"It is less applicable when the amount of customization and variety in the product mix increases"
+],
+"a": 2
+},
+{
+"q": "Which one of the following is a feature of wait and see strategy?",
+"o": [
+"It facilitates a firm to compete on price; It involves large infrequent jumps in capacity",
+"It guards against inaccurate assumptions regarding competition",
+"It might increase the firm's market share",
+"It results economies of scale"
+],
+"a": 1
+},
+{
+"q": "Which one of the following is not a feature of expansionist strategy?",
+"o": [
+"It minimizes the chance of sales lost to insufficient capacity",
+"It stays ahead of demand",
+"It lags behind demand",
+"It builds capacity in anticipation of demand"
+],
+"a": 3
+},
+{
+"q": "Large capacity cushions are common in industries in which",
+"o": [
+"Demand is constant",
+"Customer service is not a priority",
+"Customer service is not a priority",
+"Competition is sluggish"
+],
+"a": 2
+},
+{
+"q": "The capacity cushion is",
+"o": [
+"The amount of installed capacity a process uses to handle sudden increase in demand",
+"The amount of licensed capacity a process uses to handle sudden increase in demand",
+"The amount of declared capacity a process uses to handle sudden increase in demand",
+"The amount of reserve capacity a process uses to handle sudden increase in demand"
+],
+"a": 3
+},
+{
+"q": "Capacity decisions are strategic because",
+"o": [
+"Capacity decisions affect financing costs",
+"Capacity decisions can affect facility location",
+"Capacity at appropriate level facilitates easier management of product life cycle",
+"Capacity decisions can affect competitiveness"
+],
+"a": 3
+},
+{
+"q": "Capacity decisions often involve",
+"o": [
+"Long term irrevocable commitment of resources",
+"Short term irrevocable commitment of resources",
+"Long term revocable commitment of resources",
+"(b) & (c) above"
+],
+"a": 0
+},
+{
+"q": "Long-term capacity plans are concerned with",
+"o": [
+"Overtime budgets",
+"Investments in new facilities",
+"Work force size",
+"Inventories"
+],
+"a": 1
+},
+{
+"q": "Capacity planning procedure does not involve which one of the following?",
+"o": [
+"Assess company situation and environment to analyse historical demand",
+"Translate future predictions of demand into physical capacity requirements",
+"Determine economic effects of alternative plans",
+"Selecting a capacity alternative most suited to achieve strategic mission of the firm."
+],
+"a": 0
+},
+{
+"q": "Which one of the following is not affected by Capacity decisions?",
+"o": [
+"Product lead times",
+"Customer Responsiveness",
+"Operating Costs",
+"Resource optimisation"
+],
+"a": 3
+},
+{
+"q": "Capacity planning is a",
+"o": [
+"Long term makeover decision that establishes a firm's overall level of resources",
+"Long term realignment decision that establishes a firm's overall level of resources",
+"Long term restructuring decision that establishes a firm's overall level of resources",
+"Long term strategic decision that establishes firm's overall level of resources"
+],
+"a": 3
+},
+{
+"q": "Which one of the following is the result of excess capacity?",
+"o": [
+"Loss of customers",
+"Restricts growth",
+"Drain company's resources",
+"All the above"
+],
+"a": 2
+},
+{
+"q": "Aggregate Resource Planning becomes a challenge when demand fluctuates over the planning horizon. Under this case which one of the following is correct?",
+"o": [
+"Demand forecasts are converted to resource requirements",
+"Producing at a constant rate and using inventory to absorb fluctuations in demand",
+"Resources necessary to meet demand over the time horizon are acquired",
+"Minor variations in demand are handled with overtime or under time"
+],
+"a": 1
+},
+{
+"q": "The four step systematic approach to plan for long term capacity decisions does not involve",
+"o": [
+"Estimate future productivity requirement",
+"Estimate future capacity requirements",
+"Identify gaps by comparing requirements with available capacity",
+"Develop alternative plans for reducing the gaps."
+],
+"a": 0
+},
+{
+"q": "In operation sequence if capacity of a facilty is lower than the capacities of other facilities in the sequence it is",
+"o": [
+"Unutilised operation",
+"Flexible operation",
+"Rigid operation",
+"Bootleneck operation"
+],
+"a": 3
+},
+{
+"q": "Which one of the following is not an objective of MRP?",
+"o": [
+"Inventory Reduction",
+"Realistic delivery commitments",
+"Reduction in the manufacturing and delivery lead times",
+"Reasonable production schedule"
+],
+"a": 3
+},
+{
+"q": "Which one of the following is not a characteristics of Aggregate Planning?",
+"o": [
+"Both output and sales should be expressed in a logical overall unit of measuring",
+"Acceptable forecast for the period covering the whole planning horizon",
+"A method of identification and fixing the relevant costs associated with the plant.",
+"Availability of alternatives for meeting the objective of the organization"
+],
+"a": 1
+},
+{
+"q": "Which one of the following is correct with respect to long range forecast?",
+"o": [
+"It is used to determine budgetary control over expenses",
+"It is used to determine dividend policy",
+"It is used to plan for capacity adjustments",
+"It is used to plan for material requirement"
+],
+"a": 3
+},
+{
+"q": "The card which is prepared by the dispatching department to book the labour involved in each operation is:",
+"o": [
+"Labour card",
+"Wage card",
+"Credit card",
+"Job card"
+],
+"a": 3
+},
+{
+"q": "One of the product examples for Line Layout is:",
+"o": [
+"Repair Workshop",
+"Welding shop",
+"Engineering College",
+"Cement"
+],
+"a": 3
+}
+]
