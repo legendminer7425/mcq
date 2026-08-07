@@ -1198,5 +1198,1255 @@
 "equity"
 ],
 "a":0
+},
+{
+"q":"On the basis of working capital is classified as gross working capital and net working capital.",
+"o":[
+"concept",
+"time",
+"future",
+"work"
+],
+"a":0
+},
+{
+"q":"cycle analyzes the accounts receivable, inventory, and accounts payable cycles in terms of a number of days?",
+"o":[
+"Business",
+"Current asset",
+"Operation",
+"Operating"
+],
+"a":3
+},
+{
+"q":"method is not used for calculating working capital cycle.",
+"o":[
+"Trial and error method",
+"Regression analysis method",
+"Percentage of sales method",
+"Operating cycle approach"
+],
+"a":0
+},
+{
+"q":"On the basis of working capital may be classified as: 1) Permanent or fixed working capital. 2) Temporary or variable working capital.",
+"o":[
+"concept",
+"time",
+"future",
+"work"
+],
+"a":1
+},
+{
+"q":"Operating cycle is also called as",
+"o":[
+"Business cycle",
+"Working capital cycle",
+"Working cycle",
+"Current asset cycle"
+],
+"a":1
+},
+{
+"q":"Spontaneous financing consists of",
+"o":[
+"a line of credit",
+"short-term loans",
+"accounts receivable",
+"accounts payable"
+],
+"a":3
+},
+{
+"q":"Conversation of marketable securities into cash entails a fixed cost of Rs.1,000 per transaction. What will be the optimal conversation size as per Baumol model of cash management?",
+"o":[
+"Rs. 315,628",
+"Rs. 316,228",
+"Rs. 317,678",
+"Rs. 318,426"
+],
+"a":1
+},
+{
+"q":"Average collection period is 2 months, cash sales and average receivables are Rs.5,00,000 and Rs.6,50,000 respectively. The sales amount would be-",
+"o":[
+"Rs. 40,00,000",
+"Rs. 42,00,000",
+"Rs. 44,00,000",
+"Rs. 48,50,000"
+],
+"a":2
+},
+{
+"q":"If the current ratio is 2.4:1 and working capital is Rs.25,20,000, find the amount of current assets and current liabilities.",
+"o":[
+"Current Assets Rs. 43,20,000 and Current Liabilities Rs.18,00,000",
+"Current Assets Rs. 44,00,000 and Current Liabilities Rs.18,50,000",
+"Current Assets Rs. 45,50,000 and Current Liabilities Rs. 19,00,000",
+"Current Assets Rs. 46,60,000 and Current Liabilities Rs. 19,30,000"
+],
+"a":0
+},
+{
+"q":"Operating leverage helps in analysis of:",
+"o":[
+"Business Risk",
+"Financing Risk",
+"Production Risk",
+"Credit Risk"
+],
+"a":0
+},
+{
+"q":"Which of the following is studied with the help of financial leverage?",
+"o":[
+"Marketing Risk",
+"Interest Rate Risk",
+"Foreign Exchange Risk",
+"Financing risk"
+],
+"a":3
+},
+{
+"q":"Combined Leverage is obtained from OL and FL by their:",
+"o":[
+"Addition",
+"Subtraction",
+"Multiplication",
+"Any of these"
+],
+"a":2
+},
+{
+"q":"High degree of financial leverage means:",
+"o":[
+"High debt proportion",
+"Lower debt proportion",
+"Equal debt and equity",
+"No debt"
+],
+"a":0
+},
+{
+"q":"Operating leverage arises because of:",
+"o":[
+"Fixed Cost of Production",
+"Fixed Interest Cost",
+"Variable Cost",
+"Step Cost"
+],
+"a":0
+},
+{
+"q":"Financial Leverage arises because of:",
+"o":[
+"Fixed cost of production",
+"Variable Cost",
+"Interest Cost",
+"Step Cost"
+],
+"a":2
+},
+{
+"q":"Operating Leverage is calculated as:",
+"o":[
+"Contribution EBIT",
+"EBIT-PBT",
+"EBIT Interest",
+"EBIT-Tax"
+],
+"a":0
+},
+{
+"q":"Financial Leverage is calculated as:",
+"o":[
+"EBIT-Contribution",
+"EBIT PBT",
+"EBIT- Sales",
+"EBIT Variable Cost"
+],
+"a":1
+},
+{
+"q":"Which combination is generally good for firms?",
+"o":[
+"High Operating leverage, High Financial leverage",
+"Low Operating leverage, Low Financial leverage",
+"High Operating leverage, Low Financial leverage",
+"Moderate Operating leverage. Moderate Financial leverage"
+],
+"a":2
+},
+{
+"q":"Combined leverage can be used to measure the relationship between:",
+"o":[
+"EBIT and EPS",
+"PAT and EPS",
+"Sales and EPS",
+"Sales and EBIT"
+],
+"a":2
+},
+{
+"q":"Financial Leverage is zero if:",
+"o":[
+"EBIT Interest",
+"EBIT Zero",
+"EBIT Fixed Cost",
+"EBIT Pref. Dividend"
+],
+"a":1
+},
+{
+"q":"Business risk can be measured by:",
+"o":[
+"Financial leverage",
+"Operating leverage",
+"Combined leverage",
+"All of the above"
+],
+"a":1
+},
+{
+"q":"Financial Leverage measures relationship between",
+"o":[
+"EBIT and PBT",
+"EBIT and EPS",
+"Sales and PBT",
+"Sales and EPS"
+],
+"a":1
+},
+{
+"q":"Use of Preference Share Capital in Capital structure",
+"o":[
+"Increases Operating leverage",
+"Increases Financial leverage",
+"Decreases Operating leverage",
+"Decreases Financial leverage"
+],
+"a":1
+},
+{
+"q":"Relationship between change in sales and change in EPS is measured by:",
+"o":[
+"Financial leverage",
+"Combined leverage",
+"Operating leverage",
+"All of the above."
+],
+"a":1
+},
+{
+"q":"Numerical data may be expressed as:",
+"o":[
+"In the form of text",
+"In the form of numbers",
+"In the form of images",
+"All of the above"
+],
+"a":1
+},
+{
+"q":"The descriptive data may be deciphered as:",
+"o":[
+"May be deciphered in the form of qualitative information",
+"May be deciphered in the form of quantitative information",
+"May be deciphered in the form of information from informal sources",
+"All of the above"
+],
+"a":0
+},
+{
+"q":"Data represented in the form of picture is termed as:",
+"o":[
+"Graphic data",
+"Qualitative data",
+"Quantitative data",
+"All of the above"
+],
+"a":0
+},
+{
+"q":"Which of the following is/are the reason for digitization?",
+"o":[
+"Helps in work processing",
+"Requires less physical storage space",
+"Digitized records may be accessed by more than one person simultaneously",
+"All of the above"
+],
+"a":1
+},
+{
+"q":"To make the data turn into user friendly information, it should go one/more of following core steps:",
+"o":[
+"Collection of data",
+"Organising the data",
+"Data processing",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"Any data expressed as a number is a data.",
+"o":[
+"graphical",
+"descriptive",
+"numerical",
+"None of the above"
+],
+"a":2
+},
+{
+"q":"Classifying equities into small-cap, mid-cap, and large-cap categories are the examples of Scale",
+"o":[
+"Nominal",
+"Ordinal",
+"Interval",
+"Ratio"
+],
+"a":0
+},
+{
+"q":"Which of the following is a phase for a process of digitization?",
+"o":[
+"Justification of the proposed digitization project",
+"Assessment",
+"Planning",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"Data science plays an important role in:",
+"o":[
+"Risk analytics",
+"Customer data management",
+"Consumer analytics",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"The primary benefit of data distribution is:",
+"o":[
+"the estimation of the probability of any certain observation within a sample space",
+"the estimation of the probability of any certain observation within a non- sample space",
+"the estimation of the probability of any certain observation within a population",
+"the estimation of the probability of any certain observation without a non-sample space"
+],
+"a":0
+},
+{
+"q":"Binomial distribution applies to attributes:",
+"o":[
+"that are categorised into two mutually exclusive and exhaustive classes",
+"that are categorised into three mutually exclusive and exhaustive classes",
+"that are categorised into less than two mutually exclusive and exhaustive classes",
+"that are categorised into four mutually exclusive and exhaustive classes"
+],
+"a":0
+},
+{
+"q":"The geometric distribution is a discrete distribution that assesses:",
+"o":[
+"the probability of the occurrence of the first success",
+"the probability of the occurrence of the second success",
+"the probability of the occurrence of the third success",
+"the probability of the occurrence of the less success"
+],
+"a":0
+},
+{
+"q":"The probability density function describes:",
+"o":[
+"the characteristics of a random variable",
+"the characteristics of a non- random variable",
+"the characteristics of a random constant",
+"the characteristics of a non-random constant"
+],
+"a":0
+},
+{
+"q":"When independent variables with standard normal distribution are squared and added, the distribution occurs.",
+"o":[
+"Normal",
+"Chi square",
+"Exponential",
+"Lognormal"
+],
+"a":1
+},
+{
+"q":"The procedure that organises data into a meaningful order to make it simpler to comprehend, analyse, and visualise, is called",
+"o":[
+"Data validation",
+"Data sorting",
+"Data aggregation",
+"Data analysis"
+],
+"a":1
+},
+{
+"q":"Following is a widely used graph for data Visualisation:",
+"o":[
+"Bar chart",
+"Pie chart",
+"Histogram",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"Following are the objectives of data visualisation:",
+"o":[
+"Making a better data analysis",
+"Faster decision making",
+"Analysing complicated data",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"Following are the scope of DPA:",
+"o":[
+"Defining significant meaning (relevant information) required by each audience member in every scenario.",
+"Obtaining the proper data (focus area, historic reach, extensiveness, level of detail, etc.)",
+"Determining the needed frequency of data refreshes (the currency of the data)",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"Maps may be used for displaying:",
+"o":[
+"Pincode",
+"Country name",
+"State abbreviation",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"A scatter plot displays several unique data points:",
+"o":[
+"on a single graph",
+"On two different graphs",
+"On four different graphs",
+"None of the above"
+],
+"a":0
+},
+{
+"q":"A chart depicts tasks that must be accomplished before others may begin, as well as the allocation of resources.",
+"o":[
+"Bubble",
+"Gantt",
+"Scatter",
+"Density"
+],
+"a":1
+},
+{
+"q":"is a set of skills that aims to identify, find, modify, format, and present data in a manner that ideally conveys meaning and provides insight.",
+"o":[
+"Data Presentation Architecture",
+"Data Presentation Hierarchy",
+"Data Visualization Architecture",
+"None of the above"
+],
+"a":0
+},
+{
+"q":"Which of the following is a data discovery platform that enables users to make quicker, more informed choices by speeding analytics, uncovering new business insights, and enhancing the precision of outcomes?",
+"o":[
+"Microsoft Excel",
+"Microsoft Power BI",
+"Olik View",
+"Tableau"
+],
+"a":2
+},
+{
+"q":"Which of the following is/ are the benefit/ benefits of data analytics?",
+"o":[
+"Improves decision making process",
+"Increase in efficiency of operations",
+"Improved service to stakeholders",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"Which of the following is/are the technique/s of data mining?",
+"o":[
+"Association rules",
+"Neural network",
+"Decision tree",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"XML is the abbreviated form of:",
+"o":[
+"Extensible mark-up language",
+"Extended mark-up language",
+"Extendable mark-up language",
+"Extensive mark-up language"
+],
+"a":0
+},
+{
+"q":"XBRL is the abbreviated form of:",
+"o":[
+"eXtensible Business Reporting Language",
+"eXtensive Business Reporting Language",
+"eXtended Business Reporting Language",
+"eXtensive Business Reporting Language"
+],
+"a":0
+},
+{
+"q":"Which of the following is/ are the types of cloud computing?",
+"o":[
+"Private cloud",
+"Public cloud",
+"Hybrid cloud",
+"All of the above."
+],
+"a":3
+},
+{
+"q":"On the basis of the type of "signal" or "feedback" provided to the learning system, which of the following is not a type of machine learning?",
+"o":[
+"Supervised learning",
+"Unsupervised learning",
+"Semi supervised learning",
+"Robotic Process learning"
+],
+"a":3
+},
+{
+"q":"In recent years, business intelligence has expanded to incorporate more procedures and activities designed to enhance performance. These procedures consist of:",
+"o":[
+"Data mining",
+"Reporting",
+"Querying",
+"All of the above"
+],
+"a":3
+},
+{
+"q":"What does the term "break-even point" refer to?",
+"o":[
+"The point where expenses are double the income",
+"The point at which total revenue equals total costs",
+"The point where profits are at their maximum",
+"The time when a firm repays its debts"
+],
+"a":1
+},
+{
+"q":"Why is it important for a firm to move far from the break-even point?",
+"o":[
+"To increase tax liabilities",
+"To attract new investors",
+"To ensure survival against seasonal fluctuations",
+"To avoid employee layoffs"
+],
+"a":2
+},
+{
+"q":"What is one reason profit maximization is criticized?",
+"o":[
+"It enhances employee satisfaction",
+"It increases the firm's equity base",
+"It can lead to exploitation of workers and consumers",
+"It ensures long-term sustainability"
+],
+"a":2
+},
+{
+"q":"What is a key assumption of the time value of money concept in financial decision-making?",
+"o":[
+"The timing of cash flows affects their value",
+"Cash flows occur at the same time",
+"Money depreciates automatically",
+"Interest rates have no impact on investment"
+],
+"a":0
+},
+{
+"q":"In which situation is the time value of money most relevant?",
+"o":[
+"Evaluating historical costs",
+"Budgeting fixed expenses",
+"Recording daily transactions",
+"Comparing cash flows at different points in time"
+],
+"a":3
+},
+{
+"q":"What is the present value of ₹2,000 receivable 5 years from now at an 8% annual discount rate?",
+"o":[
+"₹1,500.00",
+"1,200.50",
+"1,361.73",
+"₹1,750.20"
+],
+"a":2
+},
+{
+"q":"If the future value remains the same, what happens to present value if the time period increases?",
+"o":[
+"Present value decreases",
+"Present value increases",
+"Present value remains unchanged",
+"Present value becomes zero"
+],
+"a":0
+},
+{
+"q":"What type of risk is caused by factors that affect the entire market or economy?",
+"o":[
+"Unsystematic Risk",
+"Credit Risk",
+"Systematic Risk",
+"Default Risk"
+],
+"a":2
+},
+{
+"q":"Given: Beta 1.2, Risk-free rate = 4%, Expected market return = 12%. What is the expected return on the security?",
+"o":[
+"12%",
+"10.40%",
+"13.60%",
+"15.20%"
+],
+"a":2
+},
+{
+"q":"SPO refers to the second and subsequent time a company raises money from the public directly.",
+"o":[
+"Secondary Public Offering",
+"Second Public Offering",
+"Subsequent Public Offer",
+"Subsequent Public Offering"
+],
+"a":2
+},
+{
+"q":"Which of the following is an example of a non-banking financial intermediary?",
+"o":[
+"LIC (Life Insurance Corporation)",
+"Reserve Bank of India",
+"State Bank of India",
+"Ministry of Finance"
+],
+"a":0
+},
+{
+"q":"What is the primary role of the Reserve Bank of India (RBI)?",
+"o":[
+"To collect taxes from citizens",
+"To maintain India's monetary and financial stability",
+"To manage public sector banks",
+"To regulate stock markets"
+],
+"a":1
+},
+{
+"q":"Which of the following is an example of a sector that may receive refinance support from RBI?",
+"o":[
+"Real estate",
+"Film industry",
+"Retail trade",
+"Export sector"
+],
+"a":3
+},
+{
+"q":"Which of the following assets can be used to maintain Statutory Liquidity Ratio (SLR)?",
+"o":[
+"Personal loans",
+"Government securities, cash, and gold",
+"Real estate investments",
+"Corporate shares"
+],
+"a":1
+},
+{
+"q":"What is the purpose of maintaining CRR?",
+"o":[
+"To increase bank profits",
+"To control inflation only",
+"To ensure banks have enough cash to meet withdrawal needs",
+"To promote stock market investments"
+],
+"a":2
+},
+{
+"q":"What does the Liquidity Adjustment Facility (LAF) primarily deal with?",
+"o":[
+"Managing long-term loans to the government",
+"Daily liquidity injection and absorption through repo and reverse repo",
+"Regulating foreign exchange reserves",
+"Issuing new currency notes"
+],
+"a":1
+},
+{
+"q":"An increase in Repo Rate by RBI is generally aimed at:",
+"o":[
+"Controlling inflation by making borrowing costlier",
+"Encouraging borrowing by banks",
+"Boosting exports",
+"Reducing the cash reserve ratio"
+],
+"a":0
+},
+{
+"q":"What is the main purpose of Open Market Operations (OMO)?",
+"o":[
+"To fund government spending",
+"To control stock market volatility",
+"To regulate medium- term liquidity in the economy",
+"To provide long-term capital to banks"
+],
+"a":2
+},
+{
+"q":"Who is the sole authority for issuing currency notes in India?",
+"o":[
+"Ministry of Finance",
+"State Bank of India",
+"Reserve Bank of India",
+"Indian Banks' Association"
+],
+"a":2
+},
+{
+"q":"The increasing importance of the foreign exchange market in India is due to:",
+"o":[
+"A decline in international investments",
+"India's isolation from global markets",
+"Restriction on currency exchange",
+"Increased trade and capital flows"
+],
+"a":3
+},
+{
+"q":"Which of the following is empowered to issue, renew, modify, suspend, or cancel registration certificates of insurers?",
+"o":[
+"IRDA",
+"SEBI",
+"RBI",
+"LIC"
+],
+"a":0
+},
+{
+"q":"Who supervises the functioning of the Tariff Advisory Committee?",
+"o":[
+"LIC",
+"RBI",
+"SEBI",
+"IRDA"
+],
+"a":3
+},
+{
+"q":"IRDA has the power to specify how insurers should:",
+"o":[
+"File for bankruptcy",
+"Maintain and report their accounts",
+"Manage real estate",
+"Issue credit cards"
+],
+"a":1
+},
+{
+"q":"How can an Angel Fund raise money?",
+"o":[
+"Through bank loans",
+"By issuing shares to the public",
+"By issuing units to angel investors",
+"By crowdfunding platforms"
+],
+"a":2
+},
+{
+"q":"Compared to mutual funds, hedge funds are:",
+"o":[
+"More regulated",
+"Less regulated",
+"Equally regulated",
+"Regulated by RBI"
+],
+"a":1
+},
+{
+"q":"A major characteristic of hedge fund returns is:",
+"o":[
+"Guaranteed fixed returns",
+"High correlation with equity markets",
+"Consistency of returns and capital preservation",
+"Government-backed guarantees"
+],
+"a":2
+},
+{
+"q":"Which of the following is a feature of hedge funds?",
+"o":[
+"Investment only in government securities",
+"Strict adherence to equity- only investment",
+"Flexibility in investment options",
+"Tax-free returns"
+],
+"a":2
+},
+{
+"q":"What is the main function of SEBI as per its preamble?",
+"o":[
+"To protect investors and regulate the securities market",
+"To promote foreign direct investment",
+"To regulate banks and insurance companies",
+"To provide loans to startups"
+],
+"a":0
+},
+{
+"q":"What is another name for the Primary Market?",
+"o":[
+"Old issue market",
+"New issue market",
+"Secondary market.",
+"Derivatives market"
+],
+"a":1
+},
+{
+"q":"What is another name for the Secondary Market?",
+"o":[
+"New issue market",
+"Bond market",
+"Derivatives market",
+"Stock market"
+],
+"a":3
+},
+{
+"q":"Who introduced Masala Bonds in India?",
+"o":[
+"Reserve Bank of India",
+"World Bank",
+"International Finance Corporation (IFC)",
+"Ministry of Finance"
+],
+"a":2
+},
+{
+"q":"Insider trading becomes illegal when:",
+"o":[
+"Done by a foreign investor",
+"It leads to a rise in share price",
+"It is based on confidential information not available to the public",
+"It is done through a SEBI-registered broker"
+],
+"a":2
+},
+{
+"q":"What does the repo rate represent?",
+"o":[
+"The inflation rate in the economy",
+"The annual interest rate earned on a repo transaction",
+"The profit earned from securities",
+"The tax rate on capital gains"
+],
+"a":1
+},
+{
+"q":"In which currency is a GDR typically denominated?",
+"o":[
+"Local currency",
+"British Pound",
+"Indian Rupee",
+"US Dollar"
+],
+"a":3
+},
+{
+"q":"Who facilitates the conversion of GDRs into underlying shares?",
+"o":[
+"Stock exchanges",
+"Government agencies",
+"Depository or custodian banks",
+"Mutual funds"
+],
+"a":2
+},
+{
+"q":"What formula is used to calculate the cost of equity capital under the CAPM model?",
+"o":[
+"$Ke=Rf\times\beta(Rm-Rf)$",
+"$Kc=Rm+Rf+\beta$",
+"$Ke=Rf+\beta(Rm-Rf)$",
+"$Ke=Rm\times\beta+Rf$"
+],
+"a":2
+},
+{
+"q":"If the risk-free rate is 14%, the market return is 18%, and $\beta=1,$ what is the cost of equity?",
+"o":[
+"14%",
+"16%",
+"18%",
+"20%"
+],
+"a":2
+},
+{
+"q":"What is the formula for calculating the cost of retained earnings (kr)?",
+"o":[
+"$kr=ke\times(1+t)\times(1+b)$",
+"$kr=ke\times(1-t)\times(1-b]$",
+"$kr=ke\div(l-t)$",
+"$kr=ke\times t\times b$"
+],
+"a":1
+},
+{
+"q":"Company X issues 11% bonds of 100 for an amount aggregating 200,000 at 10% premium, redeemable at par after 5 years. Corporate tax rate is 35%. The cost of bonds would be:",
+"o":[
+"4.90%",
+"5.00%",
+"5.20%",
+"6.00%"
+],
+"a":0
+},
+{
+"q":"Ramya Ltd.'s share beta factor is 1.40. The risk free rate of interest of government securities is 9%. The expected rate of return on the company equity shares is 16%. The cost of equity capital based on CAPM is:",
+"o":[
+"9%",
+"16%",
+"18.80%",
+"15.80%"
+],
+"a":2
+},
+{
+"q":"What does a positive Net Present Value (NPV) indicate about a project?",
+"o":[
+"The project generates returns lower than the firm's required rate",
+"The project will result in a loss",
+"The project earns a return higher than the required rate",
+"The firm should reject the project"
+],
+"a":2
+},
+{
+"q":"A company has the following data: Sales: 2,00,000 Variable Costs: 160,000 Fixed Costs: 220,000 What is the Degree of Operating Leverage (DOL)?",
+"o":[
+"1.5",
+"2",
+"2.5",
+"3"
+],
+"a":1
+},
+{
+"q":"A firm has: DOL = 4.0 DFL = 3.5 What is the Degree of Combined Leverage (DCL)?",
+"o":[
+"2.5",
+"3.5",
+"6",
+"14"
+],
+"a":3
+},
+{
+"q":"According to Walter's Model, when should a company retain its earnings?",
+"o":[
+"When return (r) < cost of capital (k)",
+"When return (r) = cost of capital (k)",
+"When return (r) > cost of capital (k)",
+"When the company has surplus cash"
+],
+"a":2
+},
+{
+"q":"If EBIT is 2,50,000 and Net Sales are 12,00,000, what is the Operating Profit Ratio?",
+"o":[
+"18.50%",
+"20.83%",
+"21.50%",
+"25%"
+],
+"a":1
+},
+{
+"q":"Operating Profit is also known as:",
+"o":[
+"Net Profit",
+"Gross Profit",
+"EBIT",
+"EBT"
+],
+"a":2
+},
+{
+"q":"What is the formula for Operating Profit Ratio?",
+"o":[
+"EBIT Total Assets 100",
+"Net Profit Net Sales 100",
+"Gross Profit Net Sales x 100",
+"EBIT Net Sales 100"
+],
+"a":3
+},
+{
+"q":"If the Cost of Goods Sold (COGS) is 28,00,000 and the Average Inventory is 22,00,000, what is the Inventory Turnover Ratio?",
+"o":[
+"4 times",
+"6 times",
+"7 times",
+"5 times"
+],
+"a":0
+},
+{
+"q":"A company has the following data: Net Credit Purchases 12,00,000, Opening Accounts Payable ₹4,00,000, Closing Accounts Payable 28,00,000. What is the Creditors Turnover Ratio?",
+"o":[
+"1.5 times",
+"2 times",
+"2.5 times",
+"3 times"
+],
+"a":1
+},
+{
+"q":"A company reports Net Annual Sales of ₹20,00,000 and has Working Capital of ₹5,00,000. What is the Working Capital Turnover Ratio?",
+"o":[
+"2.5 times",
+"4 times",
+"3 times",
+"10 times"
+],
+"a":1
+},
+{
+"q":"XYZ Ltd. has a Current Ratio of 3: 1 and Net Current Assets of 10,00,000. What are the Current Assets?",
+"o":[
+"10.00.000",
+"12,00,000",
+"15,00,000",
+"20,00,000"
+],
+"a":2
+},
+{
+"q":"A firm has Capital of 18,00,000; Sales of 9,00,000; Gross Profit of 3,00,000 and Expenses of 1,50,000. What is the Net Profit Ratio?",
+"o":[
+"10%",
+"16.67%",
+"20%",
+"25%"
+],
+"a":1
+},
+{
+"q":"Current Assets ₹50,00,000; Current Liabilities ₹20,00,000; and Stock ₹10,00,000. What is the Liquid Ratio?",
+"o":[
+"1.5 times",
+"2 times",
+"2.5 times",
+"1.75 times"
+],
+"a":1
+},
+{
+"q":"JK Ltd. has a gearing of 40%. Its cost of equity is 18%, and the cost of debt is 12%. The company's WACC is:",
+"o":[
+"15.60%",
+"16.20%",
+"13.20%",
+"12.80%"
+],
+"a":0
+},
+{
+"q":"X Ltd. has issued a 10% perpetual debt of ₹1,00,000 at par. The tax rate is 35%. What is the cost of capital?",
+"o":[
+"10% before tax: 6.5% after tax",
+"6.5% before tax: 10% after tax",
+"10% before tax: 3.5% after tax",
+"6.5% before tax 6.5% after tax"
+],
+"a":0
+},
+{
+"q":"Using the CAPM approach, determine the cost of equity capital from the following data:Risk-free rate 8% Market return = 13% Beta of the firm = 1.6",
+"o":[
+"13%",
+"16%",
+"15%",
+"18%"
+],
+"a":1
+},
+{
+"q":"Calculate the cost of equity capital of Mamon Ltd., whose risk-free rate is 10%, beta is 1.75, and market return is 15%.",
+"o":[
+"17.25%",
+"18.75%",
+"16.50%",
+"19.25%"
+],
+"a":1
+},
+{
+"q":"Net Income Approach to capital structure decision was proposed by",
+"o":[
+"J. E. Walter",
+"D. Durand",
+"E. Solomon",
+"M.H. Miller and D. Orr"
+],
+"a":1
+},
+{
+"q":"If a firm has a DOL of 3.5, it means:",
+"o":[
+"If sales increase by 3.5%, the EBIT will increase by 1%",
+"If EBIT increases by 3.5%, the EPS will increase by 1%",
+"If sales rise by 1%, EBIT will rise by 3.5%",
+"None of the above"
+],
+"a":2
+},
+{
+"q":"The Degree of Operating Leverage and Degree of Financial Leverage of VINTEX LTD. are 2.00 and 1.5 respectively. What will be the percentage change in EPS if the sales increase by 10%?",
+"o":[
+"10% increase",
+"30% increase",
+"35% increase",
+"15% increase"
+],
+"a":1
+},
+{
+"q":"What is data?",
+"o":[
+"Processed facts and figures with meaning",
+"Raw facts and figures, often numbers or text strings",
+"Analysis of information for decision making",
+"Knowledge gained from experience"
+],
+"a":1
+},
+{
+"q":"Which of the following represents the correct flow from raw input to decision making?",
+"o":[
+"Knowledge Data → Information",
+"Data Knowledge → Information",
+"Information → Data → Knowledge",
+"Data Information Knowledge"
+],
+"a":3
+},
+{
+"q":"Which of the following is an example of quantitative financial data?",
+"o":[
+"Management discussion and analysis in text",
+"Stock price data",
+"Executive interviews on business channels",
+"Video presentations"
+],
+"a":1
+},
+{
+"q":"Qualitative financial data can be in the form of:",
+"o":[
+"Financial statements",
+"Stock prices",
+"Text, videos, and audio",
+"Numerical tables"
+],
+"a":2
+},
+{
+"q":"Which of the following is easier after digitization?",
+"o":[
+"Reusing very large maps or data from microfilms.",
+"Increasing the size of physical files",
+"Preventing data backups",
+"Limiting data access to a single location"
+],
+"a":0
+},
+{
+"q":"Digitization requires:",
+"o":[
+"More physical storage space",
+"Less physical storage space",
+"No changes in storage requirements",
+"More manual filing"
+],
+"a":1
+},
+{
+"q":"Which of the following is a benefit of digitization during disasters?",
+"o":[
+"Makes backup files harder to retrieve",
+"Easier to keep backup files and retrieve data during unexpected disasters",
+"Increases physical storage space requirements",
+"Limits access to one location only"
+],
+"a":1
+},
+{
+"q":"Resources that may face quick destruction should be:",
+"o":[
+"Ignored",
+"Stored for later",
+"Given low priority",
+"Prioritized for early digitization"
+],
+"a":3
+},
+{
+"q":"In which phase is it decided whether digitization will be done in- house or outsourced?",
+"o":[
+"Justification",
+"Assessment",
+"Planning",
+"Digitization activities"
+],
+"a":2
+},
+{
+"q":"Which phase includes deciding the digitization format (e.g. consolidated or detailed)?",
+"o":[
+"Justification",
+"Assessment",
+"Planning",
+"Editing"
+],
+"a":1
+},
+{
+"q":"Which of the following is NOT part of the care of digitized records?",
+"o":[
+"Intellectual control over data",
+"Permission for accession of data",
+"Editing and cropping",
+"Maintenance and upkeeping"
+],
+"a":2
 }
 ]
